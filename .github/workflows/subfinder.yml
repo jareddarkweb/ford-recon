@@ -1,0 +1,40 @@
+name: Run Subfinder
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  subfinder:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v3
+      with:
+        go-version: "1.18"
+
+    - name: Install Subfinder
+      run: |
+        go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+        export PATH=$PATH:$(go env GOPATH)/bin
+
+    - name: Run Subfinder
+      run: bash subfinder.sh
+
+    - name: Compare Subdomains
+      run: bash compare_subdomains.sh
+
+    - name: Commit results
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add subdomains.txt new_subdomains.txt previous_subdomains.txt
+        git commit -m "Update subdomains"
+        git push
