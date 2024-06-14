@@ -358,6 +358,7 @@ ecaps-eu-prod.cf.app.ford.com
 ecaps-la-prod.cf.app.ford.com
 ecaps-prod.cf.app.ford.com
 ecaps-we-prod.cf.app.ford.com
+ecc.fcsd-parts.ford.com
 eccaa100.dearborn.ford.com
 eccaa300.nls.ford.com
 eccas1049.ecc2.ford.com
@@ -668,6 +669,11 @@ inventorymfoc.ford.com
 inventorymus.ford.com
 inventoryus.ford.com
 ip.ford.com
+iplsgrcd.fcsd-parts.ford.com
+iplsgrcp.fcsd-parts.ford.com
+iplsgrcq.fcsd-parts.ford.com
+iplss4.fcsd-parts.ford.com
+iplsspp.fcsd-parts.ford.com
 ita53500.b2d.ford.com
 ita57100.b2d.ford.com
 ita68500.b2d.ford.com
@@ -1398,6 +1404,7 @@ test.ffsupload.ford.com
 testravonline.myfcsdsales.ford.com
 tfoamsnglnpedu.pp.cf.app.ford.com
 tfoamsngqa.pp.cf.app.ford.com
+tm.fcsd-parts.ford.com
 tn3270.ford.com
 tooling.ford.com
 touch.ford.com
@@ -1526,8 +1533,10 @@ warriorsinpink.ford.com
 wayforward.ford.com
 wcd011.ford.com
 wcd012.ford.com
+web-auros.prod.cf.app.ford.com
 web-e2ks.prod.cf.app.ford.com
 web-ecommercefma-lnc.prod.cf.app.ford.com
+web-edb.prod.cf.app.ford.com
 web-fmaecommerce.prod.cf.app.ford.com
 web-meets.cf.app.ford.com
 web-stars-dealerconnection-com.cf.app.ford.com
@@ -2017,7 +2026,6 @@ www.action.ford.com
 www.addonprovider.ford.com
 www.admin-gam.ford.com
 www.admintool.ford.com
-www.advocacy.ford.com
 www.aerovision-stage.ford.com
 www.afr.ford.com
 www.afrl.ford.com
@@ -3407,7 +3415,6 @@ wwwperf-globalaccount-lincoln-mx.pp.cf.app.ford.com
 wwwperf-pcfservice-dlr.pp.cf.app.ford.com
 wwwperf.account.ford.com
 wwwperf.akamai.brandaplb.ford.com
-wwwperf.brandaplb1.ford.com
 wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
 wwwperf.brandauthorusb.ford.com
@@ -3907,6 +3914,8 @@ wwwqaa.quickquote.ford.com
 wwwqab.inventory.ford.com
 wwwqab.quickquote.ford.com
 wwwqadr.enginev2.ford.com
+wwwqalic-ecat-dlr.pp.cf.app.ford.com
+wwwqamg-ecat-dlr.pp.cf.app.ford.com
 wwwqamg.admin-gam.ford.com
 wwwqamg.admintool.ford.com
 wwwqamg.afr.ford.com
