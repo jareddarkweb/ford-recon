@@ -1572,6 +1572,7 @@ web.emmg.ford.com
 web.epay.ford.com
 web.erma.ford.com
 web.esmart2.ford.com
+web.favsvc.ford.com
 web.fcs.ford.com
 web.fcsd.ford.com
 web.fdilearning.ford.com
@@ -3414,7 +3415,6 @@ wwwperf-globalaccount-gcp.pp.cf.app.ford.com
 wwwperf-globalaccount-lincoln-mx.pp.cf.app.ford.com
 wwwperf-pcfservice-dlr.pp.cf.app.ford.com
 wwwperf.account.ford.com
-wwwperf.akamai.brandaplb.ford.com
 wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
 wwwperf.brandauthorusb.ford.com
