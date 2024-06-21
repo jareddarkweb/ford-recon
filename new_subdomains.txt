@@ -139,6 +139,7 @@ apicollector-stage-gcp.ford.com
 apideveloper.app.ford.com
 apideveloperqa.app.ford.com
 apiedu-stars-employeeprofile.pp.cf.app.ford.com
+apiedu.stars-employeeprofile.ford.com
 apiguide.cf.app.ford.com
 apipublisher-helloapptesting-pp-apiplatform.pp.cf.app.ford.com
 apiqa-agenda.pp.cf.app.ford.com
@@ -740,7 +741,6 @@ m.secure.india.ford.com
 m.ssa.ford.com
 m.uspac.ford.com
 ma.ford.com
-mach-e.ford.com
 managecredential.ford.com
 maqa.ford.com
 mcs-edu.cf.app.ford.com
@@ -1090,8 +1090,6 @@ proj.extsp.ford.com
 proj.sp.ford.com
 proveedores.ford.com
 psoh-wlp-prd.prod.cf.app.ford.com
-ptof-gcp.prod.cf.app.ford.com
-ptof.ford.com
 pubqa.wcccs.ford.com
 pubqa.webconnect.ford.com
 pw.ford.com
@@ -1994,7 +1992,6 @@ www-remarketing-dealerconnection-com.prod.cf.app.ford.com
 www-rim.cf.app.ford.com
 www-rim.prod.cf.app.ford.com
 www-starsxp-dealerconnection-com.cf.app.ford.com
-www-starsxp-dealerconnection-com.prod.cf.app.ford.com
 www-sustainablecharging.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-twvu.cf.app.ford.com
@@ -2163,7 +2160,6 @@ www.espservices.ford.com
 www.etis.ford.com
 www.etisload.ford.com
 www.exportsystem.ford.com
-www.fafc.callservice.ford.com
 www.fafcaims.ford.com
 www.faia.ford.com
 www.fbms.ford.com
@@ -3741,6 +3737,7 @@ wwwqa.manager-gam.ford.com
 wwwqa.mia.fsao.ford.com
 wwwqa.mis.dearborn.ford.com
 wwwqa.mk.ford.com
+wwwqa.mnvglobalfinancecalculator.ford.com
 wwwqa.mt.bp3.ford.com
 wwwqa.mt.bp3a.ford.com
 wwwqa.mt.bp3b.ford.com
