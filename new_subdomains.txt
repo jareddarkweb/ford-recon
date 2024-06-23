@@ -1469,7 +1469,6 @@ vmacs.ford.com
 vms.ford.com
 voarg.ford.com
 volunteer.ford.com
-vows-bulk-spec-amend-grouping-ui-prod-dlr.prod.cf.app.ford.com
 vpnap1.ford.com
 vpnap2.ford.com
 vpnap3.ford.com
@@ -1996,7 +1995,6 @@ www-tradein-dev.pp.cf.app.ford.com
 www-vehiclecybersecurityaccess.prod.cf.app.ford.com
 www-vin-to-part-sca-v.cf.app.ford.com
 www-wass.cf.app.ford.com
-www-wingsi-api.cf.app.ford.com
 www-wltpbe.cf.app.ford.com
 www-wltpfe.cf.app.ford.com
 www-wvta.cf.app.ford.com
