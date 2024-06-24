@@ -2505,7 +2505,6 @@ www.webquote1.ford.com
 www.wfsharebi.ford.com
 www.wfsharebi1.ford.com
 www.wfsharebi2.ford.com
-www.wingsi.api.ford.com
 www.wlrr.ford.com
 www.wltpbe.ford.com
 www.wltpfe.ford.com
