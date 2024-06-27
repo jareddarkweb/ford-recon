@@ -1053,6 +1053,7 @@ pah740.ford.com
 pah741.ford.com
 pah770.ford.com
 pah780.ford.com
+pamauthor.cloud.app.ford.com
 panda.ford.com
 pandap.ford.com
 pandaq.ford.com
@@ -1452,8 +1453,6 @@ uvissuites-s3-service-qa.pp.cf.app.ford.com
 uvissuites-sale-balancing-service-qa-vrs.pp.cf.app.ford.com
 uviswl-test.cf.app.ford.com
 uviswl-test.pp.cf.app.ford.com
-vaccination.cf.app.ford.com
-vaccination.prod.cf.app.ford.com
 vanguard.cloud.app.ford.com
 vast.ford.com
 vdscentral.ford.com
@@ -1465,7 +1464,6 @@ vdstopl.ford.com
 ve.ford.com
 vibesintegrationedu-ici.pp.cf.app.ford.com
 vibez.cf.app.ford.com
-vinhelper-ici.cf.app.ford.com
 visitorservice-edu.pp.cf.app.ford.com
 vm4.dearborn.ford.com
 vmacs.ford.com
@@ -1541,8 +1539,6 @@ web-auros.prod.cf.app.ford.com
 web-e2ks.prod.cf.app.ford.com
 web-ecommercefma-lnc.prod.cf.app.ford.com
 web-edb.prod.cf.app.ford.com
-web-meets.cf.app.ford.com
-web-stars-dealerconnection-com.cf.app.ford.com
 web.aim.ford.com
 web.anaqua.ford.com
 web.auros.ford.com
@@ -1996,7 +1992,7 @@ www-rim.prod.cf.app.ford.com
 www-sustainablecharging.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-vehiclecybersecurityaccess.prod.cf.app.ford.com
-www-vin-to-part-sca-v.cf.app.ford.com
+www-vsemwebj.app.ford.com
 www-wass.cf.app.ford.com
 www-wvta.cf.app.ford.com
 www.360.ford.com
@@ -2487,6 +2483,7 @@ www.vrhub.ford.com
 www.vrmedia.ford.com
 www.vsem.ford.com
 www.vsemweb.ford.com
+www.vsemwebj.ford.com
 www.warranty.ford.com
 www.warrantyauthoring.ford.com
 www.warrantybre.ford.com
