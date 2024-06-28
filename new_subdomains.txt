@@ -306,6 +306,7 @@ cudlvip2-prod.ecc1.ford.com
 customizerservices.ford.com
 customsisf.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
+dataexploreruat.ec.ford.com
 ddl.ford.com
 dealer.wcccs.ford.com
 dealer.webconnect.ford.com
@@ -722,6 +723,7 @@ login.cl-sandbox01.cf.ford.com
 login.sys.cl-dev01.cf.ford.com
 login.sys.cl-west-sandbox01.cf.ford.com
 lom.ford.com
+loyalty-webpages-bundle-stage-stealth.ford.com
 lyncpadmin.ford.com
 m.asiapacific.ford.com
 m.caribbean.ford.com
@@ -1083,7 +1085,6 @@ preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
 prisma-syslog.app.ford.com
 prod-fwbx-gcp.prod.cf.app.ford.com
-prod.fpinsure.app.gcp.ford.com
 prod.fppwbx.ford.com
 prod.fwbx.ford.com
 prodcmsweb01.ford.com
@@ -1338,6 +1339,7 @@ slbworkerdev.pp.cf.app.ford.com
 smartvincent-wlpedu.pp.cf.app.ford.com
 smartvincent-wlpqa.pp.cf.app.ford.com
 smetrics.ford.com
+smoke-solr-master.gep.ford.com
 social.ford.com
 socialqa.ford.com
 speedy.ford.com
@@ -1402,8 +1404,6 @@ team.extsp.ford.com
 team.sp.ford.com
 teamcenter2pdcloc1.ford.com
 teamcenterfoa1pe1.ford.com
-techanywhere.cf.app.ford.com
-techanywhere.ford.com
 test-monitor.pp.cf.app.ford.com
 test.accessories.ford.com
 test.ffsupload.ford.com
@@ -1463,7 +1463,6 @@ vdsrprtg.ford.com
 vdstopl.ford.com
 ve.ford.com
 vibesintegrationedu-ici.pp.cf.app.ford.com
-vibez.cf.app.ford.com
 visitorservice-edu.pp.cf.app.ford.com
 vm4.dearborn.ford.com
 vmacs.ford.com
@@ -2447,7 +2446,6 @@ www.tc2.ford.com
 www.teamcenter2pdcloc1.ford.com
 www.teamcenterfoa1pe1.ford.com
 www.teamcenterfoe1pe1.ford.com
-www.techanywhere.ford.com
 www.ter.ford.com
 www.tkb.ford.com
 www.tooling.ford.com
@@ -2471,7 +2469,6 @@ www.ve.ford.com
 www.vehiclecybersecurityaccess.ford.com
 www.vfs.ford.com
 www.vhi.fsao.ford.com
-www.vin-to-part.sca-v.ford.com
 www.vista.ford.com
 www.vmacs.ford.com
 www.vms.ford.com
@@ -2956,7 +2953,6 @@ wwwedu-nvolincolnca.pp.cf.app.ford.com
 wwwedu-oca-ford-ca.pp.cf.app.ford.com
 wwwedu-oca.pp.cf.app.ford.com
 wwwedu-paymentcalculator-ford-ca.pp.cf.app.ford.com
-wwwedu-paymentcalculator.pp.cf.app.ford.com
 wwwedu-preapprovals.pp.cf.app.ford.com
 wwwedu-privacyprotection.pp.cf.app.ford.com
 wwwedu-stars-lbservices.pp.cf.app.ford.com
@@ -3028,7 +3024,6 @@ wwwedu.ngpublisher.ford.com
 wwwedu.nvous.ford.com
 wwwedu.nvousa.ford.com
 wwwedu.nvousb.ford.com
-wwwedu.paymentcalculator.ford.com
 wwwedu.proveedores.ford.com
 wwwedu.pshr.ford.com
 wwwedu.pw.ford.com
