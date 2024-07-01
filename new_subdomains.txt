@@ -1451,7 +1451,6 @@ uvissuites-maintenance-tera-service-qa.pp.cf.app.ford.com
 uvissuites-reports-service-qa.pp.cf.app.ford.com
 uvissuites-s3-service-qa.pp.cf.app.ford.com
 uvissuites-sale-balancing-service-qa-vrs.pp.cf.app.ford.com
-uviswl-test.cf.app.ford.com
 vanguard.cloud.app.ford.com
 vast.ford.com
 vdscentral.ford.com
