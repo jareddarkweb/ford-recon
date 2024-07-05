@@ -1937,7 +1937,6 @@ wslb2bf.ford.com
 wsle.ford.com
 wslf.ford.com
 wssuitetest.ext.ford.com
-www-avcci-customer-context.cf.app.ford.com
 www-cam-qa-external.pp.cf.app.ford.com
 www-ccd-dealerconnection-com.prod.cf.app.ford.com
 www-centraldevendas.prod.cf.app.ford.com
@@ -1989,7 +1988,6 @@ www-vsemwebj.app.ford.com
 www-wass.cf.app.ford.com
 www-wvta.cf.app.ford.com
 www.360.ford.com
-www.3dstp.ford.com
 www.aal.ford.com
 www.accdocs.ford.com
 www.accessories.ford.com
@@ -3463,7 +3461,6 @@ wwwqa-fleetlogin.pp.cf.app.ford.com
 wwwqa-fleetsecurity.pp.cf.app.ford.com
 wwwqa-flmms-mob.pp.cf.app.ford.com
 wwwqa-focfacilities.pp.cf.app.ford.com
-wwwqa-fws.pp.cf.app.ford.com
 wwwqa-fwsmain.pp.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
@@ -3483,7 +3480,6 @@ wwwqa-workingcondition.pp.cf.app.ford.com
 wwwqa-ws-fceaims.pp.cf.app.ford.com
 wwwqa-ws.fceaims.ford.com
 wwwqa.360.ford.com
-wwwqa.3dstp.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
 wwwqa.account.ford.com
