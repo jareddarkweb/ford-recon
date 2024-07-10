@@ -1392,7 +1392,6 @@ supplier.webconnect.ford.com
 supplierinfo.ford.com
 support.ford.com
 sustainability.ford.com
-sustainablecharging.ford.com
 svs.fsao.ford.com
 svt.ford.com
 syncdevicecompatibility.ford.com
@@ -1976,7 +1975,6 @@ www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
 www-remarketing-dealerconnection-com.cf.app.ford.com
 www-remarketing-dealerconnection-com.prod.cf.app.ford.com
-www-sustainablecharging.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-vsemwebj.app.ford.com
 www-wass.cf.app.ford.com
@@ -3453,7 +3451,6 @@ wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
 wwwqa-gearupload.app.ford.com
 wwwqa-omnicraft-ar.pp.cf.app.ford.com
-wwwqa-orderpricingguides-dlr.pp.cf.app.ford.com
 wwwqa-retforms.pp.cf.app.ford.com
 wwwqa-scorm-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-usw2online.pp.cf.app.ford.com
