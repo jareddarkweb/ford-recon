@@ -372,7 +372,6 @@ drive-wlpqa.cf.app.ford.com
 drive-wlpqa.pp.cf.app.ford.com
 dts.ford.com
 dvprprodpcf-wlp.cf.app.ford.com
-earlyaccess.ford.com
 eassets.ford.com
 ebcmws.ford.com
 ebcmwsprod.cf.app.ford.com
@@ -1999,6 +1998,7 @@ www-fcsd-parts-ru-q.fmc1.ford.com
 www-fcsd-parts-ru.ecc1.ford.com
 www-fcsd-parts-ru.fmc1.ford.com
 www-fedev2.pp.cf.app.ford.com
+www-fordclassic.app.ford.com
 www-gpas-origin.prod.cf.app.ford.com
 www-gtacng-dealerconnection-com.prod.cf.app.ford.com
 www-hvbatt-gcp.prod.cf.app.ford.com
