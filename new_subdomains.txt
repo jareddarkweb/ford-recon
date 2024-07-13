@@ -1468,6 +1468,7 @@ uaa.cl-dev01.cf.ford.com
 uaa.cl-sandbox01.cf.ford.com
 uaa.sys.cl-dev01.cf.ford.com
 uaa.sys.cl-west-sandbox01.cf.ford.com
+uat-fordmapping.pp.cf.app.ford.com
 uat.sdn.ford.com
 uemmqa-dynatrace.pp.cf.app.ford.com
 urs.ford.com
@@ -3443,7 +3444,6 @@ wwwqa-api-epsw.pp.cf.app.ford.com
 wwwqa-arck.pp.cf.app.ford.com
 wwwqa-arsom.pp.cf.app.ford.com
 wwwqa-authagent-lincoln-com.pp.cf.app.ford.com
-wwwqa-away-message-webexteams.pp.cf.app.ford.com
 wwwqa-axz.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
@@ -3674,7 +3674,6 @@ wwwqa.ivis2.ford.com
 wwwqa.ivis3.ford.com
 wwwqa.ivisb.ford.com
 wwwqa.ivs.ford.com
-wwwqa.ivs1.ford.com
 wwwqa.jlrivs.ford.com
 wwwqa.kbi.fsao.ford.com
 wwwqa.kdes.ford.com
