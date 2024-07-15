@@ -17,16 +17,17 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install httpx
+      - name: Install httpx with CLI dependencies
         run: |
-          pip install httpx
-
+          pip install 'httpx[cli]'
+          
       - name: Run httpx to find live subdomains
         run: |
           httpx -l new_subdomains.txt -o scan001.txt
-
+          
       - name: Upload scan001.txt as artifact
         uses: actions/upload-artifact@v3
         with:
           name: live-subdomains
           path: scan001.txt
+
