@@ -22,7 +22,7 @@ jobs:
       - name: Run ffuf to find directories
         run: |
           cat scan001.txt | while read subdomain; do
-            ffuf -w directorys1.txt -u http://$subdomain/FUZZ -o temp_result.txt -of csv
+            ffuf -w directorys.txt -u http://$subdomain/FUZZ -o temp_result.txt -of csv
             cat temp_result.txt | grep ",200," | cut -d',' -f1 >> directorys.txt
           done
 
