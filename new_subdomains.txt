@@ -2013,6 +2013,7 @@ www-redlb.app.ford.com
 www-remarketing-dealerconnection-com.cf.app.ford.com
 www-remarketing-dealerconnection-com.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
+www-tradein-qa.pp.cf.app.ford.com
 www-vsemwebj.app.ford.com
 www-wass.cf.app.ford.com
 www-wvta.cf.app.ford.com
@@ -3442,7 +3443,6 @@ wwwqa-api-ecar.pp.cf.app.ford.com
 wwwqa-api-epsw.pp.cf.app.ford.com
 wwwqa-arck.pp.cf.app.ford.com
 wwwqa-arsom.pp.cf.app.ford.com
-wwwqa-authagent-lincoln-com.pp.cf.app.ford.com
 wwwqa-axz.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
