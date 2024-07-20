@@ -232,6 +232,7 @@ bpus.ford.com
 brandauthorus.ford.com
 brandus.ford.com
 build.ford.com
+c8pci.app.ford.com
 c8rci.app.ford.com
 caasapps-pd01.app.ford.com
 caasapps-pp01.app.ford.com
@@ -2014,8 +2015,6 @@ www-remarketing-dealerconnection-com.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
 www-vsemwebj.app.ford.com
-www-wass.cf.app.ford.com
-www-wvta.cf.app.ford.com
 www.360.ford.com
 www.aal.ford.com
 www.accdocs.ford.com
@@ -2542,7 +2541,6 @@ www.wslb2bf.ford.com
 www.wsle.ford.com
 www.wslf.ford.com
 www.wss.ford.com
-www.wvta.ford.com
 www.xsbeurope.ford.com
 www2.fcs.ford.com
 wwwa.inventory.ford.com
@@ -3441,7 +3439,6 @@ wwwqa-api-auros.pp.cf.app.ford.com
 wwwqa-api-ecar.pp.cf.app.ford.com
 wwwqa-api-epsw.pp.cf.app.ford.com
 wwwqa-arck.pp.cf.app.ford.com
-wwwqa-arsom.pp.cf.app.ford.com
 wwwqa-axz.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
