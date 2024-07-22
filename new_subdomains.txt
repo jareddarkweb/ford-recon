@@ -279,6 +279,7 @@ cloud.eustage.ford.com
 clw.ford.com
 clwa.ford.com
 clwb.ford.com
+cmi-prod.cf.app.ford.com
 cmi-qa.cf.app.ford.com
 cmi-qa.pp.cf.app.ford.com
 cns.ford.com
@@ -603,6 +604,7 @@ fordvehiclesfoca.ford.com
 fordvehiclesfocb.ford.com
 fordvehiclesus.ford.com
 fordviswsl.ford.com
+fp.agenda.ford.com
 fpqa-agenda.pp.cf.app.ford.com
 fpqa.agenda.ford.com
 fqacnapi.cv.ford.com
@@ -651,6 +653,7 @@ gux-test-ford.pp.cf.app.ford.com
 gvmsr-vinreceiver.ford.com
 hdds2.ford.com
 history-fpqa-agenda.pp.cf.app.ford.com
+history.fp.agenda.ford.com
 history.fpqa.agenda.ford.com
 home-tpd-dlr.prod.cf.app.ford.com
 hronline.ford.com
@@ -972,6 +975,7 @@ originqa.support.ford.com
 originqa2.owner.ford.com
 osb-dlr.prod.cf.app.ford.com
 osb-fpqa-agenda.pp.cf.app.ford.com
+osb.fp.agenda.ford.com
 osb.fpqa.agenda.ford.com
 outdoorgateway.ford.com
 ovf-educommon.cf.app.ford.com
@@ -1410,6 +1414,7 @@ staging.safetyinsights.ford.com
 stamps-esp.ford.com
 staponline.ford.com
 status-fpqa-agenda.pp.cf.app.ford.com
+status.fp.agenda.ford.com
 status.fpqa.agenda.ford.com
 stg-fppwbx-gcp.pp.cf.app.ford.com
 stg-fwbx-gcp.pp.cf.app.ford.com
@@ -2010,8 +2015,6 @@ www-pandap2.app.ford.com
 www-pcf.emivis.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
-www-remarketing-dealerconnection-com.cf.app.ford.com
-www-remarketing-dealerconnection-com.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
 www-vsemwebj.app.ford.com
@@ -3433,11 +3436,6 @@ wwwperfext-authagent.pp.cf.app.ford.com
 wwwprod-engine.ford.com
 wwwprod.iicsnectarprod.ford.com
 wwwqa-accessorizemyride.pp.cf.app.ford.com
-wwwqa-agenda.pp.cf.app.ford.com
-wwwqa-api-auros.pp.cf.app.ford.com
-wwwqa-api-ecar.pp.cf.app.ford.com
-wwwqa-api-epsw.pp.cf.app.ford.com
-wwwqa-arck.pp.cf.app.ford.com
 wwwqa-axz.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
