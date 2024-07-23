@@ -53,6 +53,7 @@ alpha-match.ford.com
 am-client-qa-credit-am-eu.pp.cf.app.ford.com
 am-cloc-request-increase-prod.ford.com
 am-request-increase-cloc-qa.ford.com
+ampgfi.app.ford.com
 annualreport.ford.com
 apdlr-qa.ecc1.ford.com
 apdlrvip1-prod.fmc1.ford.com
@@ -344,6 +345,7 @@ dev-fppwbx-gcp.pp.cf.app.ford.com
 dev-fwbx-gcp.pp.cf.app.ford.com
 dev-ocpp-gcp-gcp.pp.cf.app.ford.com
 dev-retroquest.pp.cf.app.ford.com
+dev-vma-webservice.pp.cf.app.ford.com
 dev.canada.fleet.ford.com
 dev.fleet.ford.com
 dev.fppwbx.ford.com
@@ -843,6 +845,8 @@ myreleasesqa.ford.com
 mysite.sp.ford.com
 mysite.spt.ford.com
 myvpn.ford.com
+na-copy-qa.pp.cf.app.ford.com
+na-standalone-gateway-qa.pp.cf.app.ford.com
 na.fps.ford.com
 na.fpsqa.ford.com
 naecas01.exchange.ford.com
@@ -3425,17 +3429,13 @@ wwwperf-globalaccount-gcp.pp.cf.app.ford.com
 wwwperf-globalaccount-lincoln-mx.pp.cf.app.ford.com
 wwwperf-mothersite-support-hub.pp.cf.app.ford.com
 wwwperf-pcfservice-dlr.pp.cf.app.ford.com
-wwwperf-support-hub.pp.cf.app.ford.com
 wwwperf.account.ford.com
 wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
 wwwperf.brandauthorusb.ford.com
 wwwperf2-beta-de.brandeulb.ford.com
-wwwperfext-authagent-lincoln.pp.cf.app.ford.com
-wwwperfext-authagent.pp.cf.app.ford.com
 wwwprod-engine.ford.com
 wwwprod.iicsnectarprod.ford.com
-wwwqa-accessorizemyride.pp.cf.app.ford.com
 wwwqa-axz.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
