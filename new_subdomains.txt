@@ -238,6 +238,7 @@ c8rci.app.ford.com
 caasapps-pd01.app.ford.com
 caasapps-pp01.app.ford.com
 caasextapps-pd01.app.ford.com
+caasextapps-pd1020.app.ford.com
 caasextapps-pd104.app.ford.com
 caasextapps-pd105.app.ford.com
 caasextapps-pd11.app.ford.com
@@ -3428,7 +3429,6 @@ wwwperf-digitalservices.pp.cf.app.ford.com
 wwwperf-globalaccount-gcp.pp.cf.app.ford.com
 wwwperf-globalaccount-lincoln-mx.pp.cf.app.ford.com
 wwwperf-mothersite-support-hub.pp.cf.app.ford.com
-wwwperf-pcfservice-dlr.pp.cf.app.ford.com
 wwwperf.account.ford.com
 wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
