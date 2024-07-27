@@ -3440,8 +3440,6 @@ wwwqa-axz.cf.app.ford.com
 wwwqa-gcp.documents.ford.com
 wwwqa-gearupload-lb.app.ford.com
 wwwqa-gearupload.app.ford.com
-wwwqa-omnicraft-ar.pp.cf.app.ford.com
-wwwqa-retforms.pp.cf.app.ford.com
 wwwqa-scorm-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-usw2online.pp.cf.app.ford.com
 wwwqa-webexteams.pp.cf.app.ford.com
