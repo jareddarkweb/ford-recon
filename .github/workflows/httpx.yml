@@ -23,7 +23,7 @@ jobs:
           
       - name: Run httpx to find live subdomains
         run: |
-          cat new_subdomains.txt | httpx -o scan001.txt
+          httpx -l new_subdomains.txt > scan001.txt
           
       - name: Upload scan001.txt as artifact
         uses: actions/upload-artifact@v3
