@@ -23,7 +23,11 @@ jobs:
           
       - name: Run httpx to find live subdomains
         run: |
-          httpx -l new_subdomains.txt > scan001.txt
+          touch scan001.txt
+          while IFS= read -r url; do
+            echo "Checking $url" >> scan001.txt
+            httpx -u "$url" -mc 200 >> scan001.txt
+          done < new_subdomains.txt
           
       - name: Upload scan001.txt as artifact
         uses: actions/upload-artifact@v3
