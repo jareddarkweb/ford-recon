@@ -136,7 +136,6 @@ api-uat-swcm.cf.app.ford.com
 api-uat-swcm.pp.cf.app.ford.com
 api-uat-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-vehiclesetup-isis.pp.cf.app.ford.com
-api-vehicleinfo-gtacng-dlr.prod.cf.app.ford.com
 api-vehicleremarketing.cf.app.ford.com
 api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
 api-wings-o.prod.cf.app.ford.com
