@@ -2318,6 +2318,7 @@ www.mimdmqa.ford.com
 www.mis.dearborn.ford.com
 www.mis.fsao.ford.com
 www.mk.ford.com
+www.mnv-direct.ford.com
 www.mondeo.ford.com
 www.motorcraft-arg.ford.com
 www.motorcraft.ar.ford.com
@@ -4063,8 +4064,6 @@ wwwqamg4.bpm.ford.com
 wwwqamg4.ivs.ford.com
 wwwqamg5.ivs.ford.com
 wwwqatest.fordcreditbr.ford.com
-wwwstgedu-dsps.pp.cf.app.ford.com
-wwwstgedu.dsps.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
 wwwtest.r1.xnet.ford.com
