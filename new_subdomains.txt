@@ -1828,6 +1828,7 @@ webqa-isis.pp.cf.app.ford.com
 webqa-na-fleet.pp.cf.app.ford.com
 webqa-stamps-j2.pp.cf.app.ford.com
 webqa-wap.pp.cf.app.ford.com
+webqa.agenda.ford.com
 webqa.aim.ford.com
 webqa.anaqua.ford.com
 webqa.avbom-tce.ford.com
@@ -3176,7 +3177,6 @@ wwwint.brandauthorusa.ford.com
 wwwint.brandauthorusb.ford.com
 wwwit-fctoolkit-dealerconnection-com.cf.app.ford.com
 wwwlnp-edu-gtac-dlr.pp.cf.app.ford.com
-wwwlnp-edu-gtacng-dealerconnection.pp.cf.app.ford.com
 wwwmg-origin.ar.ford.com
 wwwmg.admin-gam.ford.com
 wwwmg.admintool.ford.com
@@ -3424,11 +3424,6 @@ wwwmg5.ivs.ford.com
 wwwpcf-efris.cf.app.ford.com
 wwwpcf-efris.prod.cf.app.ford.com
 wwwpcf.efris.ford.com
-wwwperf-authagent-lincoln.pp.cf.app.ford.com
-wwwperf-digitalservices.pp.cf.app.ford.com
-wwwperf-globalaccount-gcp.pp.cf.app.ford.com
-wwwperf-globalaccount-lincoln-mx.pp.cf.app.ford.com
-wwwperf-mothersite-support-hub.pp.cf.app.ford.com
 wwwperf.account.ford.com
 wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
