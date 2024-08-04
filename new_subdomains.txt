@@ -1137,6 +1137,7 @@ prodweb.ford.com
 prodweb2.ford.com
 proj.extsp.ford.com
 proj.sp.ford.com
+pron.eswitch-fpg-web.app.gcp.ford.com
 proveedores.ford.com
 psoh-wlp-prd.prod.cf.app.ford.com
 pubqa.wcccs.ford.com
@@ -3724,7 +3725,6 @@ wwwqa.rapid.ford.com
 wwwqa.rea.ford.com
 wwwqa.request.ford.com
 wwwqa.requesttestwork.ford.com
-wwwqa.retailreportingbackend.ford.com
 wwwqa.retailreportingfrontend.ford.com
 wwwqa.rex.ford.com
 wwwqa.rfq.ford.com
