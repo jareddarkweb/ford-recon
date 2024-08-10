@@ -101,7 +101,6 @@ api-qa-reservas.pp.cf.app.ford.com
 api-qa-selfjoinbot-webexteams.pp.cf.app.ford.com
 api-qa-starsservices-tfoamsng.pp.cf.app.ford.com
 api-qa-vehiclesetup-isis.pp.cf.app.ford.com
-api-qa.message-export-service.webexteams.ford.com
 api-qa.selfjoinbot.webexteams.ford.com
 api-qa01e-gcp.pp.cf.app.ford.com
 api-qavehicleremarketing.cf.app.ford.com
@@ -2042,7 +2041,6 @@ www.americasteam.ford.com
 www.americasteamsite.ford.com
 www.apg.ford.com
 www.app-fcsre.ford.com
-www.app.dealeradvisor.fmccdealeradvisor.ford.com
 www.apqp.ford.com
 www.aps.ford.com
 www.ar.ford.com
@@ -2054,6 +2052,7 @@ www.autoshows.ford.com
 www.axz-canada.ford.com
 www.axz.ford.com
 www.b2c.webmonitor.ford.com
+www.b2cglobal2authorlb.ford.com
 www.backlog.ford.com
 www.batch.fceaims.ford.com
 www.bcfap.ford.com
@@ -2091,6 +2090,7 @@ www.centraldevendas.ford.com
 www.centroamerica.ford.com
 www.cfa.ford.com
 www.changepassword.ford.com
+www.climeslb.ford.com
 www.clipsheet.ford.com
 www.clw.ford.com
 www.clwa.ford.com
@@ -2334,6 +2334,7 @@ www.ngpcms01.ford.com
 www.ngpublisher.ford.com
 www.nguams.ford.com
 www.nmpdcglobal.ford.com
+www.nvcnalb.ford.com
 www.nvous.ford.com
 www.nvousa.ford.com
 www.nvousb.ford.com
@@ -2416,6 +2417,7 @@ www.scm.ford.com
 www.sdcds.ford.com
 www.sdm.ford.com
 www.sds2sms.ford.com
+www.search-inventory.ford.com
 www.secure.asiapacific.ford.com
 www.secure.centroamerica.ford.com
 www.secure.dragonfly.ford.com
@@ -3005,8 +3007,6 @@ wwwedu-testmdp.pp.cf.app.ford.com
 wwwedu-tfoamsng.pp.cf.app.ford.com
 wwwedu-wiqs-dealerconnection-com.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
-wwwedu.app.dealerpartnership.fmccdealeradvisor.ford.com
-wwwedu.app.dealerpartnershipfwd.fmccdealeradvisor.ford.com
 wwwedu.apqp.ford.com
 wwwedu.bp3.ford.com
 wwwedu.bp3a.ford.com
@@ -3621,6 +3621,7 @@ wwwqa.hdds2.ford.com
 wwwqa.hronline.ford.com
 wwwqa.hronline2.ford.com
 wwwqa.idea.ford.com
+wwwqa.ideaplace.ford.com
 wwwqa.imagine.ford.com
 wwwqa.imcs.ford.com
 wwwqa.impex.ford.com
