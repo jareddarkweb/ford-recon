@@ -2369,6 +2369,7 @@ www.prod.gspas.ford.com
 www.professionaldevelopment.ford.com
 www.proveedores.ford.com
 www.proximity.auros.ford.com
+www.prp.ford.com
 www.pshr.ford.com
 www.pulse.ford.com
 www.pw.ford.com
@@ -3103,6 +3104,7 @@ wwwedu.webquote.ford.com
 wwwedu.webquote1.ford.com
 wwwedu.wlrr.ford.com
 wwwedu.xsbeurope.ford.com
+wwwedu2.nvous.ford.com
 wwwedua.inventory.ford.com
 wwwedua.quickquote.ford.com
 wwwedub.inventory.ford.com
@@ -3543,8 +3545,6 @@ wwwqa.esow.ford.com
 wwwqa.etis.ford.com
 wwwqa.exportsystem.ford.com
 wwwqa.fbms.ford.com
-wwwqa.fcecomcnc-test-ui.ford.com
-wwwqa.fcecomcnc.ford.com
 wwwqa.fcs.ford.com
 wwwqa.fcsd-parts-na.ford.com
 wwwqa.fcsd-parts.ford.com
