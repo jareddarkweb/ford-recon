@@ -8,6 +8,7 @@ accountdev.ford.com
 accountedu.ford.com
 accountmanager-lincoln-com.cf.app.ford.com
 accountmanager-lincoln-qa.pp.cf.app.ford.com
+accountmanager-lincoln.qa.ford.com
 accountmanager-qa.pp.cf.app.ford.com
 accountmanager.cf.app.ford.com
 accountmanager.ford.com
@@ -325,6 +326,8 @@ customizerservices.ford.com
 customsisf.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
 dataexploreruat.ec.ford.com
+dcc-backend.ford.com
+dcc-backend.prod.cf.app.ford.com
 ddl.ford.com
 dealer.agenda.ford.com
 dealer.wcccs.ford.com
@@ -2406,6 +2409,7 @@ www.rex.ford.com
 www.rfq.ford.com
 www.rrp.ford.com
 www.s2o.ford.com
+www.s2uploadcn.ford.com
 www.scm.ford.com
 www.sdcds.ford.com
 www.sdm.ford.com
