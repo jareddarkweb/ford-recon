@@ -2463,6 +2463,7 @@ www.suppcomm.ford.com
 www.supplier.ford.com
 www.supplier.wcccs.ford.com
 www.supplier.webconnect.ford.com
+www.supplierassessments.ford.com
 www.supplierinfo.ford.com
 www.support.ford.com
 www.sustainability.ford.com
