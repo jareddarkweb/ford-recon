@@ -583,6 +583,7 @@ fmms.ford.com
 focapi.cf.app.ford.com
 fomei.ford.com
 fomonbase.ford.com
+ford-fusion.pages.ford.com
 fordav.ford.com
 fordbrandprotection.ford.com
 fordcl.ford.com
@@ -1122,7 +1123,6 @@ powershell.qad.ford.com
 preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
 prod-fwbx-gcp.prod.cf.app.ford.com
-prod.fppwbx.ford.com
 prod.fwbx.ford.com
 prod.magicinfo.ford.com
 prodcmsweb01.ford.com
@@ -1983,7 +1983,6 @@ www-contrack.prod.cf.app.ford.com
 www-dealoptimizer-dlr.prod.cf.app.ford.com
 www-deliveryday-dev.pp.cf.app.ford.com
 www-deliveryday-qa.pp.cf.app.ford.com
-www-dtadcmbe.prod.cf.app.ford.com
 www-eams-rally-alignment-tool-qa.pp.cf.app.ford.com
 www-eblesscapswe-qa-ext-dlr.pp.cf.app.ford.com
 www-emp-sa-service.prod.cf.app.ford.com
