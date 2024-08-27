@@ -75,6 +75,7 @@ api-msvpud-tripfulfillment.prod.cf.app.ford.com
 api-msvpud-webbff.prod.cf.app.ford.com
 api-perf01e-gcp.pp.cf.app.ford.com
 api-perf01e-gcp2.pp.cf.app.ford.com
+api-preprod-swcm.pp.cf.app.ford.com
 api-qa-attachmentservices-tfoamsng.pp.cf.app.ford.com
 api-qa-bot-analytics-service-webexteams.pp.cf.app.ford.com
 api-qa-bp-data-feed-service.pp.cf.app.ford.com
@@ -598,6 +599,7 @@ uvissuites-maintenance-tera-service-qa.pp.cf.app.ford.com
 uvissuites-reports-service-qa.pp.cf.app.ford.com
 uvissuites-s3-service-qa.pp.cf.app.ford.com
 uvissuites-sale-balancing-service-qa-vrs.pp.cf.app.ford.com
+uvissuites-vehicle-comments-service-qa-vrs.pp.cf.app.ford.com
 uviswl-test.pp.cf.app.ford.com
 vibesintegrationedu-ici.pp.cf.app.ford.com
 visitorservice-edu.pp.cf.app.ford.com
@@ -801,6 +803,7 @@ wwwedu-css-scapp.pp.cf.app.ford.com
 wwwedu-dealer-assignments.pp.cf.app.ford.com
 wwwedu-dealercontact.pp.cf.app.ford.com
 wwwedu-dealerpartnership-fmcdlradv.pp.cf.app.ford.com
+wwwedu-dfysvc1.pp.cf.app.ford.com
 wwwedu-dls-entitlements.pp.cf.app.ford.com
 wwwedu-eapply-gcp.pp.cf.app.ford.com
 wwwedu-eblesscapslnd-dlr.pp.cf.app.ford.com
@@ -832,9 +835,6 @@ wwwedu-preapprovals-gcp.pp.cf.app.ford.com
 wwwedu-preapprovals.pp.cf.app.ford.com
 wwwedu-privacyprotection.pp.cf.app.ford.com
 wwwedu-stars-lbservices.pp.cf.app.ford.com
-wwwedu-starsxp-dealerconnection-com.pp.cf.app.ford.com
-wwwedu-testcsps.pp.cf.app.ford.com
-wwwedu-testmdp.pp.cf.app.ford.com
 wwwedu.fcwholesaledealer.ford.com
 wwwedu2.nvous.ford.com
 wwwmg2.pers.ford.com
