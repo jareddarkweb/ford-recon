@@ -364,7 +364,6 @@ devservices-api.cf.app.ford.com
 dialin.ford.com
 dns005.ford.com
 dns006.ford.com
-docgen-api.pd01e.gcp.ford.com
 document.wp.ford.com
 download-gam.ford.com
 dp.cf.app.ford.com
@@ -889,6 +888,7 @@ omnicraft-arg.ford.com
 one.ford.com
 onesearch.cf.app.ford.com
 onsite.cf.app.ford.com
+orchestration-handbook.pages.ford.com
 orgindev.support.ford.com
 orginedu.support-lincoln.ford.com
 orginedu.support.ford.com
@@ -1124,7 +1124,6 @@ powershell.ford.com
 powershell.qad.ford.com
 preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
-prod.fwbx.ford.com
 prod.magicinfo.ford.com
 prodcmsweb01.ford.com
 prodpublish.corporate.ford.com
@@ -1991,7 +1990,6 @@ www-emp-sa-service.prod.cf.app.ford.com
 www-emp-ui-eu.prod.cf.app.ford.com
 www-eu-qa-checkout.pp.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
-www-fcnala.cloud.app.ford.com
 www-fcsd-parts-ru-q.ecc1.ford.com
 www-fcsd-parts-ru-q.fmc1.ford.com
 www-fcsd-parts-ru.ecc1.ford.com
