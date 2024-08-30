@@ -229,6 +229,7 @@ bpus.ford.com
 brandauthorus.ford.com
 brandus.ford.com
 build.ford.com
+c4po-edu.ici.ford.com
 c8pci.app.ford.com
 c8rci.app.ford.com
 caasapps-pd01.app.ford.com
@@ -1990,6 +1991,7 @@ www-emp-sa-service.prod.cf.app.ford.com
 www-emp-ui-eu.prod.cf.app.ford.com
 www-eu-qa-checkout.pp.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
+www-fcs-dealerconnection-com.prod.cf.app.ford.com
 www-fcsd-parts-ru-q.ecc1.ford.com
 www-fcsd-parts-ru-q.fmc1.ford.com
 www-fcsd-parts-ru.ecc1.ford.com
@@ -3345,7 +3347,6 @@ wwwmg2.mk.ford.com
 wwwmg2.mviper.ford.com
 wwwmg2.myplan.ford.com
 wwwmg2.nmpdcglobal.ford.com
-wwwmg2.pers.ford.com
 wwwmg2.proveedores.ford.com
 wwwmg2.pw.ford.com
 wwwmg2.raf.ford.com
