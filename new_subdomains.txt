@@ -140,6 +140,7 @@ api-vehicleremarketing.cf.app.ford.com
 api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
 api-wings-o.prod.cf.app.ford.com
 apicollector-stage-gcp.ford.com
+apicollector-stage.vsoc.ford.com
 apideveloper.app.ford.com
 apideveloperqa.app.ford.com
 apiedu-stars-employeeprofile.pp.cf.app.ford.com
@@ -328,7 +329,6 @@ cudlvip2-prod.ecc1.ford.com
 customizerservices.ford.com
 customsisf.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
-dataexploreruat.ec.ford.com
 dcc-backend.ford.com
 dcc-backend.prod.cf.app.ford.com
 ddl.ford.com
@@ -756,7 +756,6 @@ login.cl-sandbox01.cf.ford.com
 login.sys.cl-dev01.cf.ford.com
 login.sys.cl-west-sandbox01.cf.ford.com
 lom.ford.com
-loyalty-webpages-bundle-stage-stealth.ford.com
 lyncpadmin.ford.com
 m.asiapacific.ford.com
 m.at.ford.com
@@ -1379,7 +1378,6 @@ sm-fdspcl-dlr.prod.cf.app.ford.com
 smartvincent-wlpedu.pp.cf.app.ford.com
 smartvincent-wlpqa.pp.cf.app.ford.com
 smetrics.ford.com
-smoke-solr-master.gep.ford.com
 social.ford.com
 socialqa.ford.com
 speakup.ford.com
@@ -1998,7 +1996,6 @@ www-fcsd-parts-ru.fmc1.ford.com
 www-fedev2.pp.cf.app.ford.com
 www-fordclassic.app.ford.com
 www-gtacng-dealerconnection-com.prod.cf.app.ford.com
-www-ierpvf.prod.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
 www-nasapi-smh-edu.pp.cf.app.ford.com
 www-nasapi-smh-ui-edu.pp.cf.app.ford.com
@@ -2006,6 +2003,7 @@ www-origin.ar.ford.com
 www-pcf.emivis.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
+www-terhome.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
 www.360.ford.com
@@ -2029,6 +2027,7 @@ www.agenda.ford.com
 www.agreement.ford.com
 www.americasteam.ford.com
 www.americasteamsite.ford.com
+www.apdm.ford.com
 www.apg.ford.com
 www.app-fcsre.ford.com
 www.apqp.ford.com
@@ -2119,6 +2118,7 @@ www.dealer.wcccs.ford.com
 www.dealer.webconnect.ford.com
 www.decisionmgr.ext.ford.com
 www.decisionmgr.ford.com
+www.deliveryday-dev.ford.com
 www.designsystem.ford.com
 www.developer.ford.com
 www.dfyservicesa.ford.com
@@ -2479,6 +2479,7 @@ www.teamcenter2pdcloc1.ford.com
 www.teamcenterfoa1pe1.ford.com
 www.teamcenterfoe1pe1.ford.com
 www.ter.ford.com
+www.terhome.ford.com
 www.tkb.ford.com
 www.tmt.ford.com
 www.tooling.ford.com
@@ -2512,7 +2513,6 @@ www.vrhub.ford.com
 www.vrmedia.ford.com
 www.vsem.ford.com
 www.vsemweb.ford.com
-www.vsemwebj.ford.com
 www.warranty.ford.com
 www.warrantyauthoring.ford.com
 www.warrantybre.ford.com
