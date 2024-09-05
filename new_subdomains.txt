@@ -150,7 +150,6 @@ apipublisher-helloapptesting-pp-apiplatform.pp.cf.app.ford.com
 apiqa-agenda.pp.cf.app.ford.com
 apiqa-arckweb.pp.cf.app.ford.com
 apiqa-fordprotect-br.pp.cf.app.ford.com
-apiqa.fordprotect-br.ford.com
 apl900359-hosts-cloud.app.ford.com
 apl900360-hosts-cloud.app.ford.com
 apl900361-hosts-cloud.app.ford.com
@@ -1482,6 +1481,7 @@ uvissuites-auction-service-qa.pp.cf.app.ford.com
 uvissuites-audit-service-qa.pp.cf.app.ford.com
 uvissuites-dealer-service-qa.pp.cf.app.ford.com
 uvissuites-email-service-qa.pp.cf.app.ford.com
+uvissuites-filetransfer-service-qa-vrs.pp.cf.app.ford.com
 uvissuites-gateway-service-qa.pp.cf.app.ford.com
 uvissuites-logging-service-qa.pp.cf.app.ford.com
 uvissuites-maintenance-service-qa.pp.cf.app.ford.com
@@ -2089,7 +2089,6 @@ www.climeslb.ford.com
 www.clw.ford.com
 www.clwa.ford.com
 www.clwb.ford.com
-www.cmmsvpp.ford.com
 www.cns.ford.com
 www.collaborate.ford.com
 www.commoditybuy.ford.com
@@ -2123,6 +2122,7 @@ www.decisionmgr.ext.ford.com
 www.decisionmgr.ford.com
 www.deliveryday-dev.ford.com
 www.designsystem.ford.com
+www.dev-gcp-ects.ford.com
 www.developer.ford.com
 www.dfyservicesa.ford.com
 www.diagnostics.ford.com
@@ -2381,6 +2381,7 @@ www.pulse.ford.com
 www.pw.ford.com
 www.q1.ford.com
 www.qa-etis.ford.com
+www.qa-gcp-ects.ford.com
 www.qa.owneradvantagerewards.ford.com
 www.qcp.fis.ford.com
 www.qfc.ford.com
@@ -3003,7 +3004,6 @@ wwwedu-nvolincolnca.pp.cf.app.ford.com
 wwwedu-oca-ford-ca.pp.cf.app.ford.com
 wwwedu-oca-lncnca.pp.cf.app.ford.com
 wwwedu-oca.pp.cf.app.ford.com
-wwwedu-paymentcalculator-ford-ca.pp.cf.app.ford.com
 wwwedu-paymentcalculator.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
