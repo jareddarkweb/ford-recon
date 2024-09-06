@@ -127,6 +127,7 @@ api-uat-edu-tacservices-gtacng-dlr.pp.cf.app.ford.com
 api-uat-edu-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-eza-gcp.pp.cf.app.ford.com
 api-uat-gcqisservices-tfoamsng.pp.cf.app.ford.com
+api-uat-hc-swcm.pp.cf.app.ford.com
 api-uat-hotline-gtacng-dlr.pp.cf.app.ford.com
 api-uat-ineligiblepayee-dlr.pp.cf.app.ford.com
 api-uat-oca.pp.cf.app.ford.com
@@ -205,7 +206,6 @@ b2dgws.app.ford.com
 b2e-1f-auth.ford.com
 b4694.b2d.ford.com
 backlog.ford.com
-bcca-hmpc-ingest.preprod.ford.com
 bdronen-testing.caas.ford.com
 beta.accountmanager.ford.com
 blueovalintelligence.ford.com
@@ -1990,6 +1990,7 @@ www-eblesscapswe-qa-ext-dlr.pp.cf.app.ford.com
 www-emp-sa-service.prod.cf.app.ford.com
 www-emp-ui-eu.prod.cf.app.ford.com
 www-eu-qa-checkout.pp.cf.app.ford.com
+www-faust-idp.prod.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
 www-fcs-dealerconnection-com.prod.cf.app.ford.com
 www-fcsd-parts-ru-q.ecc1.ford.com
@@ -3004,7 +3005,6 @@ wwwedu-nvolincolnca.pp.cf.app.ford.com
 wwwedu-oca-ford-ca.pp.cf.app.ford.com
 wwwedu-oca-lncnca.pp.cf.app.ford.com
 wwwedu-oca.pp.cf.app.ford.com
-wwwedu-paymentcalculator.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
 wwwedu.bp3.ford.com
@@ -3444,6 +3444,7 @@ wwwqa.atlas.ford.com
 wwwqa.autoshows.ford.com
 wwwqa.axz.ford.com
 wwwqa.bcfap.ford.com
+wwwqa.blueprint.ford.com
 wwwqa.bp3.ford.com
 wwwqa.bp3a.ford.com
 wwwqa.bp3b.ford.com
