@@ -232,7 +232,6 @@ brandauthorus.ford.com
 brandus.ford.com
 build.ford.com
 buildfoc.ford.com
-c4po-edu.ici.ford.com
 c8pci.app.ford.com
 c8rci.app.ford.com
 caasapps-pd01.app.ford.com
@@ -337,6 +336,7 @@ ddl.ford.com
 dealer.agenda.ford.com
 dealer.wcccs.ford.com
 dealer.webconnect.ford.com
+dealerqa-agenda.pp.cf.app.ford.com
 decisioningservice.ici.ford.com
 decisionmgr.ford.com
 demo4sudhakar.app.ford.com
@@ -1170,6 +1170,7 @@ qa-ocpp-gcp-gcp.pp.cf.app.ford.com
 qa-parts.ford.com
 qa-parts.india.ford.com
 qa-parts.me.ford.com
+qa.aftermarketabstractlayer.ford.com
 qa.alexaremotelogin.ford.com
 qa.ar.motorcraft.ford.com
 qa.canada.fleet.ford.com
@@ -2002,7 +2003,6 @@ www-emp-ui-eu.prod.cf.app.ford.com
 www-eu-qa-checkout.pp.cf.app.ford.com
 www-faust-idp.prod.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
-www-fcs-dealerconnection-com.prod.cf.app.ford.com
 www-fcsd-parts-ru-q.ecc1.ford.com
 www-fcsd-parts-ru-q.fmc1.ford.com
 www-fcsd-parts-ru.ecc1.ford.com
@@ -2014,6 +2014,7 @@ www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
 www-nasapi-smh-edu.pp.cf.app.ford.com
 www-nasapi-smh-ui-edu.pp.cf.app.ford.com
 www-origin.ar.ford.com
+www-pandaprod.app.ford.com
 www-pcf.emivis.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
@@ -2349,7 +2350,6 @@ www.nvous.ford.com
 www.nvousa.ford.com
 www.nvousb.ford.com
 www.odyssey.ford.com
-www.omnicraft-arg.ford.com
 www.one.ford.com
 www.ontrack.ford.com
 www.origin.caribe.ford.com
@@ -3011,7 +3011,6 @@ wwwedu-nvo.pp.cf.app.ford.com
 wwwedu-nvofordca.pp.cf.app.ford.com
 wwwedu-nvolincoln.pp.cf.app.ford.com
 wwwedu-nvolincolnca.pp.cf.app.ford.com
-wwwedu-oca-ford-ca.pp.cf.app.ford.com
 wwwedu-oca.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
@@ -3355,6 +3354,7 @@ wwwmg2.mk.ford.com
 wwwmg2.mviper.ford.com
 wwwmg2.myplan.ford.com
 wwwmg2.nmpdcglobal.ford.com
+wwwmg2.pers.ford.com
 wwwmg2.proveedores.ford.com
 wwwmg2.pw.ford.com
 wwwmg2.raf.ford.com
