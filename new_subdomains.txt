@@ -232,6 +232,7 @@ brandauthorus.ford.com
 brandus.ford.com
 build.ford.com
 buildfoc.ford.com
+c4po-edu.ici.ford.com
 c8pci.app.ford.com
 c8rci.app.ford.com
 caasapps-pd01.app.ford.com
@@ -629,6 +630,7 @@ gcat2.ford.com
 gcct-preprod.pp.cf.app.ford.com
 gci.ford.com
 gcms.ford.com
+gcp.ford.com
 gcqisserviceslnpedu.pp.cf.app.ford.com
 gcqisservicesqa.pp.cf.app.ford.com
 geaasedu-ici.pp.cf.app.ford.com
@@ -2003,6 +2005,7 @@ www-emp-ui-eu.prod.cf.app.ford.com
 www-eu-qa-checkout.pp.cf.app.ford.com
 www-faust-idp.prod.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
+www-fcs-dealerconnection-com.prod.cf.app.ford.com
 www-fcsd-parts-ru-q.ecc1.ford.com
 www-fcsd-parts-ru-q.fmc1.ford.com
 www-fcsd-parts-ru.ecc1.ford.com
@@ -2326,7 +2329,6 @@ www.mm.swcm.ford.com
 www.mnv-direct.ford.com
 www.mobilidade.ford.com
 www.mondeo.ford.com
-www.motorcraft-arg.ford.com
 www.motorcraft.ar.ford.com
 www.motorcraftservice.ford.com
 www.mps1.ford.com
@@ -3354,7 +3356,6 @@ wwwmg2.mk.ford.com
 wwwmg2.mviper.ford.com
 wwwmg2.myplan.ford.com
 wwwmg2.nmpdcglobal.ford.com
-wwwmg2.pers.ford.com
 wwwmg2.proveedores.ford.com
 wwwmg2.pw.ford.com
 wwwmg2.raf.ford.com
