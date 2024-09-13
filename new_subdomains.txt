@@ -1127,6 +1127,7 @@ pcf06v2i.edc-f01.ford.com
 pcm.ford.com
 perf-fordmapping.pp.cf.app.ford.com
 perf.alexaremotelogin.ford.com
+performanceparts-vip-chiadc01-rprxy1-19.chi.ford.com
 performanceparts.ford.com
 planning-tools-data-api-dev.pp.cf.app.ford.com
 planning-tools-data-api-qa.pp.cf.app.ford.com
@@ -1256,7 +1257,6 @@ qatest.gcat3.ford.com
 qautil.extsp.ford.com
 qavehicleremarketing.pp.cf.app.ford.com
 qfc.ford.com
-quicklane-arg.ford.com
 quicklease.ford.com
 quickquote.ford.com
 quickquotefoc.ford.com
@@ -2504,6 +2504,7 @@ www.tradein-dev.ford.com
 www.tvs.fsao.ford.com
 www.urs.ford.com
 www.us.fleet.ford.com
+www.ushourlyw2online.ford.com
 www.vanityurl.ford.com
 www.vast.ford.com
 www.vcservices.ford.com
