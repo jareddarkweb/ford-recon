@@ -6,10 +6,8 @@ accountmanager-lincoln-qa.pp.cf.app.ford.com
 accountmanager-lincoln.qa.ford.com
 accountmanager-qa.pp.cf.app.ford.com
 accountmanager.cf.app.ford.com
-accountmanager.ford.com
 adfsauth-fdspcl-dealerconnection-com.cf.app.ford.com
 adfsauth-fdspcl2-dealerconnection-com.cf.app.ford.com
-admin.magicinfo.ford.com
 advocacy.ford.com
 agenda-alertadn-apiqa-agenda.pp.cf.app.ford.com
 agenda-authentication-apiqa-agenda.pp.cf.app.ford.com
@@ -236,7 +234,6 @@ ecaps-la-prod.cf.app.ford.com
 ecaps-prod.cf.app.ford.com
 ecaps-we-prod.cf.app.ford.com
 ecomm-payment-integration-epi.cf.app.ford.com
-edge1.magicinfo.ford.com
 efris-test.cf.app.ford.com
 efris-test.pp.cf.app.ford.com
 eused-web.pp.cf.app.ford.com
@@ -337,6 +334,8 @@ loginqa.ford.com
 loginqa.india.ford.com
 loginqa.me.ford.com
 loginqa.ssa.ford.com
+loyalty-webpages-bundle-eu.ford.com
+loyalty-webpages-bundle-eu.prod.cf.app.ford.com
 m.at.ford.com
 m1.euemail.ford.com
 mcs-edu.cf.app.ford.com
@@ -463,6 +462,7 @@ planning-tools-data-api-dev.pp.cf.app.ford.com
 planning-tools-data-api-qa.pp.cf.app.ford.com
 preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
+prod.cf.app.ford.com
 prodcmsweb01.ford.com
 pron.eswitch-fpg-web.app.gcp.ford.com
 qa-account-manager-classic.pp.cf.app.ford.com
@@ -638,7 +638,6 @@ www.fimco.ford.com
 www.hc.swcm.ford.com
 www.imaginedr.ford.com
 www.india.ford.com
-www.magicinfo.ford.com
 www.me.ford.com
 www.mm.swcm.ford.com
 www.mnv-direct.ford.com
@@ -647,7 +646,6 @@ www.nvcnalb.ford.com
 www.nvo.ford.com
 www.nvous.ford.com
 www.planovalo.ar.ford.com
-www.proveedores.ford.com
 www.prp.ford.com
 www.pw.ford.com
 www.qa-gcp-ects.ford.com
@@ -666,8 +664,6 @@ www.tradein-dev.ford.com
 www.ushourlyw2online.ford.com
 www.wass.ford.com
 www.wlrr.ford.com
-wwwauth-authagent.cf.app.ford.com
-wwwauth.authagent.ford.com
 wwwdev-accessorizemyride.pp.cf.app.ford.com
 wwwdev-axz.pp.cf.app.ford.com
 wwwdev-dplan-dlr.pp.cf.app.ford.com
@@ -759,7 +755,6 @@ wwwqa.nvolincoln.ford.com
 wwwqa.nvolincolnca.ford.com
 wwwqa.planovalo.ar.ford.com
 wwwqa.prequalify.ford.com
-wwwqa.proveedores.ford.com
 wwwqa.qualify.ford.com
 wwwqa.retforms.ford.com
 wwwqa.sharedvizlibweb.ford.com
