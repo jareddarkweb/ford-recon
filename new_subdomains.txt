@@ -2008,7 +2008,6 @@ www-fcsd-parts-ru.ecc1.ford.com
 www-fcsd-parts-ru.fmc1.ford.com
 www-fedev2.pp.cf.app.ford.com
 www-fmcdealervt3270.app.ford.com
-www-fordclassic.app.ford.com
 www-gtacng-dealerconnection-com.prod.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
 www-nasapi-smh-edu.pp.cf.app.ford.com
@@ -2189,6 +2188,7 @@ www.etisload.ford.com
 www.exportsystem.ford.com
 www.fafcaims.ford.com
 www.faia.ford.com
+www.faust.idp.ford.com
 www.fbms.ford.com
 www.fcs.ford.com
 www.fcsd-parts-na.ford.com
@@ -2796,6 +2796,7 @@ wwwdev.requesttestwork.ford.com
 wwwdev.rex.ford.com
 wwwdev.rrp.ford.com
 wwwdev.sdcds.ford.com
+wwwdev.search-inventory.ford.com
 wwwdev.servicesfoc.ford.com
 wwwdev.servicesfoca.ford.com
 wwwdev.servicesfocb.ford.com
@@ -3720,6 +3721,7 @@ wwwqa.rfq.ford.com
 wwwqa.rrp.ford.com
 wwwqa.scm.ford.com
 wwwqa.sdcds.ford.com
+wwwqa.search-inventory.ford.com
 wwwqa.secure.dragonfly.ford.com
 wwwqa.secureauth.ford.com
 wwwqa.secureauthe.ford.com
