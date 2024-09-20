@@ -21,6 +21,7 @@ adfsauth-fdspcl-dealerconnection-com.cf.app.ford.com
 adfsauth-fdspcl2-dealerconnection-com.cf.app.ford.com
 adm.spt.ford.com
 admin-gam.ford.com
+adminqa-perks-agenda.pp.cf.app.ford.com
 advocacy.ford.com
 agenda-alertadn-apiqa-agenda.pp.cf.app.ford.com
 agenda-authentication-apiqa-agenda.pp.cf.app.ford.com
@@ -150,6 +151,7 @@ apipublisher-helloapptesting-pp-apiplatform.pp.cf.app.ford.com
 apiqa-agenda.pp.cf.app.ford.com
 apiqa-arckweb.pp.cf.app.ford.com
 apiqa-fordprotect-br.pp.cf.app.ford.com
+apiqa-perks-agenda.pp.cf.app.ford.com
 apl900359-hosts-cloud.app.ford.com
 apl900360-hosts-cloud.app.ford.com
 apl900361-hosts-cloud.app.ford.com
@@ -3008,8 +3010,6 @@ wwwedu-mach-e.pp.cf.app.ford.com
 wwwedu-na-fleet.pp.cf.app.ford.com
 wwwedu-nvo.pp.cf.app.ford.com
 wwwedu-nvofordca.pp.cf.app.ford.com
-wwwedu-nvolincoln.pp.cf.app.ford.com
-wwwedu-nvolincolnca.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
 wwwedu.bp3.ford.com
