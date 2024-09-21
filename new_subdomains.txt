@@ -2977,6 +2977,8 @@ wwwdr.secure.me.ford.com
 wwwdr.secure.ssa.ford.com
 wwwdr.secure.uspac.ford.com
 wwwdr.teamcenter2pdcloc1.ford.com
+wwwdr.vsemweb.ford.com
+wwwdr.vsemwebj.ford.com
 wwwdrmg.dragonfly.ford.com
 wwwdrmg.secure.dragonfly.ford.com
 wwwedu-api-whs-gateway.pp.cf.app.ford.com
