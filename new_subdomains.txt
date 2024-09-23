@@ -2850,6 +2850,7 @@ wwwdev.wsl-federationf.ford.com
 wwwdev.wss.ford.com
 wwwdev.xsbeurope.ford.com
 wwwdev2-dyf.pp.cf.app.ford.com
+wwwdev2-dyfca.pp.cf.app.ford.com
 wwwdev2-dyl.pp.cf.app.ford.com
 wwwdev2-dylca.pp.cf.app.ford.com
 wwwdev2-es.brandeulb.ford.com
@@ -3012,7 +3013,6 @@ wwwedu-gtacng-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-mach-e.pp.cf.app.ford.com
 wwwedu-na-fleet.pp.cf.app.ford.com
 wwwedu-nvo.pp.cf.app.ford.com
-wwwedu-nvofordca.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
 wwwedu.bp3.ford.com
