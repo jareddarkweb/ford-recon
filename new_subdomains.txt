@@ -288,6 +288,7 @@ collablabs.cf.app.ford.com
 comm.extsp.ford.com
 comm.sp.ford.com
 commercial-dashboard-services-qa.pp.cf.app.ford.com
+commercial-own-vehicle-summary-prod.ford.com
 commoditybuy.ford.com
 commtruck.ford.com
 community.ford.com
@@ -1125,6 +1126,7 @@ perf-fordmapping.pp.cf.app.ford.com
 perf.alexaremotelogin.ford.com
 performanceparts-vip-chiadc01-rprxy1-19.chi.ford.com
 performanceparts.ford.com
+perksqa-agenda.pp.cf.app.ford.com
 planning-tools-data-api-dev.pp.cf.app.ford.com
 planning-tools-data-api-qa.pp.cf.app.ford.com
 planovalo.ar.ford.com
@@ -3012,7 +3014,6 @@ wwwedu-gpas-origin.pp.cf.app.ford.com
 wwwedu-gtacng-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-mach-e.pp.cf.app.ford.com
 wwwedu-na-fleet.pp.cf.app.ford.com
-wwwedu-nvo.pp.cf.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
 wwwedu.bp3.ford.com
