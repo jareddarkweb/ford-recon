@@ -172,6 +172,7 @@ asdw.ford.com
 aslb.ford.com
 at.ford.com
 atfordreg.ford.com
+auroraindirect.pages.ford.com
 auth.fmcguest.ford.com
 auth.managesync.ford.com
 authoringpublish.rrp.ford.com
@@ -2131,6 +2132,7 @@ www.csps.ford.com
 www.ctx.ford.com
 www.customsisf.ford.com
 www.dbp.ford.com
+www.dcdshub.ford.com
 www.ddl.ford.com
 www.ddltest.ford.com
 www.dealer.wcccs.ford.com
