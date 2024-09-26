@@ -2016,6 +2016,7 @@ www-gtacng-dealerconnection-com.prod.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
 www-nasapi-smh-edu.pp.cf.app.ford.com
 www-nasapi-smh-ui-edu.pp.cf.app.ford.com
+www-ocp-preprod.eblesswav.api.ford.com
 www-origin.ar.ford.com
 www-pandaprod.app.ford.com
 www-pcf.emivis.ford.com
@@ -3016,6 +3017,7 @@ wwwedu-gpas-origin.pp.cf.app.ford.com
 wwwedu-gtacng-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-mach-e.pp.cf.app.ford.com
 wwwedu-na-fleet.pp.cf.app.ford.com
+wwwedu-sonarqube.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
 wwwedu.bp3.ford.com
@@ -3097,6 +3099,7 @@ wwwedu.servicesfocb.ford.com
 wwwedu.servicesus.ford.com
 wwwedu.servicesusa.ford.com
 wwwedu.servicesusb.ford.com
+wwwedu.sonarqube.ford.com
 wwwedu.sps.ford.com
 wwwedu.srll.ford.com
 wwwedu.superg.ford.com
@@ -3427,7 +3430,6 @@ wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
 wwwperf.brandauthorusb.ford.com
 wwwprod-engine.ford.com
-wwwqa-msds.app.ford.com
 wwwqa-scorm-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-tlkb.app.ford.com
 wwwqa-webexteams.pp.cf.app.ford.com
@@ -3561,6 +3563,7 @@ wwwqa.esmart2.ford.com
 wwwqa.esow.ford.com
 wwwqa.etis.ford.com
 wwwqa.exportsystem.ford.com
+wwwqa.ext-eblesswav.api.ford.com
 wwwqa.fbms.ford.com
 wwwqa.fcs.ford.com
 wwwqa.fcsd-parts-na.ford.com
