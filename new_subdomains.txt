@@ -2388,6 +2388,7 @@ www.performanceparts.ford.com
 www.pfs.ford.com
 www.pieportal.ford.com
 www.planovalo.ar.ford.com
+www.privacy-library.ford.com
 www.prod.gspas.ford.com
 www.professionaldevelopment.ford.com
 www.proveedores.ford.com
@@ -3526,6 +3527,7 @@ wwwqa.ddl.ford.com
 wwwqa.ddltest.ford.com
 wwwqa.decisionmgr.ext.ford.com
 wwwqa.decisionmgr.ford.com
+wwwqa.dfp.ford.com
 wwwqa.dorf.ford.com
 wwwqa.download-gam.ford.com
 wwwqa.dps.ford.com
