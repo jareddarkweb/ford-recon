@@ -723,6 +723,7 @@ ito025397.hosts.cloud.ford.com
 ito028495.hosts.cloud.ford.com
 ito028496.hosts.cloud.ford.com
 ito029228.hosts.cloud.ford.com
+ito061410.hosts.cloud.ford.com
 ito069762.hosts.cloud.ford.com
 ito069763.hosts.cloud.ford.com
 ito069764.hosts.cloud.ford.com
@@ -2699,7 +2700,6 @@ wwwdev.gcms.ford.com
 wwwdev.ges.ford.com
 wwwdev.gforce.ford.com
 wwwdev.gicc.ford.com
-wwwdev.giqp.ford.com
 wwwdev.goasis.ford.com
 wwwdev.gppm.ford.com
 wwwdev.hdds2.ford.com
