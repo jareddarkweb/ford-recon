@@ -69,6 +69,7 @@ api-edu-ecar.pp.cf.app.ford.com
 api-engd01e-gcp.pp.cf.app.ford.com
 api-engq01e-gcp.pp.cf.app.ford.com
 api-feedback-service-test-webexteams.pp.cf.app.ford.com
+api-fordenter-qa.pp.cf.app.ford.com
 api-gtac-dealerconnection-com.cf.app.ford.com
 api-gtpcm.cf.app.ford.com
 api-it-connect-service-test-webexteams.pp.cf.app.ford.com
@@ -274,6 +275,7 @@ caribe.ford.com
 carsadmin.ford.com
 centraldevendas.ford.com
 cfa.ford.com
+chargers.ford.com
 checkout-eu.cf.app.ford.com
 cl-dev01.cf.ford.com
 cl-sandbox01.cf.ford.com
@@ -723,7 +725,6 @@ ito025397.hosts.cloud.ford.com
 ito028495.hosts.cloud.ford.com
 ito028496.hosts.cloud.ford.com
 ito029228.hosts.cloud.ford.com
-ito061410.hosts.cloud.ford.com
 ito069762.hosts.cloud.ford.com
 ito069763.hosts.cloud.ford.com
 ito069764.hosts.cloud.ford.com
@@ -1126,6 +1127,7 @@ pcf05v2i.edc-f01.ford.com
 pcf06v2i.edc-f01.ford.com
 pcm.ford.com
 perf-fordmapping.pp.cf.app.ford.com
+perf-ocpp-gcp.pp.cf.app.ford.com
 perf.alexaremotelogin.ford.com
 performanceparts-vip-chiadc01-rprxy1-19.chi.ford.com
 performanceparts.ford.com
@@ -2332,7 +2334,6 @@ www.mis.dearborn.ford.com
 www.mis.fsao.ford.com
 www.mk.ford.com
 www.mm.swcm.ford.com
-www.mnv-direct.ford.com
 www.mobilidade.ford.com
 www.mondeo.ford.com
 www.motorcraft.ar.ford.com
@@ -2700,6 +2701,7 @@ wwwdev.gcms.ford.com
 wwwdev.ges.ford.com
 wwwdev.gforce.ford.com
 wwwdev.gicc.ford.com
+wwwdev.giqp.ford.com
 wwwdev.goasis.ford.com
 wwwdev.gppm.ford.com
 wwwdev.hdds2.ford.com
@@ -3017,8 +3019,6 @@ wwwedu-gfinservice-dlr.pp.cf.app.ford.com
 wwwedu-goals-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-gpas-file-upload.pp.cf.app.ford.com
 wwwedu-gpas-origin.pp.cf.app.ford.com
-wwwedu-gtacng-dealerconnection-com.pp.cf.app.ford.com
-wwwedu-mach-e.pp.cf.app.ford.com
 wwwedu-sonarqube.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
