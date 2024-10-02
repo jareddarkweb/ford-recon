@@ -293,6 +293,7 @@ comm.extsp.ford.com
 comm.sp.ford.com
 commercial-dashboard-services-qa.pp.cf.app.ford.com
 commercial-own-vehicle-summary-prod.ford.com
+commercial-portal-dev.ford.com
 commoditybuy.ford.com
 commtruck.ford.com
 community.ford.com
@@ -575,6 +576,7 @@ fczws004.md2.ford.com
 ffe-aurisq.ford.com
 ffs.ford.com
 ffsupload.ford.com
+finsimple-financing-wp.ford.com
 fleet.ford.com
 fleetusa.ford.com
 fleetusb.ford.com
@@ -725,6 +727,7 @@ ito025397.hosts.cloud.ford.com
 ito028495.hosts.cloud.ford.com
 ito028496.hosts.cloud.ford.com
 ito029228.hosts.cloud.ford.com
+ito061410.hosts.cloud.ford.com
 ito069762.hosts.cloud.ford.com
 ito069763.hosts.cloud.ford.com
 ito069764.hosts.cloud.ford.com
@@ -1152,7 +1155,6 @@ prodweb.ford.com
 prodweb2.ford.com
 proj.extsp.ford.com
 proj.sp.ford.com
-pron.eswitch-fpg-web.app.gcp.ford.com
 proveedores.ford.com
 psoh-wlp-prd.prod.cf.app.ford.com
 pubqa.wcccs.ford.com
@@ -2701,7 +2703,6 @@ wwwdev.gcms.ford.com
 wwwdev.ges.ford.com
 wwwdev.gforce.ford.com
 wwwdev.gicc.ford.com
-wwwdev.giqp.ford.com
 wwwdev.goasis.ford.com
 wwwdev.gppm.ford.com
 wwwdev.hdds2.ford.com
