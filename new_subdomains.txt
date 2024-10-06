@@ -156,6 +156,7 @@ awesomo-lp.app.ford.com
 awsussb01.cf.ford.com
 b2dgwdev.app.ford.com
 b2dgwqa.app.ford.com
+b2dgwqa.ford.com
 b2dgws.app.ford.com
 bdronen-testing.caas.ford.com
 beta.accountmanager.ford.com
@@ -229,7 +230,6 @@ dcc-backend.prod.cf.app.ford.com
 dealer.agenda.ford.com
 dealerqa-agenda.pp.cf.app.ford.com
 decisioningservice.ici.ford.com
-demo4sudhakar.ford.com
 deu1a200.b2d.ford.com
 deu1g8b0.b2d.ford.com
 deu2a140.b2d.ford.com
@@ -582,6 +582,7 @@ stg-fppwbx-gcp.pp.cf.app.ford.com
 stg-fwbx-gcp.pp.cf.app.ford.com
 stg-hccc-dashboard-gcp.pp.cf.app.ford.com
 stg-ocpp-gcp-gcp.pp.cf.app.ford.com
+stg-ocpp-gcp.pp.cf.app.ford.com
 stg-swb.pp.cf.app.ford.com
 support.ford.com
 sustainability.ford.com
@@ -845,7 +846,6 @@ wwwedu-gdbp-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-gfinservice-dlr.pp.cf.app.ford.com
 wwwedu-goals-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-gpas-file-upload.pp.cf.app.ford.com
-wwwedu-gpas-origin.pp.cf.app.ford.com
 wwwedu-sonarqube.app.ford.com
 wwwedu.fcwholesaledealer.ford.com
 wwwedu.sonarqube.ford.com
