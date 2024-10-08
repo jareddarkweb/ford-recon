@@ -168,6 +168,7 @@ apqp.ford.com
 apsupvip1-prod.fmc1.ford.com
 ar.ford.com
 artisan.pp.cf.app.ford.com
+as226-gechub.app.ford.com
 as2mft26-gechub.app.ford.com
 as2mftqa26-gechub.app.ford.com
 as2qa26-gechub.app.ford.com
@@ -210,6 +211,8 @@ b4694.b2d.ford.com
 backlog.ford.com
 bdronen-testing.caas.ford.com
 beta.accountmanager.ford.com
+blocked.ford.com
+blocked.gcp.ford.com
 blueovalintelligence.ford.com
 bp2a.ford.com
 bp2dev.ford.com
@@ -672,7 +675,6 @@ hronline2.ford.com
 hrweb.chongqing.ford.com
 hrweb.chongqing2.ford.com
 hterqa.pp.cf.app.ford.com
-ial-dealer.ford.com
 ial-finance.ford.com
 ial-finance.prod.cf.app.ford.com
 ial-incentives.ford.com
@@ -839,6 +841,7 @@ mit-payments-server.cf.app.ford.com
 mk.ford.com
 mondeo.ford.com
 mothersite-globalowner-gcp.pp.cf.app.ford.com
+motorcraft-arg.ford.com
 motorcraft.ar.ford.com
 motorcraftarvip1-prod.ecc1.ford.com
 motorcraftarvip1-prod.fmc1.ford.com
@@ -906,6 +909,7 @@ nmpdcglobal.ford.com
 nsa.app.ford.com
 nsa.ford.com
 nvous.ford.com
+omnicraft-arg.ford.com
 one.ford.com
 onesearch.cf.app.ford.com
 onsite.cf.app.ford.com
@@ -2339,6 +2343,7 @@ www.mis.fsao.ford.com
 www.mk.ford.com
 www.mm.swcm.ford.com
 www.mondeo.ford.com
+www.motorcraft-arg.ford.com
 www.motorcraft.ar.ford.com
 www.motorcraftservice.ford.com
 www.mps1.ford.com
@@ -2362,6 +2367,7 @@ www.nvous.ford.com
 www.nvousa.ford.com
 www.nvousb.ford.com
 www.odyssey.ford.com
+www.omnicraft-arg.ford.com
 www.one.ford.com
 www.ontrack.ford.com
 www.origin.caribe.ford.com
@@ -3017,7 +3023,6 @@ wwwedu-fordctt-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-fwsmain.pp.cf.app.ford.com
 wwwedu-gdbp-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-gfinservice-dlr.pp.cf.app.ford.com
-wwwedu-goals-dealerconnection-com.pp.cf.app.ford.com
 wwwedu-sonarqube.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
