@@ -490,6 +490,7 @@ ewholesale-prod-base.cf.app.ford.com
 ewholesale-prod-eu.cf.app.ford.com
 ewholesale-prod-no.cf.app.ford.com
 ewholesale-prod-we.cf.app.ford.com
+expertise-seguros.ford.com
 export.ford.com
 extdns001.ford.com
 extdns002.ford.com
@@ -804,6 +805,7 @@ m.uspac.ford.com
 m1.euemail.ford.com
 ma.ford.com
 managecredential.ford.com
+manual-arg.ford.com
 maqa.ford.com
 mcs-edu.cf.app.ford.com
 mcs-edu.pp.cf.app.ford.com
@@ -1267,6 +1269,7 @@ qatest.gcat3.ford.com
 qautil.extsp.ford.com
 qavehicleremarketing.pp.cf.app.ford.com
 qfc.ford.com
+quicklane-arg.ford.com
 quicklease.ford.com
 quickquote.ford.com
 quickquotefoc.ford.com
@@ -1407,6 +1410,7 @@ smartvincent-wlpqa.pp.cf.app.ford.com
 smetrics.ford.com
 social.ford.com
 socialqa.ford.com
+speakup.ford.com
 speedy.ford.com
 sps-edu.pp.cf.app.ford.com
 srll.ford.com
@@ -2012,7 +2016,6 @@ www-deliveryday-qa.pp.cf.app.ford.com
 www-developerportal-stage-gcp.pp.cf.app.ford.com
 www-eams-rally-alignment-tool-qa.pp.cf.app.ford.com
 www-eblesscapswe-qa-ext-dlr.pp.cf.app.ford.com
-www-emp-ui-eu.prod.cf.app.ford.com
 www-eu-qa-checkout.pp.cf.app.ford.com
 www-faust-idp.prod.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
@@ -2118,6 +2121,7 @@ www.cfa.ford.com
 www.changepassword.ford.com
 www.cis.ford.com
 www.climeslb.ford.com
+www.cloc-application.ford.com
 www.clw.ford.com
 www.clwa.ford.com
 www.clwb.ford.com
@@ -2195,7 +2199,6 @@ www.ei.ford.com
 www.eim1.ford.com
 www.ekbbooks.ford.com
 www.elibrary.ford.com
-www.emp-ui-eu.ford.com
 www.engine.ford.com
 www.enginev2.ford.com
 www.esmart2.ford.com
@@ -2204,6 +2207,7 @@ www.esp.ford.com
 www.espservices.ford.com
 www.etis.ford.com
 www.etisload.ford.com
+www.expertise-seguros.ford.com
 www.exportsystem.ford.com
 www.fafcaims.ford.com
 www.faia.ford.com
@@ -2333,6 +2337,7 @@ www.lom.ford.com
 www.lookandstyle.ford.com
 www.managecredential.ford.com
 www.manager-gam.ford.com
+www.manual-arg.ford.com
 www.me.ford.com
 www.media.ford.com
 www.mediabin.ford.com
@@ -2416,6 +2421,7 @@ www.qa-gcp-ects.ford.com
 www.qa.owneradvantagerewards.ford.com
 www.qcp.fis.ford.com
 www.qfc.ford.com
+www.quicklane-arg.ford.com
 www.quicklease.ford.com
 www.quickquote.ford.com
 www.quickquotefoc.ford.com
@@ -2484,6 +2490,7 @@ www.sim.ford.com
 www.simba.ford.com
 www.sims.ford.com
 www.sims1.ford.com
+www.speakup.ford.com
 www.speedy.ford.com
 www.sps.ford.com
 www.srll.ford.com
