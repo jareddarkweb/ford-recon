@@ -21,6 +21,8 @@ adfsauth-fdspcl-dealerconnection-com.cf.app.ford.com
 adfsauth-fdspcl2-dealerconnection-com.cf.app.ford.com
 adm.spt.ford.com
 admin-gam.ford.com
+admin-perks-agenda.prod.cf.app.ford.com
+admin.perks.agenda.ford.com
 adminqa-perks-agenda.pp.cf.app.ford.com
 advocacy.ford.com
 agenda-alertadn-apiqa-agenda.pp.cf.app.ford.com
@@ -311,7 +313,9 @@ contacts.stmmw.ford.com
 contrack.ford.com
 corp-sts-ext.prod.cf.app.ford.com
 corp.sts.ford.com
+corpdev-sts-ext.app.ford.com
 corpdev-sts-ext.pp.cf.app.ford.com
+corpdev.sts.ford.com
 corpdevad-sts-ext.pp.cf.app.ford.com
 corporate.ford.com
 corporateqa.ford.com
@@ -677,8 +681,6 @@ hronline2.ford.com
 hrweb.chongqing.ford.com
 hrweb.chongqing2.ford.com
 hterqa.pp.cf.app.ford.com
-ial-finance.prod.cf.app.ford.com
-ial-incentives.ford.com
 iam.ford.com
 ici-ws-ingest-active-preprod.pp.cf.app.ford.com
 imagine.ford.com
@@ -2294,6 +2296,7 @@ www.hdds2.ford.com
 www.hmm.ford.com
 www.hronline.ford.com
 www.hronline2.ford.com
+www.iciinteu.ford.com
 www.idea.ford.com
 www.imagine.ford.com
 www.imaginedr.ford.com
@@ -2483,6 +2486,7 @@ www.servicesusa.ford.com
 www.servicesusb.ford.com
 www.servis2.ford.com
 www.servis2nat1.ford.com
+www.sharedanalytics.ford.com
 www.sharedanalyticsweb.ford.com
 www.shoppingtools.ford.com
 www.sibmon.ford.com
@@ -2851,6 +2855,7 @@ wwwdev.t.bp3a.ford.com
 wwwdev.t.bp3b.ford.com
 wwwdev.t.inventory.ford.com
 wwwdev.t.quickquote.ford.com
+wwwdev.translate.ford.com
 wwwdev.urs.ford.com
 wwwdev.vast.ford.com
 wwwdev.vdsftm.ford.com
@@ -4074,12 +4079,9 @@ wwwqamg4.bpm.ford.com
 wwwqamg4.ivs.ford.com
 wwwqamg5.ivs.ford.com
 wwwqatest.fordcreditbr.ford.com
-wwwstg-emp-inventory.pp.cf.app.ford.com
 wwwstg-emp-messages.pp.cf.app.ford.com
 wwwstg-emp-notifications.pp.cf.app.ford.com
 wwwstg-emp-reservation.pp.cf.app.ford.com
-wwwstg.emp-inventory.ford.com
-wwwstg.emp-messages.ford.com
 wwwstg.emp-notifications.ford.com
 wwwstg.emp-reservation.ford.com
 wwwstg.hvbatt.ford.com
