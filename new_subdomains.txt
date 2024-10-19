@@ -538,6 +538,7 @@ planning-tools-data-api-qa.pp.cf.app.ford.com
 preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
 prod.cf.app.ford.com
+prod.power-up-academy-ui.app.gcp.ford.com
 prodcmsweb01.ford.com
 psoh-wlp-prd.prod.cf.app.ford.com
 qa-account-manager-classic.pp.cf.app.ford.com
