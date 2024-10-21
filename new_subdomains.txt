@@ -2356,6 +2356,7 @@ www.mis.dearborn.ford.com
 www.mis.fsao.ford.com
 www.mk.ford.com
 www.mm.swcm.ford.com
+www.mnv-ui.ford.com
 www.mondeo.ford.com
 www.motorcraft-arg.ford.com
 www.motorcraft.ar.ford.com
@@ -2544,6 +2545,7 @@ www.vanityurl.ford.com
 www.vast.ford.com
 www.vcservices.ford.com
 www.vd.ford.com
+www.vdm.ford.com
 www.vdscentral.ford.com
 www.vdses.ford.com
 www.vdsftm.ford.com
@@ -4084,9 +4086,7 @@ wwwqamg4.bpm.ford.com
 wwwqamg4.ivs.ford.com
 wwwqamg5.ivs.ford.com
 wwwqatest.fordcreditbr.ford.com
-wwwstg-emp-notifications.pp.cf.app.ford.com
 wwwstg-emp-reservation.pp.cf.app.ford.com
-wwwstg.emp-reservation.ford.com
 wwwstg.hvbatt.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
