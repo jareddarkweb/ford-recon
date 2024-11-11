@@ -118,6 +118,7 @@ api-stg01e-gcp.pp.cf.app.ford.com
 api-stg01e-gcp2.pp.cf.app.ford.com
 api-surveys-service-test-webexteams.pp.cf.app.ford.com
 api-tfoams.cf.app.ford.com
+api-tickets.cf.app.ford.com
 api-transformationqa.pp.cf.app.ford.com
 api-uat-adminservices-gtacng-dlr.pp.cf.app.ford.com
 api-uat-attachmentservices-tfoamsng.pp.cf.app.ford.com
@@ -3051,7 +3052,6 @@ wwwedu-fcwholesaledealer.pp.cf.app.ford.com
 wwwedu-fleetlogin.pp.cf.app.ford.com
 wwwedu-fmccdealeradvisor.pp.cf.app.ford.com
 wwwedu-fordctt-dealerconnection-com.pp.cf.app.ford.com
-wwwedu-fwsmain.pp.cf.app.ford.com
 wwwedu-sonarqube.app.ford.com
 wwwedu.admin-gam.ford.com
 wwwedu.apqp.ford.com
@@ -3463,6 +3463,7 @@ wwwperf.account.ford.com
 wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
 wwwperf.brandauthorusb.ford.com
+wwwpp.fceam.ford.com
 wwwprod-engine.ford.com
 wwwqa-scorm-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-tlkb.app.ford.com
@@ -3483,7 +3484,6 @@ wwwqa.afrl3.ford.com
 wwwqa.agenda.ford.com
 wwwqa.agreement.ford.com
 wwwqa.akamai.dragonfly.ford.com
-wwwqa.api.auros.ford.com
 wwwqa.apqp.ford.com
 wwwqa.aps.ford.com
 wwwqa.ar.ford.com
