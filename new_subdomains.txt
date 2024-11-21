@@ -751,7 +751,6 @@ loyalty-webpages-bundle-eu.ford.com
 loyalty-webpages-bundle-eu.prod.cf.app.ford.com
 lyncpadmin.ford.com
 m.asiapacific.ford.com
-m.at.ford.com
 m.caribbean.ford.com
 m.caribe.ford.com
 m.centroamerica.ford.com
@@ -1937,7 +1936,6 @@ www.aps.ford.com
 www.ar.ford.com
 www.arckweb.ford.com
 www.armr.ford.com
-www.at.ford.com
 www.atfordreg.ford.com
 www.atlas.ford.com
 www.aub2b1.ford.com
