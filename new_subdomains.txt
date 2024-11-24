@@ -345,6 +345,7 @@ d.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
 ddl.ford.com
 dealer.agenda.ford.com
+dealer.parts.ford.com
 dealer.wcccs.ford.com
 dealer.webconnect.ford.com
 dealerqa-agenda.pp.cf.app.ford.com
@@ -1289,7 +1290,6 @@ speedy.ford.com
 sps-edu.pp.cf.app.ford.com
 srll.ford.com
 sso.caribe.ci.ford.com
-sso.centroamerica.ci.ford.com
 sso.ci.ford.com
 sso.ford.com
 sso.india.ci.ford.com
