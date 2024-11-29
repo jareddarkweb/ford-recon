@@ -255,7 +255,9 @@ c8pci.app.ford.com
 c8rci.app.ford.com
 caasapps-pd01.app.ford.com
 caasapps-pd101.app.ford.com
+caasapps-pd101.cloud.app.ford.com
 caasapps-pp01.app.ford.com
+caasapps-pp101.cloud.app.ford.com
 caasextapps-pd01.app.ford.com
 caasextapps-pd1020.app.ford.com
 caasextapps-pd104.app.ford.com
@@ -2039,6 +2041,7 @@ www.brandusa.ford.com
 www.brandusb.ford.com
 www.brnda.ford.com
 www.buyerconnectioncanada.ford.com
+www.cadris-caas.ford.com
 www.cafe.ford.com
 www.canada.fleet.ford.com
 www.capacityplanning.ford.com
@@ -3429,6 +3432,7 @@ wwwqa.brandauthorus.ford.com
 wwwqa.brandauthorusa.ford.com
 wwwqa.brandauthorusb.ford.com
 wwwqa.build.ford.com
+wwwqa.cadris-caas.ford.com
 wwwqa.cafe.ford.com
 wwwqa.canada.fleet.ford.com
 wwwqa.capacityplanning.ford.com
