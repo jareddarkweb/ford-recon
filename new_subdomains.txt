@@ -110,6 +110,7 @@ api-uat-edu-dealerinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-edu-hotline-gtacng-dlr.pp.cf.app.ford.com
 api-uat-edu-tacservices-gtacng-dlr.pp.cf.app.ford.com
 api-uat-edu-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
+api-uat-eza.pp.cf.app.ford.com
 api-uat-gcqisservices-tfoamsng.pp.cf.app.ford.com
 api-uat-hc-swcm.pp.cf.app.ford.com
 api-uat-hotline-gtacng-dlr.pp.cf.app.ford.com
@@ -3931,7 +3932,6 @@ wwwstg-digitalservices.pp.cf.app.ford.com
 wwwstg-emp-accessories.pp.cf.app.ford.com
 wwwstg-emp-authorization.pp.cf.app.ford.com
 wwwstg-emp-datasync-prstgod.pp.cf.app.ford.com
-wwwstg-emp-dealeractions.pp.cf.app.ford.com
 wwwstg.hvbatt.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
