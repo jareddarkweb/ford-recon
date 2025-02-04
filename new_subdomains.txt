@@ -119,6 +119,7 @@ api-uat-reportingservices-tfoamsng.pp.cf.app.ford.com
 api-uat-rfaservices-tfoamsng.pp.cf.app.ford.com
 api-uat-starsservices-tfoamsng.pp.cf.app.ford.com
 api-uat-swcm.pp.cf.app.ford.com
+api-uat-tfoams.pp.cf.app.ford.com
 api-uat-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-vehiclesetup-isis.pp.cf.app.ford.com
 api-uat.vehiclesetup.isis.ford.com
@@ -3931,7 +3932,6 @@ wwwstg-cs.pp.cf.app.ford.com
 wwwstg-digitalservices.pp.cf.app.ford.com
 wwwstg-emp-accessories.pp.cf.app.ford.com
 wwwstg-emp-authorization.pp.cf.app.ford.com
-wwwstg-emp-datasync-prstgod.pp.cf.app.ford.com
 wwwstg.hvbatt.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
