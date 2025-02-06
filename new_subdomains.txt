@@ -804,6 +804,7 @@ ngpublisher.ford.com
 nguams.ford.com
 nmpdcglobal.ford.com
 nvous.ford.com
+oftp26-gechub.app.ford.com
 omnicraft-arg.ford.com
 one.ford.com
 onesearch.cf.app.ford.com
@@ -1007,6 +1008,7 @@ qa.planovalo.ar.ford.com
 qa.rrp.ford.com
 qa.support.ford.com
 qa.syncsupport.ford.com
+qa.vehicle360.ford.com
 qa2.owner.ford.com
 qa2.support.ford.com
 qa2k3.axz-canada.ford.com
@@ -1297,6 +1299,7 @@ vdsrprtg.ford.com
 vdstopl.ford.com
 ve.ford.com
 vibesintegrationedu-ici.pp.cf.app.ford.com
+view.br-mail.ford.com
 vm4.dearborn.ford.com
 vmacs.ford.com
 vms.ford.com
@@ -1844,7 +1847,6 @@ www.bpmtusb.ford.com
 www.bpus.ford.com
 www.bpusa.ford.com
 www.bpusb.ford.com
-www.brandaplb1.ford.com
 www.brandauthorus.ford.com
 www.brandauthorusa.ford.com
 www.brandauthorusb.ford.com
