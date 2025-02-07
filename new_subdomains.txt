@@ -129,6 +129,11 @@ api.engq01i.pivpn.eu.gcp.ford.com
 api.engq01i.pivpn.gcp.ford.com
 api.mss.ford.com
 api.pd01e.gcp.ford.com
+api.perf01e.ap.gcp.ford.com
+api.perf01e.gcp.ford.com
+api.perf01e.na.gcp.ford.com
+api.perf01i.pivpn.gcp.ford.com
+api.sam.ford.com
 apicollector-gcp.ford.com
 apicollector-stage-gcp.ford.com
 apideveloper.app.ford.com
@@ -151,6 +156,8 @@ apps.cl-west-sandbox01.cf.ford.com
 apqp.ford.com
 apsupvip1-prod.fmc1.ford.com
 ar.ford.com
+artisan.cf.app.ford.com
+artisan.ford.com
 artisan.pp.cf.app.ford.com
 as226-gechub.app.ford.com
 as2mft26-gechub.app.ford.com
@@ -256,7 +263,6 @@ capacityplanning2.ford.com
 capmp-edu-v2.pp.cf.app.ford.com
 capmp-edu.pp.cf.app.ford.com
 careers.ford.com
-caribe.ford.com
 carsadmin.ford.com
 cdn.dynatrace.ford.com
 centraldevendas.ford.com
@@ -298,7 +304,6 @@ corpqa-sts-ext.pp.cf.app.ford.com
 corpqa.sts.ford.com
 corpqad-sts-ext.pp.cf.app.ford.com
 corptest-sts-ext.pp.cf.app.ford.com
-cotizacion.ford.com
 cotus.ford.com
 cotusa.ford.com
 cotusb.ford.com
@@ -1099,7 +1104,6 @@ rda-qualityconnection.ford.com
 rea.ford.com
 redirect.ford.com
 redlb.ford.com
-registry.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
 request.ford.com
@@ -1227,6 +1231,7 @@ stage2k3.performanceparts.ford.com
 staging.media.ford.com
 stamps-esp.ford.com
 staponline.ford.com
+statements.wp.dev.ford.com
 status-fpqa-agenda.pp.cf.app.ford.com
 status.fp.agenda.ford.com
 status.fpqa.agenda.ford.com
@@ -1776,7 +1781,6 @@ www-fcsd-parts-ru-q.fmc1.ford.com
 www-fcsd-parts-ru.ecc1.ford.com
 www-fcsd-parts-ru.fmc1.ford.com
 www-fmcdealerns3270.app.ford.com
-www-fmcdealervt3270.app.ford.com
 www-geofencefistage.pp.cf.app.ford.com
 www-gfin.prod.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
@@ -1787,6 +1791,7 @@ www-origin.ar.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
 www-sharedanalyticsweb2.app.ford.com
+www-thegrid.prod.cf.app.ford.com
 www-tmt.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
@@ -1807,7 +1812,6 @@ www.addonprovider.ford.com
 www.addonprovidergcp.ford.com
 www.admin-gam.ford.com
 www.admintool.ford.com
-www.advocacy.ford.com
 www.aerovision-stage.ford.com
 www.aerovision.ford.com
 www.afr.ford.com
@@ -1885,7 +1889,6 @@ www.concesionarios.ford.com
 www.configurador.ford.com
 www.contrack.ford.com
 www.corporate.ford.com
-www.cotizacion.ford.com
 www.cotus.ford.com
 www.cotusa.ford.com
 www.cotusb.ford.com
@@ -1953,7 +1956,6 @@ www.esow.ford.com
 www.esp.ford.com
 www.espservices.ford.com
 www.etis.ford.com
-www.etisload.ford.com
 www.expertise-seguros.ford.com
 www.exportsystem.ford.com
 www.fafc.aims.ford.com
@@ -2272,6 +2274,7 @@ www.teamcenterfoa1pe1.ford.com
 www.teamcenterfoe1pe1.ford.com
 www.telematics.ford.com
 www.ter.ford.com
+www.thegrid.ford.com
 www.tkb.ford.com
 www.tmt.ford.com
 www.tooling.ford.com
@@ -3933,7 +3936,6 @@ wwwstage.grid.ford.com
 wwwstg-cs.pp.cf.app.ford.com
 wwwstg-digitalservices.pp.cf.app.ford.com
 wwwstg-emp-accessories.pp.cf.app.ford.com
-wwwstg-emp-authorization.pp.cf.app.ford.com
 wwwstg.hvbatt.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
