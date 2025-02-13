@@ -263,6 +263,7 @@ capacityplanning2.ford.com
 capmp-edu-v2.pp.cf.app.ford.com
 capmp-edu.pp.cf.app.ford.com
 careers.ford.com
+caribe.ford.com
 carsadmin.ford.com
 cdn.dynatrace.ford.com
 centraldevendas.ford.com
@@ -305,6 +306,7 @@ corpqa-sts-ext.pp.cf.app.ford.com
 corpqa.sts.ford.com
 corpqad-sts-ext.pp.cf.app.ford.com
 corptest-sts-ext.pp.cf.app.ford.com
+cotizacion.ford.com
 cotus.ford.com
 cotusa.ford.com
 cotusb.ford.com
@@ -1102,6 +1104,7 @@ rda-qualityconnection.ford.com
 rea.ford.com
 redirect.ford.com
 redlb.ford.com
+registry.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
 request.ford.com
@@ -1887,6 +1890,7 @@ www.concesionarios.ford.com
 www.configurador.ford.com
 www.contrack.ford.com
 www.corporate.ford.com
+www.cotizacion.ford.com
 www.cotus.ford.com
 www.cotusa.ford.com
 www.cotusb.ford.com
@@ -1954,6 +1958,7 @@ www.esow.ford.com
 www.esp.ford.com
 www.espservices.ford.com
 www.etis.ford.com
+www.etisload.ford.com
 www.expertise-seguros.ford.com
 www.exportsystem.ford.com
 www.fafc.aims.ford.com
@@ -2039,6 +2044,7 @@ www.gsps.ford.com
 www.gttc.ford.com
 www.hdds2.ford.com
 www.hmm.ford.com
+www.hodweb3270.ford.com
 www.hronline.ford.com
 www.hronline2.ford.com
 www.iciinteu.ford.com
@@ -2566,7 +2572,6 @@ wwwdev.requesttestwork.ford.com
 wwwdev.rex.ford.com
 wwwdev.rrp.ford.com
 wwwdev.sdcds.ford.com
-wwwdev.search-inventory.ford.com
 wwwdev.servicesfoc.ford.com
 wwwdev.servicesfoca.ford.com
 wwwdev.servicesfocb.ford.com
@@ -3602,7 +3607,6 @@ wwwqa.rfq.ford.com
 wwwqa.rrp.ford.com
 wwwqa.scm.ford.com
 wwwqa.sdcds.ford.com
-wwwqa.search-inventory.ford.com
 wwwqa.secure.dragonfly.ford.com
 wwwqa.secureauth.ford.com
 wwwqa.secureauthe.ford.com
