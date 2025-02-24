@@ -190,6 +190,7 @@ canary-heartbeat-gcpeuat.pp.cf.app.ford.com
 capmp-edu-v2.pp.cf.app.ford.com
 capmp-edu.pp.cf.app.ford.com
 careers.ford.com
+caribe.ford.com
 cdn.dynatrace.ford.com
 click.ar-mail.ford.com
 cmi-qa.pp.cf.app.ford.com
@@ -206,6 +207,7 @@ corpqa-sts-ext.pp.cf.app.ford.com
 corpqa.sts.ford.com
 corpqad-sts-ext.pp.cf.app.ford.com
 corptest-sts-ext.pp.cf.app.ford.com
+cotizacion.ford.com
 covid19survey.cf.app.ford.com
 covid19surveyadmin.cf.app.ford.com
 credit.cf.app.ford.com
@@ -370,6 +372,7 @@ rangeassist.pp.cf.app.ford.com
 rangeplayground.ford.com
 redirect.ford.com
 redlb.ford.com
+registry.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
 research.ford.com
@@ -468,6 +471,7 @@ www-gfin.prod.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
 www-nasapi-smh-edu.pp.cf.app.ford.com
 www-nasapi-smh-ui-edu.pp.cf.app.ford.com
+www-origin.ar.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
 www-sharedanalyticsweb2.app.ford.com
@@ -485,6 +489,7 @@ www.aerovision.ford.com
 www.apdm.ford.com
 www.apdmadm.ford.com
 www.app-fcsre.ford.com
+www.ar.ford.com
 www.axz.ford.com
 www.blueovalintelligence.ford.com
 www.brnda.ford.com
@@ -496,12 +501,14 @@ www.cloc-application.ford.com
 www.clw.ford.com
 www.community.ford.com
 www.corporate.ford.com
+www.cotizacion.ford.com
 www.designstudiovisitor.ford.com
 www.designsystem.ford.com
 www.designsystems.ford.com
 www.dfyservices.ford.com
 www.ecomm.ford.com
 www.etis.ford.com
+www.etisload.ford.com
 www.expertise-seguros.ford.com
 www.fafc.aims.ford.com
 www.fcecomcnc.ford.com
@@ -534,6 +541,7 @@ www.omnicraft-arg.ford.com
 www.owner.ford.com
 www.parts.ford.com
 www.performance.ford.com
+www.planovalo.ar.ford.com
 www.premium.ford.com
 www.pro.ford.com
 www.quantum-sandbox.fc.ford.com
@@ -760,6 +768,7 @@ wwwqa.mediaredesignlb.ford.com
 wwwqa.mymustang.ford.com
 wwwqa.nvcaem.ford.com
 wwwqa.performance.ford.com
+wwwqa.planovalo.ar.ford.com
 wwwqa.seaccount.ford.com
 wwwqa.sonarqube.ford.com
 wwwqa.subscriptions.ford.com
