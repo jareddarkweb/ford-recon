@@ -661,6 +661,7 @@ ivisb.ford.com
 ivs.ford.com
 ivssqa.security.ford.com
 ivsu.binaries.ford.com
+jfrog.ford.com
 jira-aim.ford.com
 jwesvs93.jaguar.ford.com
 lcs.ford.com
