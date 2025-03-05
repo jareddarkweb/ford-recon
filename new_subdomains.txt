@@ -262,7 +262,6 @@ capacityplanning2.ford.com
 capmp-edu-v2.pp.cf.app.ford.com
 capmp-edu.pp.cf.app.ford.com
 careers.ford.com
-caribe.ford.com
 carsadmin.ford.com
 cdn.dynatrace.ford.com
 centraldevendas.ford.com
@@ -300,7 +299,6 @@ corpqa-sts-ext.pp.cf.app.ford.com
 corpqa.sts.ford.com
 corpqad-sts-ext.pp.cf.app.ford.com
 corptest-sts-ext.pp.cf.app.ford.com
-cotizacion.ford.com
 cotus.ford.com
 cotusa.ford.com
 cotusb.ford.com
@@ -320,6 +318,7 @@ cudlvip2-prod.ecc1.ford.com
 customizerservices.ford.com
 customsisf.ford.com
 d.ford.com
+dataexplorer-service-stg.pp.cf.app.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
 ddl.ford.com
 dealer.agenda.ford.com
@@ -1103,7 +1102,6 @@ rda-qualityconnection.ford.com
 rea.ford.com
 redirect.ford.com
 redlb.ford.com
-registry.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
 request.ford.com
@@ -1294,6 +1292,7 @@ uat.sdn.ford.com
 uemmqa-dynatrace.pp.cf.app.ford.com
 urs.ford.com
 uvissuites-maintenance-service-qa.pp.cf.app.ford.com
+uvissuites-maintenance-service.prod.cf.app.ford.com
 v.ford.com
 vast.ford.com
 vdscentral.ford.com
@@ -1886,7 +1885,6 @@ www.concesionarios.ford.com
 www.configurador.ford.com
 www.contrack.ford.com
 www.corporate.ford.com
-www.cotizacion.ford.com
 www.cotus.ford.com
 www.cotusa.ford.com
 www.cotusb.ford.com
@@ -1954,7 +1952,6 @@ www.esow.ford.com
 www.esp.ford.com
 www.espservices.ford.com
 www.etis.ford.com
-www.etisload.ford.com
 www.expertise-seguros.ford.com
 www.exportsystem.ford.com
 www.fafc.aims.ford.com
@@ -3365,6 +3362,7 @@ wwwqa.cdscupid2.ford.com
 wwwqa.cdscupid3.ford.com
 wwwqa.centraldevendas.ford.com
 wwwqa.cfa.ford.com
+wwwqa.classic.accountmanager.ford.com
 wwwqa.clw.ford.com
 wwwqa.clwa.ford.com
 wwwqa.clwb.ford.com
@@ -3937,8 +3935,6 @@ wwwqatest.fordcreditbr.ford.com
 wwwstage.enrollment-broker.grid.ford.com
 wwwstage.grid.ford.com
 wwwstg-cs.pp.cf.app.ford.com
-wwwstg-digitalservices.pp.cf.app.ford.com
-wwwstg-emp-accessories.pp.cf.app.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
 wwwtest.xnet.ford.com
