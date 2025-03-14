@@ -527,6 +527,7 @@ fordvehiclesfocb.ford.com
 fordvehiclesus.ford.com
 fordviswsl.ford.com
 fp.agenda.ford.com
+fpi-dev.cf.app.ford.com
 fpqa-agenda.pp.cf.app.ford.com
 fpqa.agenda.ford.com
 fqacnapi.cv.ford.com
@@ -3406,7 +3407,6 @@ wwwqa.fordvehiclesfoc.ford.com
 wwwqa.fordvehiclesfoca.ford.com
 wwwqa.fordvehiclesfocb.ford.com
 wwwqa.forso.fi.ford.com
-wwwqa.fromtheroad.ford.com
 wwwqa.fsiv.ford.com
 wwwqa.fsiv2.ford.com
 wwwqa.fsivbatch.ford.com
