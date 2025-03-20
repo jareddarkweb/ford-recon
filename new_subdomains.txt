@@ -119,6 +119,7 @@ api-uat-tfoams.pp.cf.app.ford.com
 api-uat-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-vehiclesetup-isis.pp.cf.app.ford.com
 api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
+api.mps.ford.com
 api.mss.ford.com
 api.pd01e.gcp.ford.com
 api.perf01e.ap.gcp.ford.com
@@ -1255,7 +1256,6 @@ vdsrprtg.ford.com
 vdstopl.ford.com
 ve.ford.com
 vibesintegrationedu-ici.pp.cf.app.ford.com
-view.br-mail.ford.com
 vm4.dearborn.ford.com
 vmacs.ford.com
 vms.ford.com
@@ -1772,6 +1772,7 @@ www.armr.ford.com
 www.atfordreg.ford.com
 www.atlas.ford.com
 www.aub2b1.ford.com
+www.authagent.ford.com
 www.autoshows.ford.com
 www.axz-canada.ford.com
 www.axz.ford.com
@@ -1968,11 +1969,11 @@ www.gecras.ford.com
 www.gems.ford.com
 www.geos.ford.com
 www.ges.ford.com
-www.gfin.ford.com
 www.gforce.ford.com
 www.gicc.ford.com
 www.gim.ford.com
 www.girb.ford.com
+www.globalaccountaem.ford.com
 www.globalveme.ford.com
 www.gmm.ford.com
 www.gmmimds.ford.com
