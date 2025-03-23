@@ -1,3 +1,4 @@
+52718-fcsdecom-public-ns-dd3fe65f.s3-object.ford.com
 abrighterfuture.ford.com
 accdocs.ford.com
 accessories.ford.com
@@ -122,10 +123,6 @@ api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
 api.mps.ford.com
 api.mss.ford.com
 api.pd01e.gcp.ford.com
-api.perf01e.ap.gcp.ford.com
-api.perf01e.gcp.ford.com
-api.perf01e.na.gcp.ford.com
-api.perf01i.pivpn.gcp.ford.com
 api.sam.ford.com
 apicollector-gcp.ford.com
 apicollector-stage-gcp.ford.com
@@ -149,7 +146,6 @@ apqp.ford.com
 apsupvip1-prod.fmc1.ford.com
 ar.ford.com
 artisan.cf.app.ford.com
-artisan.ford.com
 artisan.pp.cf.app.ford.com
 as226-gechub.app.ford.com
 as2mft26-gechub.app.ford.com
@@ -256,6 +252,7 @@ cfa.ford.com
 cl-dev01.cf.ford.com
 cl-sandbox01.cf.ford.com
 cl-west-sandbox01.cf.ford.com
+classic.accountmanager.ford.com
 click.ar-mail.ford.com
 clw.ford.com
 clwa.ford.com
@@ -649,6 +646,7 @@ learning.ford.com
 legacy.ford.com
 legacy.qad.ford.com
 lincoln.wwwqa.akamai.dragonfly.ford.com
+local.ford.com
 login.caribe.ci.ford.com
 login.cl-dev01.cf.ford.com
 login.cl-sandbox01.cf.ford.com
@@ -1074,6 +1072,7 @@ rvs-microservices-perf.pp.cf.app.ford.com
 s1.ford.com
 s2.ford.com
 s2s.sync.cloud.ford.com
+s3-object.app.ford.com
 s3.ford.com
 s4.ford.com
 s5.ford.com
@@ -1817,6 +1816,7 @@ www.centroamerica.ford.com
 www.cfa.ford.com
 www.changepassword.ford.com
 www.chep.ford.com
+www.classic.accountmanager.ford.com
 www.cloudhosteddb.ford.com
 www.clw.ford.com
 www.clwa.ford.com
@@ -3850,8 +3850,6 @@ wwwqamg3.vsem.ford.com
 wwwqamg4.bpm.ford.com
 wwwqamg4.ivs.ford.com
 wwwqamg5.ivs.ford.com
-wwwqamglic-ecat-dlr.pp.cf.app.ford.com
-wwwqapcf-imagine.pp.cf.app.ford.com
 wwwqatest.fordcreditbr.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
