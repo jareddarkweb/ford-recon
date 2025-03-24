@@ -123,7 +123,7 @@ api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
 api.mps.ford.com
 api.mss.ford.com
 api.pd01e.gcp.ford.com
-api.sam.ford.com
+api.qa01e.gcp.ford.com
 apicollector-gcp.ford.com
 apicollector-stage-gcp.ford.com
 apideveloper.app.ford.com
@@ -1181,7 +1181,6 @@ stage2k3.mycareer.ford.com
 stage2k3.performanceparts.ford.com
 stamps-esp.ford.com
 staponline.ford.com
-statements.wp.dev.ford.com
 status-fpqa-agenda.pp.cf.app.ford.com
 status.fp.agenda.ford.com
 status.fpqa.agenda.ford.com
