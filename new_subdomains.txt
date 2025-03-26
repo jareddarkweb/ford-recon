@@ -34,10 +34,15 @@ agenda-msgconsumer-apiqa-agenda.pp.cf.app.ford.com
 agenda-msgproducer-apiqa-agenda.pp.cf.app.ford.com
 agenda-owners-apiqa-agenda.pp.cf.app.ford.com
 agenda-schedules-apiqa-agenda.pp.cf.app.ford.com
+agenda-schedules.api.agenda.ford.com
+agenda-scheduling-api-agenda.prod.cf.app.ford.com
 agenda-scheduling-apiqa-agenda.pp.cf.app.ford.com
+agenda-scheduling.api.agenda.ford.com
 agenda-users-apiqa-agenda.pp.cf.app.ford.com
+agenda-workshop-api-agenda.prod.cf.app.ford.com
 agenda-workshop-apiqa-agenda.pp.cf.app.ford.com
 agenda-workshop-uiqa-agenda.pp.cf.app.ford.com
+agenda-workshop.api.agenda.ford.com
 agenda.ford.com
 ahcvp124-vpnin1.ford.com
 ahcvp125-vpnin1.ford.com
@@ -253,7 +258,6 @@ cl-dev01.cf.ford.com
 cl-sandbox01.cf.ford.com
 cl-west-sandbox01.cf.ford.com
 classic.accountmanager.ford.com
-click.ar-mail.ford.com
 clw.ford.com
 clwa.ford.com
 clwb.ford.com
@@ -403,7 +407,6 @@ ecczws002.ecc3.ford.com
 ecczws002.md3.ford.com
 ediscovery.ford.com
 ediscovery2.ford.com
-edm-accessories.ford.com
 edms.ford.com
 edu.parts.ford.com
 eese.extsp.ford.com
@@ -431,8 +434,6 @@ ewholesale-prod-eu.cf.app.ford.com
 ewholesale-prod-no.cf.app.ford.com
 ewholesale-prod-we.cf.app.ford.com
 export.ford.com
-extdns012.ford.com
-extdns014.ford.com
 f1.ford.com
 f2.ford.com
 fbms.ford.com
@@ -915,7 +916,6 @@ powershell.qad.ford.com
 preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-exporters-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
-pro.ford.com
 prodpublish.corporate.ford.com
 prodpublish.rrp.ford.com
 prodpublishmg.rrp.ford.com
@@ -959,6 +959,7 @@ qa.managesync.ford.com
 qa.mfe.agenda.ford.com
 qa.motorcraft.ar.ford.com
 qa.mycareer.ford.com
+qa.myperformance.ford.com
 qa.owner.ford.com
 qa.owneradvantagerewards.ford.com
 qa.parts.ford.com
@@ -1120,7 +1121,6 @@ secureedu.ford.com
 secureedu.fordvehiclesus.ford.com
 secureedumg.corporate.ford.com
 secureedumg1.corporate.ford.com
-securemail.ford.com
 securemg.corporate.ford.com
 securemgtest.ford.com
 secureqa.corporate.ford.com
@@ -1988,7 +1988,6 @@ www.gtpcm.ford.com
 www.gttc.ford.com
 www.hdds2.ford.com
 www.hmm.ford.com
-www.hodweb3270.ford.com
 www.hrdw.ford.com
 www.hronline.ford.com
 www.hronline2.ford.com
@@ -2107,7 +2106,6 @@ www.pfs.ford.com
 www.pfsapp.ford.com
 www.pieportal.ford.com
 www.planovalo.ar.ford.com
-www.premium.ford.com
 www.privacyprotection-dev.ford.com
 www.pro.ford.com
 www.prod.gspas.ford.com
@@ -2120,6 +2118,7 @@ www.pw.ford.com
 www.q-das.ford.com
 www.q1.ford.com
 www.qa-etis.ford.com
+www.qa.myperformance.ford.com
 www.qa.owneradvantagerewards.ford.com
 www.qcp.fis.ford.com
 www.qdas.ford.com
@@ -2157,7 +2156,6 @@ www.scm.ford.com
 www.sdcds.ford.com
 www.sdm.ford.com
 www.sds2sms.ford.com
-www.seaccount.ford.com
 www.secure.asiapacific.ford.com
 www.secure.centroamerica.ford.com
 www.secure.dragonfly.ford.com
@@ -2499,7 +2497,6 @@ wwwdev.pieportal.ford.com
 wwwdev.proveedores.ford.com
 wwwdev.pw.ford.com
 wwwdev.qfc.ford.com
-wwwdev.qualityapps.ford.com
 wwwdev.quickquote.ford.com
 wwwdev.quickquotea.ford.com
 wwwdev.quickquoteb.ford.com
@@ -3144,6 +3141,7 @@ wwwqa-batch-fafcaims.pp.cf.app.ford.com
 wwwqa-booking-refresh-qa.pp.cf.app.ford.com
 wwwqa-bot-analytics-webexteams.pp.cf.app.ford.com
 wwwqa-buildingaccess.pp.cf.app.ford.com
+wwwqa-ccd-dealerconnection-com.cf.app.ford.com
 wwwqa-ccd-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-cfwsmod-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-concesionarios.pp.cf.app.ford.com
@@ -3370,7 +3368,6 @@ wwwqa.enginev2.ford.com
 wwwqa.esmart2.ford.com
 wwwqa.esow.ford.com
 wwwqa.etis.ford.com
-wwwqa.expertise-ar.ford.com
 wwwqa.exportsystem.ford.com
 wwwqa.fbms.ford.com
 wwwqa.fcs.ford.com
