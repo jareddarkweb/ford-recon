@@ -2097,6 +2097,7 @@ www.panda.ford.com
 www.pandap.ford.com
 www.pandaq.ford.com
 www.pandaqa.ford.com
+www.partner.ford.com
 www.password.ford.com
 www.pcm.ford.com
 www.pcmsds.ford.com
@@ -3421,7 +3422,6 @@ wwwqa.ges.ford.com
 wwwqa.gforce.ford.com
 wwwqa.gicc.ford.com
 wwwqa.globalaccountaem.ford.com
-wwwqa.globalowneraem.ford.com
 wwwqa.gmmimds.ford.com
 wwwqa.goasis.ford.com
 wwwqa.gppm.ford.com
