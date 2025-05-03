@@ -196,7 +196,6 @@ b4694.b2d.ford.com
 backlog.ford.com
 backoffice.agenda.ford.com
 beta.accountmanager.ford.com
-blueovalintelligence.ford.com
 bp2a.ford.com
 bp2dev.ford.com
 bp2deva.ford.com
@@ -249,7 +248,6 @@ cap.ba.ford.com
 capacityplanning2.ford.com
 capmp-edu-v2.pp.cf.app.ford.com
 capmp-edu.pp.cf.app.ford.com
-careers.ford.com
 carsadmin.ford.com
 celldash.ford.com
 centraldevendas.ford.com
@@ -268,12 +266,10 @@ comm.extsp.ford.com
 comm.sp.ford.com
 commoditybuy.ford.com
 commtruck.ford.com
-community.ford.com
 companyvehicles.ford.com
 competencycenter.ford.com
 concesionarios.ford.com
 connects.cf.app.ford.com
-consentinfo.ford.com
 contacts.stmmw.ford.com
 contrack.ford.com
 corp.sts.ford.com
@@ -508,7 +504,6 @@ fmms.ford.com
 focapi.cf.app.ford.com
 fomei.ford.com
 fomonbase.ford.com
-fordav.ford.com
 fordbrandprotection.ford.com
 fordcl.ford.com
 fordclassic.ford.com
@@ -617,7 +612,6 @@ intpublish-se.engine.ford.com
 intpublish.dragonfly.ford.com
 intpublish.engine.ford.com
 intpublishqamg4.dragonfly.ford.com
-inventory.ford.com
 inventoryfoc.ford.com
 inventorymfoc.ford.com
 inventorymus.ford.com
@@ -670,7 +664,6 @@ m.origin.india.ford.com
 m.origin.me.ford.com
 m.origin.ssa.ford.com
 m.pts.ford.com
-m.racing.ford.com
 m.secure.ford.com
 m.secure.india.ford.com
 m.ssa.ford.com
@@ -725,7 +718,6 @@ mt.bp3.ford.com
 mt.bp3a.ford.com
 mt.bp3b.ford.com
 mviper.ford.com
-mycareer.ford.com
 myfordvehicles.ford.com
 myreleases.ford.com
 myreleasesedu.ford.com
@@ -1055,12 +1047,10 @@ rda-qualityconnection.ford.com
 rea.ford.com
 recallreportingdashboard.ford.com
 recallreportingdashboardqa.ford.com
-redlb.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
 request.ford.com
 requesttestwork.ford.com
-research.ford.com
 rewards.ford.com
 rex.ford.com
 rfaserviceslnpedu.pp.cf.app.ford.com
@@ -1150,7 +1140,6 @@ servis2nat1.ford.com
 sfdc.ford.com
 sghaa300.nls.ford.com
 shop.ford.com
-siliconvalley.ford.com
 sim.ford.com
 sims.ford.com
 sip.ford.com
@@ -1195,11 +1184,9 @@ supplier.wcccs.ford.com
 supplier.webconnect.ford.com
 supplierinfo.ford.com
 support.ford.com
-sustainability.ford.com
 svs.fsao.ford.com
 svt.ford.com
 syncdevicecompatibility.ford.com
-syncsupport.ford.com
 sys.cl-dev01.cf.ford.com
 sys.cl-sandbox01.cf.ford.com
 sys.cl-west-sandbox01.cf.ford.com
@@ -1731,7 +1718,6 @@ www-nasapi-smh-edu.pp.cf.app.ford.com
 www-nasapi-smh-ui-edu.pp.cf.app.ford.com
 www-origin.ar.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
-www-redlb.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
 www.360.ford.com
@@ -1779,7 +1765,6 @@ www.b2c.webmonitor.ford.com
 www.backlog.ford.com
 www.bcfap.ford.com
 www.bids.ford.com
-www.blueovalintelligence.ford.com
 www.bpfoc.ford.com
 www.bpfoca.ford.com
 www.bpfocb.ford.com
@@ -1806,7 +1791,6 @@ www.cams.ford.com
 www.canada.fleet.ford.com
 www.capacityplanning.ford.com
 www.capacityplanning2.ford.com
-www.careers.ford.com
 www.caribe.ford.com
 www.carsadmin.ford.com
 www.cdscupid.ford.com
@@ -1824,7 +1808,6 @@ www.cns.ford.com
 www.collaborate.ford.com
 www.commoditybuy.ford.com
 www.commtruck.ford.com
-www.community.ford.com
 www.companyvehicles.ford.com
 www.competencycenter.ford.com
 www.concesionarios.ford.com
@@ -1850,7 +1833,6 @@ www.dealer.wcccs.ford.com
 www.dealer.webconnect.ford.com
 www.decisionmgr.ext.ford.com
 www.decisionmgr.ford.com
-www.designsystem.ford.com
 www.developer.ford.com
 www.dfyservices.ford.com
 www.disaster.ford.com
@@ -1933,7 +1915,6 @@ www.fmms.ford.com
 www.fomei.ford.com
 www.fomonbase.ford.com
 www.ford.com
-www.fordav.ford.com
 www.fordbrandprotection.ford.com
 www.fordcl.ford.com
 www.fordclassic.ford.com
@@ -2038,7 +2019,6 @@ www.lcs2.ford.com
 www.lean.ford.com
 www.learning.ford.com
 www.lom.ford.com
-www.lookandstyle.ford.com
 www.managecredential.ford.com
 www.manager-gam.ford.com
 www.me.ford.com
@@ -2058,7 +2038,6 @@ www.mustangcustomizerservices.ford.com
 www.mviper.ford.com
 www.mycareer.ford.com
 www.myfordvehicles.ford.com
-www.mymustang.ford.com
 www.myogc.ford.com
 www.myplan.ford.com
 www.myreleases.ford.com
@@ -2132,21 +2111,18 @@ www.quickquotefocb.ford.com
 www.quickquoteus.ford.com
 www.quickquoteusa.ford.com
 www.quickquoteusb.ford.com
-www.racing.ford.com
 www.raf.ford.com
 www.rapid.ford.com
 www.rapidqa.ford.com
 www.rea.ford.com
 www.recallreportingdashboard.ford.com
 www.recallreportingdashboardqa.ford.com
-www.redlb.ford.com
 www.reman.ford.com
 www.remantr.ford.com
 www.request-b2b.ford.com
 www.request.ford.com
 www.requestb2b.ford.com
 www.requesttestwork.ford.com
-www.research.ford.com
 www.rewards.ford.com
 www.rex.ford.com
 www.rfq.ford.com
@@ -2187,7 +2163,6 @@ www.servis2.ford.com
 www.servis2nat1.ford.com
 www.sharepoint.ford.com
 www.shc.ford.com
-www.shoppingtools.ford.com
 www.sibmon.ford.com
 www.silas.ford.com
 www.sim.ford.com
