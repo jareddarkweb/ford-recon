@@ -654,6 +654,9 @@ login.cl-sandbox01.cf.ford.com
 login.sys.cl-dev01.cf.ford.com
 login.sys.cl-west-sandbox01.cf.ford.com
 lom.ford.com
+loyalty-webpages-bundle-stage-eu.pp.cf.app.ford.com
+loyalty-webpages-bundle-stage-usa.pp.cf.app.ford.com
+loyalty-webpages-react-redirect-stage.pp.cf.app.ford.com
 lyncpadmin.ford.com
 m.asiapacific.ford.com
 m.caribbean.ford.com
@@ -3240,7 +3243,6 @@ wwwqa-wiqs-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-workplace.pp.cf.app.ford.com
 wwwqa-ws-fceaims.pp.cf.app.ford.com
 wwwqa-wsmodadmin-dealerconnection-com.pp.cf.app.ford.com
-wwwqa-wsmodapi-dealerconnection-com.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
@@ -3633,11 +3635,9 @@ wwwqa.xsbeurope.ford.com
 wwwqa2.ford.com
 wwwqaa.inventory.ford.com
 wwwqaa.quickquote.ford.com
-wwwqaapi-ecat-dlr.pp.cf.app.ford.com
 wwwqab.inventory.ford.com
 wwwqab.quickquote.ford.com
 wwwqadr.enginev2.ford.com
-wwwqalic-ecat-dlr.pp.cf.app.ford.com
 wwwqamg.admin-gam.ford.com
 wwwqamg.admintool.ford.com
 wwwqamg.afr.ford.com
