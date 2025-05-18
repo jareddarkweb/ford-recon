@@ -61,6 +61,7 @@ apdlr-qa.ecc1.ford.com
 apdlrvip1-prod.fmc1.ford.com
 api-away-message-service-test-webexteams.pp.cf.app.ford.com
 api-broadcast-service-test-webexteams.pp.cf.app.ford.com
+api-bulkbot-test-webexteams.pp.cf.app.ford.com
 api-commons-service-test-webexteams.pp.cf.app.ford.com
 api-d01e-gcp.pp.cf.app.ford.com
 api-dev-anypoint-sa.pp.cf.app.ford.com
@@ -1836,6 +1837,7 @@ www.cloudhosteddb.ford.com
 www.clw.ford.com
 www.clwa.ford.com
 www.clwb.ford.com
+www.cmmseddl.ford.com
 www.cns.ford.com
 www.collaborate.ford.com
 www.commoditybuy.ford.com
@@ -3200,6 +3202,7 @@ wwwqa-ebcmpcf-dlr.pp.cf.app.ford.com
 wwwqa-ecar.pp.cf.app.ford.com
 wwwqa-ecat-dlr.pp.cf.app.ford.com
 wwwqa-ecommerce-gcp.pp.cf.app.ford.com
+wwwqa-eja-fsao.pp.cf.app.ford.com
 wwwqa-elearning-dlr.pp.cf.app.ford.com
 wwwqa-elearning-lncn.pp.cf.app.ford.com
 wwwqa-elearning.pp.cf.app.ford.com
@@ -3211,6 +3214,7 @@ wwwqa-expertise-ar.pp.cf.app.ford.com
 wwwqa-ext-eblesswav-api.cf.app.ford.com
 wwwqa-faust-idp.pp.cf.app.ford.com
 wwwqa-fav.pp.cf.app.ford.com
+wwwqa-fbmseu.pp.cf.app.ford.com
 wwwqa-fbmsna.pp.cf.app.ford.com
 wwwqa-fc-residual-equipment-tool-dlr.pp.cf.app.ford.com
 wwwqa-fcameu-mobile.pp.cf.app.ford.com
@@ -3240,9 +3244,6 @@ wwwqa-hvbatt-gcp.pp.cf.app.ford.com
 wwwqa-laracademyus.pp.cf.app.ford.com
 wwwqa-loyaltyandretention-dlr.pp.cf.app.ford.com
 wwwqa-mnv-ui.pp.cf.app.ford.com
-wwwqa-mviper.pp.cf.app.ford.com
-wwwqa-mylearning.pp.cf.app.ford.com
-wwwqa-nasapi-services-gateway.pp.cf.app.ford.com
 wwwqa-nvolincoln.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
@@ -3425,7 +3426,6 @@ wwwqa.geos.ford.com
 wwwqa.ges.ford.com
 wwwqa.gforce.ford.com
 wwwqa.gicc.ford.com
-wwwqa.globalaccountaem.ford.com
 wwwqa.gmmimds.ford.com
 wwwqa.goasis.ford.com
 wwwqa.gppm.ford.com
