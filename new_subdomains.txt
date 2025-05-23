@@ -75,9 +75,12 @@ api-it-connect-service-test-webexteams.pp.cf.app.ford.com
 api-jab7-wings.cf.app.ford.com
 api-lnp-edu-adminservices-gtacng-dlr.pp.cf.app.ford.com
 api-lnp-edu-attachments-gtacng-dlr.pp.cf.app.ford.com
+api-lnp-edu-authorizationservices-tfoamsng.pp.cf.app.ford.com
 api-lnp-edu-contactservices-gtacng-dlr.pp.cf.app.ford.com
+api-lnp-edu-customizationservices-tfoamsng.pp.cf.app.ford.com
 api-lnp-edu-dealerinfo-gtacng-dlr.pp.cf.app.ford.com
 api-lnp-edu-hotline-gtacng-dlr.pp.cf.app.ford.com
+api-lnp-edu-starsservices-tfoamsng.pp.cf.app.ford.com
 api-lnp-edu-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
 api-lnp-tac-gtacng-dlr.pp.cf.app.ford.com
 api-modbot-compliance-automation-test-wbxtms.pp.cf.app.ford.com
@@ -315,6 +318,7 @@ dealer.wcccs.ford.com
 dealer.webconnect.ford.com
 dealerqa-agenda.pp.cf.app.ford.com
 decisionmgr.ford.com
+demo-accountmanager-lncn.pp.cf.app.ford.com
 dept.sp.ford.com
 dev-fma-sandbox-lncn.pp.cf.app.ford.com
 dev-fma-sandbox.pp.cf.app.ford.com
@@ -660,6 +664,7 @@ login.cl-sandbox01.cf.ford.com
 login.sys.cl-dev01.cf.ford.com
 login.sys.cl-west-sandbox01.cf.ford.com
 lom.ford.com
+loyalty-webpages-bundle-stage-can.pp.cf.app.ford.com
 loyalty-webpages-bundle-stage-eu.pp.cf.app.ford.com
 loyalty-webpages-bundle-stage-usa.pp.cf.app.ford.com
 loyalty-webpages-react-redirect-stage.pp.cf.app.ford.com
@@ -3239,11 +3244,6 @@ wwwqa-gdtsc.pp.cf.app.ford.com
 wwwqa-gfinservice-dlr.pp.cf.app.ford.com
 wwwqa-goals-dealerconnection-com.pp.cf.app.ford.com
 wwwqa-goalsng-listener.pp.cf.app.ford.com
-wwwqa-hrjoe.pp.cf.app.ford.com
-wwwqa-hvbatt-gcp.pp.cf.app.ford.com
-wwwqa-laracademyus.pp.cf.app.ford.com
-wwwqa-loyaltyandretention-dlr.pp.cf.app.ford.com
-wwwqa-mnv-ui.pp.cf.app.ford.com
 wwwqa-nvolincoln.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
