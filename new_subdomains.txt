@@ -106,6 +106,7 @@ api-surveys-service-test-webexteams.pp.cf.app.ford.com
 api-tickets.cf.app.ford.com
 api-transformationqa.pp.cf.app.ford.com
 api-uat-adminservices-gtacng-dlr.pp.cf.app.ford.com
+api-uat-attachments-gtacng-dlr.pp.cf.app.ford.com
 api-uat-attachmentservices-tfoamsng.pp.cf.app.ford.com
 api-uat-authorizationservices-tfoamsng.pp.cf.app.ford.com
 api-uat-contactservices-gtacng-dlr.pp.cf.app.ford.com
@@ -527,6 +528,7 @@ fordctt.cf.app.ford.com
 forddoc.ford.com
 fordids.wsi.ford.com
 fordlpg.ford.com
+fordpass.fpqa.agenda.ford.com
 fordpim.ford.com
 fordprotect.ford.com
 fordscs.ford.com
@@ -3233,17 +3235,15 @@ wwwqa-fimco.pp.cf.app.ford.com
 wwwqa-flmms-mob.pp.cf.app.ford.com
 wwwqa-fmcdealer-dealerprofile-dlr.pp.cf.app.ford.com
 wwwqa-fmcdealer-edms-service-dlr.pp.cf.app.ford.com
+wwwqa-fmcdealer-manifold-dlr.pp.cf.app.ford.com
 wwwqa-fmcdealer-roa-comm-dlr.pp.cf.app.ford.com
+wwwqa-fmcdealer-roa-edms-service-dlr.pp.cf.app.ford.com
 wwwqa-fordcomponentsales.pp.cf.app.ford.com
 wwwqa-fordctt.pp.cf.app.ford.com
 wwwqa-fordenter.pp.cf.app.ford.com
 wwwqa-fordfacil-dlr.pp.cf.app.ford.com
 wwwqa-fpracademy.pp.cf.app.ford.com
 wwwqa-fsp-wlp.pp.cf.app.ford.com
-wwwqa-gdtsc.pp.cf.app.ford.com
-wwwqa-gfinservice-dlr.pp.cf.app.ford.com
-wwwqa-goals-dealerconnection-com.pp.cf.app.ford.com
-wwwqa-goalsng-listener.pp.cf.app.ford.com
 wwwqa-nvolincoln.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
