@@ -592,6 +592,7 @@ hrweb.chongqing.ford.com
 hrweb.chongqing2.ford.com
 hterqa.pp.cf.app.ford.com
 iam.ford.com
+image.eumsg.ford.com
 imagine.ford.com
 imcs.ford.com
 imcsprod.warley.ford.com
