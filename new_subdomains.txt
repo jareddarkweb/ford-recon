@@ -87,6 +87,7 @@ api-qa-customizationservices-tfoamsng.pp.cf.app.ford.com
 api-qa-estacs.pp.cf.app.ford.com
 api-qa-ineligiblepayee-dlr.pp.cf.app.ford.com
 api-qa-pollbot-webexteams.pp.cf.app.ford.com
+api-qa-selfjoinbot-webexteams.pp.cf.app.ford.com
 api-qa-starsservices-tfoamsng.pp.cf.app.ford.com
 api-qa-vehiclesetup-isis.pp.cf.app.ford.com
 api-qa01e-gcp.pp.cf.app.ford.com
@@ -3131,7 +3132,6 @@ wwwqa-fordctt.pp.cf.app.ford.com
 wwwqa-fordenter.pp.cf.app.ford.com
 wwwqa-fordfacil-dlr.pp.cf.app.ford.com
 wwwqa-fpracademy.pp.cf.app.ford.com
-wwwqa-fsp-wlp.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
