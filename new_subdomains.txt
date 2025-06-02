@@ -111,6 +111,7 @@ api-uat-attachments-gtacng-dlr.pp.cf.app.ford.com
 api-uat-attachmentservices-tfoamsng.pp.cf.app.ford.com
 api-uat-authorizationservices-tfoamsng.pp.cf.app.ford.com
 api-uat-contactservices-gtacng-dlr.pp.cf.app.ford.com
+api-uat-customizationservices-tfoamsng.pp.cf.app.ford.com
 api-uat-dealerinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-edu-authorizationservices-gtacng-dlr.pp.cf.app.ford.com
 api-uat-edu-contactservices-gtacng-dlr.pp.cf.app.ford.com
@@ -281,6 +282,7 @@ competencycenter.ford.com
 concesionarios.ford.com
 connects.cf.app.ford.com
 consentinfo.ford.com
+console-openshift-console.apps.pd11.edc.caas.ford.com
 contacts.stmmw.ford.com
 contrack.ford.com
 corp.sts.ford.com
@@ -1920,6 +1922,7 @@ www.ekbbooks.ford.com
 www.elibrary.ford.com
 www.engine.ford.com
 www.enginev2.ford.com
+www.epsw.ford.com
 www.eqo.ford.com
 www.esmart2.ford.com
 www.esow.ford.com
@@ -2134,7 +2137,6 @@ www.pfsapp.ford.com
 www.pieportal.ford.com
 www.planovalo.ar.ford.com
 www.privacyprotection-dev.ford.com
-www.pro.ford.com
 www.prod.gspas.ford.com
 www.professionaldevelopment.ford.com
 www.proveedores.ford.com
@@ -3243,7 +3245,6 @@ wwwqa-fordcomponentsales.pp.cf.app.ford.com
 wwwqa-fordctt.pp.cf.app.ford.com
 wwwqa-fordenter.pp.cf.app.ford.com
 wwwqa-fordfacil-dlr.pp.cf.app.ford.com
-wwwqa-fpracademy.pp.cf.app.ford.com
 wwwqa-nvolincoln.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
