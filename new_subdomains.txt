@@ -430,6 +430,7 @@ ermv7qa2.ford.com
 es-m.ford.com
 es.bp3.ford.com
 es.ford.com
+es.local.ford.com
 es.owner.ford.com
 es.quickquote.ford.com
 esmart2.ford.com
@@ -743,6 +744,7 @@ mqa.ford.com
 mqa1cntest.cv.ford.com
 mqa2.ford.com
 mqacntest.cv.ford.com
+msg.ford.com
 mt.bp3.ford.com
 mt.bp3a.ford.com
 mt.bp3b.ford.com
@@ -3291,7 +3293,6 @@ wwwqa.bpmtusb.ford.com
 wwwqa.bpus.ford.com
 wwwqa.bpusa.ford.com
 wwwqa.bpusb.ford.com
-wwwqa.brand.ford.com
 wwwqa.brandauthorus.ford.com
 wwwqa.brandauthorusa.ford.com
 wwwqa.brandauthorusb.ford.com
