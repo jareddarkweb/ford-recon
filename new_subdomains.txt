@@ -3440,7 +3440,6 @@ wwwqa.hronline2.ford.com
 wwwqa.idea.ford.com
 wwwqa.imagine.ford.com
 wwwqa.imcs.ford.com
-wwwqa.imgservices.ford.com
 wwwqa.impex.ford.com
 wwwqa.inventory.ford.com
 wwwqa.inventoryfoc.ford.com
