@@ -1707,6 +1707,7 @@ webqamg3.sfq.ford.com
 webqamg3.spbom.ford.com
 webqamg3.supplierdirectory.ford.com
 webqamg3.vis.ford.com
+webtest2.pp.cf.app.ford.com
 webvpn.ford.com
 webvpn.partner.ford.com
 webvpn1.partner.ford.com
@@ -3166,7 +3167,6 @@ wwwperf.brandauthorus.ford.com
 wwwperf.brandauthorusa.ford.com
 wwwperf.brandauthorusb.ford.com
 wwwperf.dfyservices.ford.com
-wwwperf.imgservices.ford.com
 wwwperfext-authagent.pp.cf.app.ford.com
 wwwpreprod-focsalesops-dlr.pp.cf.app.ford.com
 wwwprod-engine.ford.com
