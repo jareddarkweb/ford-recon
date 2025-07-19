@@ -57,6 +57,7 @@ am-cloc-request-increase-prod.ford.com
 am-request-increase-cloc-qa.ford.com
 ampgfi.app.ford.com
 annualreport.ford.com
+ansible-guide.ford.com
 apdlr-qa.ecc1.ford.com
 apdlrvip1-prod.fmc1.ford.com
 api-away-message-service-test-webexteams.pp.cf.app.ford.com
@@ -65,6 +66,8 @@ api-bulkbot-test-webexteams.pp.cf.app.ford.com
 api-commons-service-test-webexteams.pp.cf.app.ford.com
 api-d01e-gcp.pp.cf.app.ford.com
 api-dev-anypoint-sa.pp.cf.app.ford.com
+api-dev.foundational.ford.com
+api-dev.pivpn.foundational.ford.com
 api-ecar.cf.app.ford.com
 api-edu-ecar.pp.cf.app.ford.com
 api-engd01e-gcp.pp.cf.app.ford.com
@@ -89,6 +92,8 @@ api-perf01e-gcp.pp.cf.app.ford.com
 api-perf01e-gcp2.pp.cf.app.ford.com
 api-perf01e-gcpdiag.pp.cf.app.ford.com
 api-preprod-swcm.pp.cf.app.ford.com
+api-prf.foundational.ford.com
+api-prf.pivpn.foundational.ford.com
 api-qa-attachmentservices-tfoamsng.pp.cf.app.ford.com
 api-qa-customizationservices-tfoamsng.pp.cf.app.ford.com
 api-qa-estacs.pp.cf.app.ford.com
@@ -98,8 +103,12 @@ api-qa-selfjoinbot-webexteams.pp.cf.app.ford.com
 api-qa-starsservices-tfoamsng.pp.cf.app.ford.com
 api-qa-vehiclesetup-isis.pp.cf.app.ford.com
 api-qa01e-gcp.pp.cf.app.ford.com
+api-qat.foundational.ford.com
+api-qat.pivpn.foundational.ford.com
 api-sam.app.ford.com
 api-space-analytics-service-test-webexteams.pp.cf.app.ford.com
+api-stg.foundational.ford.com
+api-stg.pivpn.foundational.ford.com
 api-stg01e-gcp.pp.cf.app.ford.com
 api-stg01e-gcp2.pp.cf.app.ford.com
 api-surveys-service-test-webexteams.pp.cf.app.ford.com
@@ -135,6 +144,7 @@ api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
 api.mps.ford.com
 api.mss.ford.com
 api.pd01e.gcp.ford.com
+api.pivpn.service.ford.com
 api.qa01e.gcp.ford.com
 api.service.ford.com
 apicollector-gcp.ford.com
@@ -798,6 +808,7 @@ ngauthor.ford.com
 ngpublisher.ford.com
 nguams.ford.com
 nmpdcglobal.ford.com
+nvc-nbuild.ford.com
 nvous.ford.com
 one.ford.com
 onesearch.cf.app.ford.com
@@ -2054,7 +2065,6 @@ www.itengage.ford.com
 www.iteps.ford.com
 www.itld.ford.com
 www.itms.ford.com
-www.itp.ford.com
 www.itsd.ford.com
 www.itsms.ford.com
 www.ivis2.ford.com
@@ -2201,7 +2211,6 @@ www.secureauthe.ford.com
 www.secureauthf.ford.com
 www.securid.ford.com
 www.securidreg.ford.com
-www.security.ford.com
 www.serviceadvisor.ford.com
 www.serviceevent.ford.com
 www.servicesautheucache.ford.com
