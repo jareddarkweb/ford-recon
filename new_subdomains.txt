@@ -264,6 +264,7 @@ fordpass.fpqa.agenda.ford.com
 fp.agenda.ford.com
 fpdev.agenda.ford.com
 fpi-dev.cf.app.ford.com
+fpi-diagnostic-tool-stage.ford.com
 fpi-diagnostic-tool.ford.com
 fpqa-agenda.pp.cf.app.ford.com
 fpqa.agenda.ford.com
@@ -471,6 +472,7 @@ www.careers.ford.com
 www.chep.ford.com
 www.classic.accountmanager.ford.com
 www.cmmseddl.ford.com
+www.commercial.application.ford.com
 www.community.ford.com
 www.corporate.ford.com
 www.datastage.ford.com
