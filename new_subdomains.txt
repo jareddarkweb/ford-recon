@@ -63,6 +63,7 @@ apdlrvip1-prod.fmc1.ford.com
 api-away-message-service-test-webexteams.pp.cf.app.ford.com
 api-broadcast-service-test-webexteams.pp.cf.app.ford.com
 api-bulkbot-test-webexteams.pp.cf.app.ford.com
+api-calling-report-service-webexteams.prod.cf.app.ford.com
 api-commons-service-test-webexteams.pp.cf.app.ford.com
 api-d01e-gcp.pp.cf.app.ford.com
 api-dev-anypoint-sa.pp.cf.app.ford.com
@@ -604,6 +605,8 @@ history-fpqa-agenda.pp.cf.app.ford.com
 history.fp.agenda.ford.com
 history.fpdev.agenda.ford.com
 history.fpqa.agenda.ford.com
+hour-of-power-api.ford.com
+hour-of-power-api.prod.cf.app.ford.com
 hronline.ford.com
 hronline2.ford.com
 hrweb.chongqing.ford.com
@@ -670,6 +673,7 @@ ivis3.ford.com
 ivisb.ford.com
 ivs.ford.com
 ivssqa.security.ford.com
+jfrog-guide.ford.com
 jwesvs93.jaguar.ford.com
 lcs.ford.com
 lcs2.ford.com
@@ -1124,7 +1128,6 @@ s3-object.app.ford.com
 s3.ford.com
 s4.ford.com
 s5.ford.com
-safety.niehl.ford.com
 saperks.agenda.ford.com
 saperksqa.agenda.ford.com
 sdcds.ford.com
@@ -1271,6 +1274,8 @@ test.ffsupload.ford.com
 testravonline.myfcsdsales.ford.com
 tfoamsnglnpedu.pp.cf.app.ford.com
 tfoamsngqa.pp.cf.app.ford.com
+tistatic.ford.com
+tistatic.prod.cf.app.ford.com
 tooling.ford.com
 touch.ford.com
 touch.india.ford.com
@@ -1779,6 +1784,7 @@ www-fcsd-parts-ru.ecc1.ford.com
 www-fcsd-parts-ru.fmc1.ford.com
 www-geofencefistage.pp.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
+www-nasapi-service-jsp-orchestrator.prod.cf.app.ford.com
 www-nasapi-smh-edu.pp.cf.app.ford.com
 www-nasapi-smh-ui-edu.pp.cf.app.ford.com
 www-origin.ar.ford.com
@@ -1958,7 +1964,6 @@ www.fafc.aims.ford.com
 www.fafcaims.ford.com
 www.faia.ford.com
 www.fbms.ford.com
-www.fcagile.ford.com
 www.fcdms-ext.ford.com
 www.fcs.ford.com
 www.fcsd-parts-na.ford.com
@@ -2033,7 +2038,6 @@ www.gmmimds.ford.com
 www.goasis.ford.com
 www.gpas-cache.ford.com
 www.gppm.ford.com
-www.gr.ford.com
 www.gsec.ford.com
 www.gslts.ford.com
 www.gsps.ford.com
@@ -2082,7 +2086,6 @@ www.ivs.ford.com
 www.jlrivs.ford.com
 www.kbi.fsao.ford.com
 www.kdes.ford.com
-www.labels.ford.com
 www.lcs.ford.com
 www.lcs2.ford.com
 www.lean.ford.com
@@ -2114,6 +2117,7 @@ www.myogc.ford.com
 www.myplan.ford.com
 www.myreleases.ford.com
 www.na.fleet.ford.com
+www.nasapi-service-jsp-orchestrator.ford.com
 www.netops.ford.com
 www.ngauthor.ford.com
 www.ngpcms01.ford.com
@@ -2124,7 +2128,6 @@ www.nvous.ford.com
 www.nvousa.ford.com
 www.nvousb.ford.com
 www.odyssey.ford.com
-www.ohs.ford.com
 www.one.ford.com
 www.origin.caribe.ford.com
 www.origin.centroamerica.ford.com
