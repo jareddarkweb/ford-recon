@@ -145,10 +145,14 @@ api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
 api.is.ford.com
 api.mps.ford.com
 api.mss.ford.com
+api.ops.ford.com
 api.pd01e.gcp.ford.com
+api.pivpn.ops.ford.com
 api.pivpn.service.ford.com
+api.pivpn.vehicle.ford.com
 api.qa01e.gcp.ford.com
 api.service.ford.com
+api.vehicle.ford.com
 apicollector-gcp.ford.com
 apicollector-stage-gcp.ford.com
 apideveloper.app.ford.com
@@ -1927,7 +1931,6 @@ www.eassets.ford.com
 www.ebcm.ford.com
 www.ebcmws.ford.com
 www.eblesscaps.ford.com
-www.ecaf90.ford.com
 www.ecco-external.ford.com
 www.ecco.ford.com
 www.eccoadmin.ford.com
@@ -2166,7 +2169,6 @@ www.prod.gspas.ford.com
 www.professionaldevelopment.ford.com
 www.proveedores.ford.com
 www.pshr.ford.com
-www.ptme.ford.com
 www.pulse.ford.com
 www.pw.ford.com
 www.q-das.ford.com
@@ -2320,7 +2322,6 @@ www.webdefects.ford.com
 www.webexsso.ford.com
 www.webfocus.ford.com
 www.webfocus7.ford.com
-www.webfocuscoe.ford.com
 www.webquote.ford.com
 www.webquote1.ford.com
 www.webvat.ford.com
@@ -3863,6 +3864,7 @@ wwwqamg4.bpm.ford.com
 wwwqamg4.ivs.ford.com
 wwwqamg5.ivs.ford.com
 wwwqatest.fordcreditbr.ford.com
+wwwstg.aem-engineering.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
 wwwtest.xnet.ford.com
