@@ -67,7 +67,9 @@ api-calling-report-service-webexteams.prod.cf.app.ford.com
 api-commons-service-test-webexteams.pp.cf.app.ford.com
 api-d01e-gcp.pp.cf.app.ford.com
 api-dev-anypoint-sa.pp.cf.app.ford.com
+api-dev.engvert.ford.com
 api-dev.foundational.ford.com
+api-dev.pivpn.engvert.ford.com
 api-dev.pivpn.foundational.ford.com
 api-ecar.cf.app.ford.com
 api-edu-ecar.pp.cf.app.ford.com
@@ -93,7 +95,9 @@ api-perf01e-gcp.pp.cf.app.ford.com
 api-perf01e-gcp2.pp.cf.app.ford.com
 api-perf01e-gcpdiag.pp.cf.app.ford.com
 api-preprod-swcm.pp.cf.app.ford.com
+api-prf.engvert.ford.com
 api-prf.foundational.ford.com
+api-prf.pivpn.engvert.ford.com
 api-prf.pivpn.foundational.ford.com
 api-qa-attachmentservices-tfoamsng.pp.cf.app.ford.com
 api-qa-customizationservices-tfoamsng.pp.cf.app.ford.com
@@ -104,11 +108,15 @@ api-qa-selfjoinbot-webexteams.pp.cf.app.ford.com
 api-qa-starsservices-tfoamsng.pp.cf.app.ford.com
 api-qa-vehiclesetup-isis.pp.cf.app.ford.com
 api-qa01e-gcp.pp.cf.app.ford.com
+api-qat.engvert.ford.com
 api-qat.foundational.ford.com
+api-qat.pivpn.engvert.ford.com
 api-qat.pivpn.foundational.ford.com
 api-sam.app.ford.com
 api-space-analytics-service-test-webexteams.pp.cf.app.ford.com
+api-stg.engvert.ford.com
 api-stg.foundational.ford.com
+api-stg.pivpn.engvert.ford.com
 api-stg.pivpn.foundational.ford.com
 api-stg01e-gcp.pp.cf.app.ford.com
 api-stg01e-gcp2.pp.cf.app.ford.com
@@ -577,7 +585,6 @@ fsm.ford.com
 fup.fsn.ford.com
 ga.ford.com
 gam.ford.com
-gate.ford.com
 gcat2.ford.com
 gci.ford.com
 gcms.ford.com
@@ -1109,7 +1116,6 @@ ravpn03.tcslab.ford.com
 rda-qualityconnection.ford.com
 rea.ford.com
 recallreportingdashboard.ford.com
-recallreportingdashboardqa.ford.com
 redlb.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
@@ -1309,6 +1315,14 @@ vdsna01.ford.com
 vdsrprtg.ford.com
 vdstopl.ford.com
 ve.ford.com
+vert10-ext-dev.na.gcp.ford.com
+vert10-ext-prf.na.gcp.ford.com
+vert10-ext-qat.na.gcp.ford.com
+vert10-ext-stg.na.gcp.ford.com
+vert10-int-dev.pivpn.na.gcp.ford.com
+vert10-int-prf.pivpn.na.gcp.ford.com
+vert10-int-qat.pivpn.na.gcp.ford.com
+vert10-int-stg.pivpn.na.gcp.ford.com
 vibesintegrationedu-ici.pp.cf.app.ford.com
 vm4.dearborn.ford.com
 vmacs.ford.com
@@ -2273,7 +2287,6 @@ www.teamcenter2pdcloc1.ford.com
 www.teamcenterfoa1pe1.ford.com
 www.teamcenterfoe1pe1.ford.com
 www.techart.ford.com
-www.techlounge.ford.com
 www.ter.ford.com
 www.tkb.ford.com
 www.tooling.ford.com
