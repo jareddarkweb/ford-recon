@@ -835,6 +835,8 @@ nvc-nbuild.ford.com
 nvous.ford.com
 one.ford.com
 onesearch.cf.app.ford.com
+opsearch-spt.app.ford.com
+opsearch.spt.ford.com
 orgindev.support.ford.com
 orginedu.support-lincoln.ford.com
 orginedu.support.ford.com
@@ -1556,6 +1558,7 @@ webedumg2.isis.ford.com
 webexsso.ford.com
 webfocus.ford.com
 webfocus7.ford.com
+webhook.ford.com
 webmg.competencycenter.ford.com
 webmg.ctx.ford.com
 webmg.emm2.ford.com
@@ -1808,6 +1811,7 @@ www-nasapi-smh-ui-edu.pp.cf.app.ford.com
 www-origin.ar.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
+www-spdqssupplierapi.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
 www.360.ford.com
@@ -1930,7 +1934,6 @@ www.decisionmgr.ford.com
 www.designsystem.ford.com
 www.dev.mvl-cam.ford.com
 www.developer.ford.com
-www.disaster.ford.com
 www.dorf.ford.com
 www.download-gam.ford.com
 www.dps.ford.com
@@ -2176,7 +2179,6 @@ www.pcmsds.ford.com
 www.pecnet.ford.com
 www.performanceparts.ford.com
 www.pfs.ford.com
-www.pfsapp.ford.com
 www.pieportal.ford.com
 www.planovalo.ar.ford.com
 www.prod.gspas.ford.com
@@ -2185,7 +2187,6 @@ www.proveedores.ford.com
 www.pshr.ford.com
 www.pulse.ford.com
 www.pw.ford.com
-www.q-das.ford.com
 www.q1.ford.com
 www.qa-etis.ford.com
 www.qa.myperformance.ford.com
@@ -2260,6 +2261,7 @@ www.simba.ford.com
 www.sims.ford.com
 www.sims1.ford.com
 www.snurk2.ford.com
+www.spdqssupplierapi.ford.com
 www.speedy.ford.com
 www.sps.ford.com
 www.srll.ford.com
