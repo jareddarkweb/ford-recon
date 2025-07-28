@@ -2068,6 +2068,7 @@ www.hrdw.ford.com
 www.hronline.ford.com
 www.hronline2.ford.com
 www.idea.ford.com
+www.ideaplace.ford.com
 www.imagine.ford.com
 www.imcs.ford.com
 www.imcsprod.ford.com
@@ -3563,6 +3564,7 @@ wwwqa.rfq.ford.com
 wwwqa.rrp.ford.com
 wwwqa.scm.ford.com
 wwwqa.sdcds.ford.com
+wwwqa.sds.ford.com
 wwwqa.secure.dragonfly.ford.com
 wwwqa.secureauth.ford.com
 wwwqa.secureauthe.ford.com
