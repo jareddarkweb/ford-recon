@@ -1142,6 +1142,7 @@ s4.ford.com
 s5.ford.com
 saperks.agenda.ford.com
 saperksqa.agenda.ford.com
+sapgq101-ierp.cloud.app.ford.com
 sdcds.ford.com
 sdn.ford.com
 search.extsp.ford.com
@@ -1973,7 +1974,6 @@ www.elibrary.ford.com
 www.engine.ford.com
 www.enginev2.ford.com
 www.epsw.ford.com
-www.eqo.ford.com
 www.esmart2.ford.com
 www.esow.ford.com
 www.esp.ford.com
@@ -3881,6 +3881,7 @@ wwwqamg4.bpm.ford.com
 wwwqamg4.ivs.ford.com
 wwwqamg5.ivs.ford.com
 wwwqatest.fordcreditbr.ford.com
+wwwrde.aem-engineering.ford.com
 wwwstg.aem-engineering.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
