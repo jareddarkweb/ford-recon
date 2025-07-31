@@ -19,6 +19,7 @@ addonprovider.ford.com
 admin-gam.ford.com
 adminqa-perks-agenda.pp.cf.app.ford.com
 advocacy.ford.com
+aemeudev.eusb-couk.ford.com
 agenda-alertadn-apiqa-agenda.pp.cf.app.ford.com
 agenda-authentication-apiqa-agenda.pp.cf.app.ford.com
 agenda-business-uiqa-agenda.pp.cf.app.ford.com
@@ -1999,7 +2000,6 @@ www.ffepaclom2.ford.com
 www.ffs.ford.com
 www.ffsupload.ford.com
 www.fgs.fsn.ford.com
-www.fivesa.ford.com
 www.fld.ford.com
 www.fleet.ford.com
 www.fleetservice.ford.com
@@ -3887,7 +3887,6 @@ wwwstg.aem-engineering.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
 wwwtest.xnet.ford.com
-x.ford.com
 xgtw.ford.com
 xgtw2.ford.com
 xgtw2dev.ford.com
