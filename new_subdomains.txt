@@ -258,6 +258,7 @@ emm.ford.com
 es-m.ford.com
 es.bp3.ford.com
 es.local.ford.com
+esqa.brandsites.ford.com
 eused-web.pp.cf.app.ford.com
 ewholesale-prod-ap.cf.app.ford.com
 ewholesale-prod-base.cf.app.ford.com
@@ -380,7 +381,6 @@ qamyfordbenefits.pp.cf.app.ford.com
 qavehicleremarketing.pp.cf.app.ford.com
 racing.ford.com
 rangeassist.pp.cf.app.ford.com
-recallreportingdashboard.ford.com
 redlb.ford.com
 reportingservicesqa.pp.cf.app.ford.com
 reports-qavehicleremarketing.pp.cf.app.ford.com
