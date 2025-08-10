@@ -8,6 +8,7 @@ accountedu.ford.com
 accountmanager-lincoln-qa.pp.cf.app.ford.com
 accountmanager-qa.pp.cf.app.ford.com
 accountmanager.ford.com
+accountmanager.qa.ford.com
 accountqa.ford.com
 accountx.ford.com
 achscorecard2.ford.com
@@ -606,7 +607,6 @@ gmm.ford.com
 gmmimds.ford.com
 goasis.ford.com
 gppm.ford.com
-gr.ford.com
 grassroots.ford.com
 gri-accessories.ford.com
 grid-prod-enrollment-broker.cf.app.ford.com
@@ -708,6 +708,12 @@ login.cl-dev01.cf.ford.com
 login.cl-sandbox01.cf.ford.com
 login.sys.cl-dev01.cf.ford.com
 login.sys.cl-west-sandbox01.cf.ford.com
+loginedu.caribe.ci.ford.com
+loginedu.centroamerica.ford.com
+loginedu.ford.com
+loginedu.india.ford.com
+loginedu.me.ford.com
+loginedu.ssa.ford.com
 lom.ford.com
 loyalty-webpages-bundle-stage-can.pp.cf.app.ford.com
 loyalty-webpages-bundle-stage-eu.pp.cf.app.ford.com
@@ -1939,7 +1945,6 @@ www.crm.ford.com
 www.csps.ford.com
 www.ctx.ford.com
 www.customsisf.ford.com
-www.datastage.ford.com
 www.dbp.ford.com
 www.ddl.ford.com
 www.ddltest.ford.com
@@ -1994,6 +1999,7 @@ www.esow.ford.com
 www.esp.ford.com
 www.espservices.ford.com
 www.etis.ford.com
+www.evlife.ford.com
 www.exportsystem.ford.com
 www.fafc.aims.ford.com
 www.fafcaims.ford.com
@@ -2299,10 +2305,10 @@ www.tagwebtrends.ford.com
 www.taxport.ford.com
 www.tc.ford.com
 www.tc2.ford.com
+www.tcoc.ford.com
 www.teamcenter2pdcloc1.ford.com
 www.teamcenterfoa1pe1.ford.com
 www.teamcenterfoe1pe1.ford.com
-www.techart.ford.com
 www.ter.ford.com
 www.tkb.ford.com
 www.tooling.ford.com
@@ -2616,6 +2622,7 @@ wwwdev.t.bp3a.ford.com
 wwwdev.t.bp3b.ford.com
 wwwdev.t.inventory.ford.com
 wwwdev.t.quickquote.ford.com
+wwwdev.tcoc.ford.com
 wwwdev.urs.ford.com
 wwwdev.vast.ford.com
 wwwdev.vdsftm.ford.com
@@ -2766,6 +2773,7 @@ wwwdrmg.dragonfly.ford.com
 wwwdrmg.secure.dragonfly.ford.com
 wwwedu-api-whs-gateway.pp.cf.app.ford.com
 wwwedu-blesswholesale.pp.cf.app.ford.com
+wwwedu-crid2-cr.cloud.app.ford.com
 wwwedu-dealer-assignments.pp.cf.app.ford.com
 wwwedu-dealercontact.pp.cf.app.ford.com
 wwwedu-dfysvc1.pp.cf.app.ford.com
@@ -3899,6 +3907,7 @@ wwwqamg5.ivs.ford.com
 wwwqatest.fordcreditbr.ford.com
 wwwrde.aem-engineering.ford.com
 wwwstg.aem-engineering.ford.com
+wwwstg.tcoc.ford.com
 wwwtest.mis.dearborn.ford.com
 wwwtest.qcp.fisbr.ford.com
 wwwtest.xnet.ford.com
