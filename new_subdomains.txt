@@ -452,6 +452,7 @@ edu.parts.ford.com
 eese.extsp.ford.com
 efris-test.pp.cf.app.ford.com
 ei.ford.com
+eiam-portal.ford.com
 emm.ford.com
 engine.ford.com
 enginev2.ford.com
