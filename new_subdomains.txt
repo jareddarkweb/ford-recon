@@ -479,6 +479,7 @@ ewholesale-prod-no.cf.app.ford.com
 ewholesale-prod-we.cf.app.ford.com
 export.ford.com
 extdns011.ford.com
+extdns019.ford.com
 f1.ford.com
 f2.ford.com
 fbms.ford.com
@@ -2113,7 +2114,6 @@ www.inventoryus.ford.com
 www.inventoryusa.ford.com
 www.inventoryusb.ford.com
 www.ip.ford.com
-www.irapuato.ford.com
 www.iteps.ford.com
 www.itms.ford.com
 www.itsms.ford.com
@@ -2467,6 +2467,7 @@ wwwdev.ei.ford.com
 wwwdev.ekbbooks.ford.com
 wwwdev.elibrary.ford.com
 wwwdev.enginev2.ford.com
+wwwdev.epsw.ford.com
 wwwdev.etis.ford.com
 wwwdev.fbms.ford.com
 wwwdev.fcsd-parts-na.ford.com
