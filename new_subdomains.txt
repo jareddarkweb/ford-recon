@@ -439,6 +439,7 @@ ecczws001.ecc3.ford.com
 ecczws001.md3.ford.com
 ecczws002.ecc3.ford.com
 ecczws002.md3.ford.com
+ecom-pp-tcop.ford.com
 ediscovery.ford.com
 ediscovery2.ford.com
 edms.ford.com
@@ -473,7 +474,6 @@ f1.ford.com
 f2.ford.com
 fbms.ford.com
 fca00006.pacheco.ford.com
-fcagile.ford.com
 fcas1700.fmc2.ford.com
 fcas505.fmc1.ford.com
 fcas797.dearborn.ford.com
@@ -548,6 +548,7 @@ fordbrandprotection.ford.com
 fordcl.ford.com
 fordclassic.ford.com
 fordcredit.ar.ford.com
+fordctt-edc1-qa.ford.com
 fordctt-edc1-qa.pp.cf.app.ford.com
 fordctt-edc2-qa.pp.cf.app.ford.com
 fordctt.cf.app.ford.com
@@ -1866,7 +1867,6 @@ www.axz.ford.com
 www.b2c.webmonitor.ford.com
 www.backlog.ford.com
 www.bcfap.ford.com
-www.bids.ford.com
 www.blueovalintelligence.ford.com
 www.bpfoc.ford.com
 www.bpfoca.ford.com
