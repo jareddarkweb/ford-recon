@@ -989,6 +989,7 @@ powershell.ford.com
 powershell.qad.ford.com
 preprod-api-focsalesops-dlr.pp.cf.app.ford.com
 preprod-vehicles-focsalesops-dlr.pp.cf.app.ford.com
+preprod.observability.sre.ford.com
 prodpublish.corporate.ford.com
 prodpublish.rrp.ford.com
 prodpublishmg.rrp.ford.com
@@ -1227,6 +1228,7 @@ shop.ford.com
 siliconvalley.ford.com
 sim.ford.com
 sims.ford.com
+simulation.wings.ford.com
 sip.ford.com
 sipinternal.ford.com
 sitescope13.ford.com
