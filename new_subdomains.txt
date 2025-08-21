@@ -295,6 +295,7 @@ carsadmin.ford.com
 celldash.ford.com
 centraldevendas.ford.com
 cfa.ford.com
+china-cvas-utility-prod.ford.com
 cl-dev01.cf.ford.com
 cl-sandbox01.cf.ford.com
 cl-west-sandbox01.cf.ford.com
@@ -676,7 +677,6 @@ iotazipbinaries.ford.com
 ip.ford.com
 ita53500.b2d.ford.com
 ita57100.b2d.ford.com
-itsd.ford.com
 itsms.ford.com
 ivis2.ford.com
 ivis3.ford.com
@@ -2326,13 +2326,13 @@ www.vmacs.ford.com
 www.vms.ford.com
 www.vo.ford.com
 www.voarg.ford.com
-www.vofis.ford.com
 www.volunteer.ford.com
 www.volvocarstechinfo.ford.com
 www.vrhub.ford.com
 www.vrmedia.ford.com
 www.vsem.ford.com
 www.vsemweb.ford.com
+www.vsms.ford.com
 www.warranty.ford.com
 www.warrantyauthoring.ford.com
 www.warrantybre.ford.com
@@ -2342,6 +2342,7 @@ www.warrantyclaimsnat.ford.com
 www.warrantyprocessing.ford.com
 www.warriorsinpink.ford.com
 www.wayforward.ford.com
+www.web.cmmseddl.ford.com
 www.webconnect.ford.com
 www.webdefects.ford.com
 www.webexsso.ford.com
