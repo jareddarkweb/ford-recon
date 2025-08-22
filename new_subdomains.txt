@@ -55,6 +55,8 @@ ahovp125-vpnau1.ford.com
 alexamfm-asdn-uat.ford.com
 alexamfm-asdn.ford.com
 alexaremotelogin.ford.com
+allaboard-entraid.ford.com
+allaboard-entraid.prod.cf.app.ford.com
 alpha-match.ford.com
 am-client-qa-credit-am-eu.pp.cf.app.ford.com
 am-cloc-request-increase-prod.ford.com
@@ -1341,6 +1343,7 @@ vert10-ext-prf.na.gcp.ford.com
 vert10-ext-qat.na.gcp.ford.com
 vert10-ext-stg.na.gcp.ford.com
 vert10-int-dev.pivpn.na.gcp.ford.com
+vert10-int-prd.pivpn.na.gcp.ford.com
 vert10-int-prf.pivpn.na.gcp.ford.com
 vert10-int-qat.pivpn.na.gcp.ford.com
 vert10-int-stg.pivpn.na.gcp.ford.com
@@ -1970,6 +1973,7 @@ www.eccoetd.ford.com
 www.ecpars.ford.com
 www.ecrm.ford.com
 www.ects.ford.com
+www.ectsusermanual.ford.com
 www.ediscovery.ford.com
 www.ediscovery2.ford.com
 www.edms.ford.com
@@ -2016,7 +2020,6 @@ www.fleetus.ford.com
 www.fleetusa.ford.com
 www.fleetusb.ford.com
 www.flexenroll.ford.com
-www.fma.ford.com
 www.fmms.ford.com
 www.fomei.ford.com
 www.fomonbase.ford.com
@@ -2077,6 +2080,7 @@ www.hronline2.ford.com
 www.idea.ford.com
 www.ideaplace.ford.com
 www.imagine.ford.com
+www.imagineltse-gcp.ford.com
 www.imcs.ford.com
 www.imcsprod.ford.com
 www.imgservices.ford.com
@@ -3409,6 +3413,7 @@ wwwqa.ddl.ford.com
 wwwqa.ddltest.ford.com
 wwwqa.decisionmgr.ext.ford.com
 wwwqa.decisionmgr.ford.com
+wwwqa.digitalmpl.ford.com
 wwwqa.dorf.ford.com
 wwwqa.download-gam.ford.com
 wwwqa.dps.ford.com
