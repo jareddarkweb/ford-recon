@@ -587,7 +587,6 @@ fravp125-vpneu1.ford.com
 fse-ai-search.ford.com
 fsm.ford.com
 fup.fsn.ford.com
-ga.ford.com
 gam.ford.com
 gcat2.ford.com
 gcct-preprod.pp.cf.app.ford.com
@@ -806,6 +805,7 @@ myvpn.ford.com
 na-copy-qa.pp.cf.app.ford.com
 na-standalone-gateway-qa.pp.cf.app.ford.com
 na-standalone-gateway.prod.cf.app.ford.com
+na-standalone-gateway.qa.ford.com
 na.fps.ford.com
 na.fpsqa.ford.com
 naecas01.exchange.ford.com
@@ -1339,6 +1339,7 @@ ve.ford.com
 vert05-ext-prd.na.gcp.ford.com
 vert05-int-prd.pivpn.na.gcp.ford.com
 vert10-ext-dev.na.gcp.ford.com
+vert10-ext-prd.na.gcp.ford.com
 vert10-ext-prf.na.gcp.ford.com
 vert10-ext-qat.na.gcp.ford.com
 vert10-ext-stg.na.gcp.ford.com
@@ -1961,6 +1962,7 @@ www.eassets.ford.com
 www.ebcm.ford.com
 www.ebcmws.ford.com
 www.eblesscaps.ford.com
+www.eblesscapswe.ford.com
 www.ecco-external.ford.com
 www.ecco.ford.com
 www.eccoadmin.ford.com
@@ -2074,7 +2076,6 @@ www.gsps.ford.com
 www.gttc.ford.com
 www.hdds2.ford.com
 www.hmm.ford.com
-www.hrdw.ford.com
 www.hronline.ford.com
 www.hronline2.ford.com
 www.idea.ford.com
@@ -2265,7 +2266,6 @@ www.servicesusb.ford.com
 www.servis2.ford.com
 www.servis2nat1.ford.com
 www.shareholder.ford.com
-www.shc.ford.com
 www.shoppingtools.ford.com
 www.sibmon.ford.com
 www.silas.ford.com
@@ -2273,7 +2273,6 @@ www.sim.ford.com
 www.simba.ford.com
 www.sims.ford.com
 www.sims1.ford.com
-www.snurk2.ford.com
 www.spdqssupplierapi.ford.com
 www.speedy.ford.com
 www.sps.ford.com
@@ -3411,6 +3410,8 @@ wwwqa.dbp3.ford.com
 wwwqa.dbp4.ford.com
 wwwqa.ddl.ford.com
 wwwqa.ddltest.ford.com
+wwwqa.dealerhub-fcsd-cx-ddt.ford.com
+wwwqa.dealerhub-salescontest.ford.com
 wwwqa.decisionmgr.ext.ford.com
 wwwqa.decisionmgr.ford.com
 wwwqa.digitalmpl.ford.com
