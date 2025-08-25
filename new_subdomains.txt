@@ -1294,7 +1294,6 @@ team.sp.ford.com
 teamcenter2pdcloc1.ford.com
 teamcenterfoa1pe1.ford.com
 techart.ford.com
-techlounge.ford.com
 telematicsqa-safleet.pp.cf.app.ford.com
 test-monitor.pp.cf.app.ford.com
 test.accessories.ford.com
@@ -1311,6 +1310,7 @@ touch.origin.india.ford.com
 touch.secure.ford.com
 touch.secure.india.ford.com
 trackey.ford.com
+tradein-qa.ford.com
 traffic.ford.com
 trafficq.ford.com
 trmoedu-ici.pp.cf.app.ford.com
@@ -2306,6 +2306,7 @@ www.ter.ford.com
 www.tkb.ford.com
 www.tooling.ford.com
 www.trackey.ford.com
+www.tradein-qa.ford.com
 www.tvs.fsao.ford.com
 www.urs.ford.com
 www.us.fleet.ford.com
