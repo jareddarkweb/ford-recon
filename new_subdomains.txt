@@ -15,7 +15,6 @@ achscorecard2.ford.com
 acsy.ford.com
 acsy.qad.ford.com
 action.ford.com
-adcsm.ford.com
 addonprovider.ford.com
 admin-gam.ford.com
 adminqa-perks-agenda.pp.cf.app.ford.com
@@ -165,6 +164,7 @@ api-uat-tfoams.pp.cf.app.ford.com
 api-uat-vehicleinfo-gtacng-dlr.pp.cf.app.ford.com
 api-uat-vehiclesetup-isis.pp.cf.app.ford.com
 api-webex-portal-service-test-webexteams.pp.cf.app.ford.com
+api.agenda.ford.com
 api.engvert.ford.com
 api.is.ford.com
 api.mps.ford.com
@@ -607,7 +607,6 @@ gmm.ford.com
 gmmimds.ford.com
 goasis.ford.com
 gppm.ford.com
-grassroots.ford.com
 gri-accessories.ford.com
 grid-stage-demand-management.cf.app.ford.com
 gsec.ford.com
@@ -1295,7 +1294,6 @@ team.extsp.ford.com
 team.sp.ford.com
 teamcenter2pdcloc1.ford.com
 teamcenterfoa1pe1.ford.com
-techart.ford.com
 telematicsqa-safleet.pp.cf.app.ford.com
 test-monitor.pp.cf.app.ford.com
 test.accessories.ford.com
@@ -1834,6 +1832,7 @@ www-pandaprod2.app.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
 www-spdqssupplierapi.prod.cf.app.ford.com
+www-terhome.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
 www.360.ford.com
@@ -2306,9 +2305,11 @@ www.teamcenter2pdcloc1.ford.com
 www.teamcenterfoa1pe1.ford.com
 www.teamcenterfoe1pe1.ford.com
 www.ter.ford.com
+www.terhome.ford.com
 www.tkb.ford.com
 www.tooling.ford.com
 www.trackey.ford.com
+www.tracklite.ford.com
 www.tradein-qa.ford.com
 www.tvs.fsao.ford.com
 www.urs.ford.com
@@ -3408,6 +3409,7 @@ wwwqa.cpmdpublish.ford.com
 wwwqa.cpmds.ford.com
 wwwqa.credit.ford.com
 wwwqa.credit.lincoln.ford.com
+wwwqa.crm-service.ford.com
 wwwqa.crm.ford.com
 wwwqa.csps.ford.com
 wwwqa.ctx.ford.com
