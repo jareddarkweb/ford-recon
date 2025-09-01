@@ -979,6 +979,7 @@ parts.me.ford.com
 pcm.ford.com
 perf-ocpp-gcp.pp.cf.app.ford.com
 perf.alexaremotelogin.ford.com
+perf.api.mps.ford.com
 performanceparts.ford.com
 perksqa-agenda.pp.cf.app.ford.com
 planning-tools-data-api-dev.pp.cf.app.ford.com
@@ -1998,6 +1999,7 @@ www.esow.ford.com
 www.esp.ford.com
 www.espservices.ford.com
 www.etis.ford.com
+www.eumano.ford.com
 www.evlife.ford.com
 www.exportsystem.ford.com
 www.fafc.aims.ford.com
@@ -2360,7 +2362,6 @@ www.webfocus.ford.com
 www.webfocus7.ford.com
 www.webquote.ford.com
 www.webquote1.ford.com
-www.webvat.ford.com
 www.wfsharebi.ford.com
 www.wfsharebi1.ford.com
 www.wfsharebi2.ford.com
