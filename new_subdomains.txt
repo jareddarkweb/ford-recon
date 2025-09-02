@@ -183,6 +183,7 @@ apicollector-stage-gcp.ford.com
 apideveloper.app.ford.com
 apideveloperdev.app.ford.com
 apideveloperqa.app.ford.com
+apiguide.cf.app.ford.com
 apiqa-agenda.pp.cf.app.ford.com
 apl900359-hosts-cloud.app.ford.com
 apl900360-hosts-cloud.app.ford.com
@@ -2316,6 +2317,8 @@ www.tradein-qa.ford.com
 www.tvs.fsao.ford.com
 www.urs.ford.com
 www.us.fleet.ford.com
+www.ushourlyw2online.ford.com
+www.usw2online.ford.com
 www.vanityurl.ford.com
 www.vast.ford.com
 www.vcservices.ford.com
