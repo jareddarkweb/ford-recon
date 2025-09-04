@@ -38,10 +38,8 @@ agenda-owners-apiqa-agenda.pp.cf.app.ford.com
 agenda-schedules-apiqa-agenda.pp.cf.app.ford.com
 agenda-scheduling-apiqa-agenda.pp.cf.app.ford.com
 agenda-users-apiqa-agenda.pp.cf.app.ford.com
-agenda-workshop-api-agenda.prod.cf.app.ford.com
 agenda-workshop-apiqa-agenda.pp.cf.app.ford.com
 agenda-workshop-uiqa-agenda.pp.cf.app.ford.com
-agenda-workshop.api.agenda.ford.com
 agenda.ford.com
 ahcvp124-vpnin1.ford.com
 ahcvp125-vpnin1.ford.com
@@ -164,6 +162,7 @@ api.agenda.ford.com
 api.engvert.ford.com
 api.is.ford.com
 api.ops.ford.com
+api.perks.agenda.ford.com
 api.pivpn.engvert.ford.com
 api.pivpn.ops.ford.com
 api.pivpn.service.ford.com
@@ -465,6 +464,7 @@ esqa.brandsites.ford.com
 etis.ford.com
 etis.warley.ford.com
 eused-web.pp.cf.app.ford.com
+evss-global2.prod.cf.app.ford.com
 export.ford.com
 extdns011.ford.com
 extdns019.ford.com
@@ -593,6 +593,7 @@ gems.ford.com
 geos.ford.com
 gep-preprod.pp.cf.app.ford.com
 gforce.ford.com
+gha.ford.com
 gicc.ford.com
 gmm.ford.com
 gmmimds.ford.com
@@ -970,6 +971,7 @@ parts.ford.com
 parts.india.ford.com
 parts.me.ford.com
 pcm.ford.com
+pd1020-gha.ford.com
 perf-ocpp-gcp.pp.cf.app.ford.com
 perf.alexaremotelogin.ford.com
 perf.api.mps.ford.com
@@ -1520,6 +1522,7 @@ webdev.erma.ford.com
 webdev.fsavinlists.ford.com
 webdev.fsli.ford.com
 webdev.gcamp.ford.com
+webdev.gcp.isis.ford.com
 webdev.gpae.ford.com
 webdev.gpirsddl.ford.com
 webdev.hronline.ford.com
@@ -1990,6 +1993,7 @@ www.exportsystem.ford.com
 www.fafc.aims.ford.com
 www.fafcaims.ford.com
 www.faia.ford.com
+www.fav.ford.com
 www.fbms.ford.com
 www.fcdms-ext.ford.com
 www.fcs.ford.com
@@ -2169,7 +2173,6 @@ www.panda.ford.com
 www.pandap.ford.com
 www.pandaq.ford.com
 www.pandaqa.ford.com
-www.partner.ford.com
 www.password.ford.com
 www.pcm.ford.com
 www.pcmsds.ford.com
@@ -2348,7 +2351,6 @@ www.wfsharebi1.ford.com
 www.wfsharebi2.ford.com
 www.wlrr.ford.com
 www.workingcondition.ford.com
-www.wq.ford.com
 www.wsi.ford.com
 www.wsl-federation.ford.com
 www.wsl-federatione.ford.com
@@ -3358,6 +3360,7 @@ wwwqa.bpusb.ford.com
 wwwqa.brandauthorus.ford.com
 wwwqa.brandauthorusa.ford.com
 wwwqa.brandauthorusb.ford.com
+wwwqa.brandsites.ford.com
 wwwqa.build.ford.com
 wwwqa.cafe.ford.com
 wwwqa.canada.fleet.ford.com
@@ -3443,6 +3446,7 @@ wwwqa.esow.ford.com
 wwwqa.etis.ford.com
 wwwqa.exportsystem.ford.com
 wwwqa.fafc.aims.ford.com
+wwwqa.fav.ford.com
 wwwqa.fbms.ford.com
 wwwqa.fcs.ford.com
 wwwqa.fcsd-parts-na.ford.com
