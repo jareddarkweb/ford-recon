@@ -167,7 +167,6 @@ api.pivpn.engvert.ford.com
 api.pivpn.ops.ford.com
 api.pivpn.service.ford.com
 api.pivpn.vehicle.ford.com
-api.service.ford.com
 api.vehicle.ford.com
 apicollector-gcp.ford.com
 apicollector-stage-gcp.ford.com
@@ -308,7 +307,6 @@ companyvehicles.ford.com
 competencycenter.ford.com
 concesionarios.ford.com
 consentinfo.ford.com
-console-openshift-console.apps.pd11.edc.caas.ford.com
 contacts.stmmw.ford.com
 contrack.ford.com
 corp.sts.ford.com
@@ -323,7 +321,6 @@ corptest-sts-ext.pp.cf.app.ford.com
 cotus.ford.com
 cotusa.ford.com
 cotusb.ford.com
-covid19survey.cf.app.ford.com
 cpmds.ford.com
 credit.ford.com
 credito.ford.com
@@ -340,6 +337,7 @@ dataexplorer-service-stg.pp.cf.app.ford.com
 dataexplorer.pp.cf.app.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
 ddl.ford.com
+ddt.ford.com
 dealer.agenda.ford.com
 dealer.wcccs.ford.com
 dealer.webconnect.ford.com
@@ -455,7 +453,6 @@ es-m.ford.com
 es.bp3.ford.com
 es.brandsites.ford.com
 es.ford.com
-es.local.ford.com
 es.owner.ford.com
 es.quickquote.ford.com
 esmart2.ford.com
@@ -681,6 +678,7 @@ ivisb.ford.com
 ivs.ford.com
 ivssqa.security.ford.com
 jfrog-guide.ford.com
+jfrogqa.ford.com
 jwesvs93.jaguar.ford.com
 lcs.ford.com
 lcs2.ford.com
@@ -785,7 +783,6 @@ mqa.ford.com
 mqa1cntest.cv.ford.com
 mqa2.ford.com
 mqacntest.cv.ford.com
-msg.ford.com
 mt.bp3.ford.com
 mt.bp3a.ford.com
 mt.bp3b.ford.com
@@ -1931,11 +1928,13 @@ www.customsisf.ford.com
 www.dbp.ford.com
 www.ddl.ford.com
 www.ddltest.ford.com
+www.ddt.ford.com
 www.dealer.wcccs.ford.com
 www.dealer.webconnect.ford.com
 www.decisionmgr.ext.ford.com
 www.decisionmgr.ford.com
 www.designsystem.ford.com
+www.dev.datainterfacedashboard.adas.ford.com
 www.dev.mvl-cam.ford.com
 www.developer.ford.com
 www.dorf.ford.com
@@ -1980,7 +1979,6 @@ www.ekbbooks.ford.com
 www.elibrary.ford.com
 www.engine.ford.com
 www.enginev2.ford.com
-www.epsw.ford.com
 www.esmart2.ford.com
 www.esow.ford.com
 www.esp.ford.com
@@ -2136,7 +2134,6 @@ www.mymustang.ford.com
 www.myogc.ford.com
 www.myplan.ford.com
 www.myreleases.ford.com
-www.na.fleet.ford.com
 www.nasapi-service-jsp-orchestrator.ford.com
 www.nasapi-service-validation.ford.com
 www.netops.ford.com
@@ -3708,6 +3705,15 @@ wwwqa.wslf.ford.com
 wwwqa.wss.ford.com
 wwwqa.xsbeurope.ford.com
 wwwqa2.ford.com
+wwwqa3.brandauthoruslb.ford.com
+wwwqa3.brandcalb.ford.com
+wwwqa3.branduslb.ford.com
+wwwqa3.buyfordnowuslb.ford.com
+wwwqa3.fr.brandcalb.ford.com
+wwwqa3.fr.shopcalb.ford.com
+wwwqa3.shopcalb.ford.com
+wwwqa3.shopuslb.ford.com
+wwwqa3.vdmnalb.ford.com
 wwwqaa.inventory.ford.com
 wwwqaa.quickquote.ford.com
 wwwqaac.accountlb.ford.com
