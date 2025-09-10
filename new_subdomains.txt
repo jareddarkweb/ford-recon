@@ -288,6 +288,7 @@ carsadmin.ford.com
 centraldevendas.ford.com
 cfa.ford.com
 china-cvas-utility-prod.ford.com
+china-eg-dev.ford.com
 cl-dev01.cf.ford.com
 cl-sandbox01.cf.ford.com
 cl-west-sandbox01.cf.ford.com
@@ -353,6 +354,7 @@ dev-raw.pp.cf.app.ford.com
 dev-retroquest.pp.cf.app.ford.com
 dev.canada.fleet.ford.com
 dev.fleet.ford.com
+dev.glb.ford.com
 dev.managesync.ford.com
 dev01.test.accessories.ford.com
 dev02.test.accessories.ford.com
@@ -616,10 +618,6 @@ hronline2.ford.com
 hrweb.chongqing.ford.com
 hrweb.chongqing2.ford.com
 hterqa.pp.cf.app.ford.com
-ial-inventory.ford.com
-ial-inventory.prod.cf.app.ford.com
-ial-protection-plans.ford.com
-ial-protection-plans.prod.cf.app.ford.com
 ial-warranty.ford.com
 iam.ford.com
 image.msg.ford.com
@@ -667,7 +665,6 @@ inventoryfoc.ford.com
 inventorymfoc.ford.com
 inventorymus.ford.com
 inventoryus.ford.com
-iotazipbinaries.ford.com
 ip.ford.com
 ita53500.b2d.ford.com
 ita57100.b2d.ford.com
@@ -789,6 +786,7 @@ mt.bp3b.ford.com
 mviper.ford.com
 mycareer.ford.com
 myfordvehicles.ford.com
+mylearning.ford.com
 myreleases.ford.com
 myreleasesedu.ford.com
 myreleasesqa.ford.com
@@ -1345,6 +1343,7 @@ vmacs.ford.com
 vms.ford.com
 voarg.ford.com
 volunteer.ford.com
+vp-vcps-china-preprod.ford.com
 vpnap1.ford.com
 vpnap2.ford.com
 vpnap3.ford.com
@@ -1764,7 +1763,6 @@ webqamg3.sfq.ford.com
 webqamg3.spbom.ford.com
 webqamg3.supplierdirectory.ford.com
 webqamg3.vis.ford.com
-webtest2.pp.cf.app.ford.com
 webvpn.ford.com
 webvpn.partner.ford.com
 webvpn1.partner.ford.com
@@ -2130,12 +2128,14 @@ www.mustangcustomizerservices.ford.com
 www.mviper.ford.com
 www.mycareer.ford.com
 www.myfordvehicles.ford.com
+www.mylearning.ford.com
 www.mymustang.ford.com
 www.myogc.ford.com
 www.myplan.ford.com
 www.myreleases.ford.com
 www.nasapi-service-jsp-orchestrator.ford.com
 www.nasapi-service-validation.ford.com
+www.netcomsecurityaccess.ford.com
 www.netops.ford.com
 www.ngauthor.ford.com
 www.ngpcms01.ford.com
@@ -2312,6 +2312,7 @@ www.vdstopl.ford.com
 www.vdsuk.ford.com
 www.ve.ford.com
 www.vector.ford.com
+www.vehiclecybersecurityaccess.ford.com
 www.vfs.ford.com
 www.vhconnect.ford.com
 www.vhi.fsao.ford.com
@@ -2415,6 +2416,8 @@ wwwdev.brandauthorusa.ford.com
 wwwdev.cafe.ford.com
 wwwdev.capacityplanning.ford.com
 wwwdev.capacityplanning2.ford.com
+wwwdev.careers.ford.com
+wwwdev.careerslb.ford.com
 wwwdev.carsadmin.ford.com
 wwwdev.clw.ford.com
 wwwdev.clwa.ford.com
@@ -2508,6 +2511,7 @@ wwwdev.kdes.ford.com
 wwwdev.lom.ford.com
 wwwdev.m.inventory.ford.com
 wwwdev.m.quickquote.ford.com
+wwwdev.mediaredesignlb.ford.com
 wwwdev.mk.ford.com
 wwwdev.mt.bp3.ford.com
 wwwdev.mt.bp3a.ford.com
