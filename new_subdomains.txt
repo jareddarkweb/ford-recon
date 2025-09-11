@@ -618,7 +618,6 @@ hronline2.ford.com
 hrweb.chongqing.ford.com
 hrweb.chongqing2.ford.com
 hterqa.pp.cf.app.ford.com
-ial-warranty.ford.com
 iam.ford.com
 image.msg.ford.com
 images.wwwqaac.preview.brandca.ford.com
@@ -794,7 +793,6 @@ mysite.sp.ford.com
 myvpn.ford.com
 na-copy-qa.pp.cf.app.ford.com
 na-standalone-gateway-qa.pp.cf.app.ford.com
-na-standalone-gateway.prod.cf.app.ford.com
 na-standalone-gateway.qa.ford.com
 na.fps.ford.com
 na.fpsqa.ford.com
@@ -967,6 +965,7 @@ parts.india.ford.com
 parts.me.ford.com
 pcm.ford.com
 pd1020-gha.ford.com
+pdi.ford.com
 perf-ocpp-gcp.pp.cf.app.ford.com
 perf.alexaremotelogin.ford.com
 perf.api.mps.ford.com
@@ -2954,6 +2953,7 @@ wwwint.brandauthorusa.ford.com
 wwwint.brandauthorusb.ford.com
 wwwlnp-edu-gtac-dlr.pp.cf.app.ford.com
 wwwlnp-edu-gtacng-dealerconnection.pp.cf.app.ford.com
+wwwlnp.warrantyprocessing.ford.com
 wwwmg-origin.ar.ford.com
 wwwmg.admin-gam.ford.com
 wwwmg.admintool.ford.com
@@ -3290,6 +3290,7 @@ wwwqa-onsite.pp.cf.app.ford.com
 wwwqa-orderpricingguides-dlr.pp.cf.app.ford.com
 wwwqa-ovs.pp.cf.app.ford.com
 wwwqa-panda.pp.cf.app.ford.com
+wwwqa-panda3q.app.ford.com
 wwwqa-raw.pp.cf.app.ford.com
 wwwqa-react-dlr.pp.cf.app.ford.com
 wwwqa-remitosdigitales.pp.cf.app.ford.com
@@ -3575,6 +3576,7 @@ wwwqa.onlinevehiclefinancing.ford.com
 wwwqa.ownerservices.ford.com
 wwwqa.ownerservicesa.ford.com
 wwwqa.ownerservicesb.ford.com
+wwwqa.panda3q.ford.com
 wwwqa.password.ford.com
 wwwqa.pcm.ford.com
 wwwqa.pcmsds.ford.com
