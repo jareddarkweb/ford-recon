@@ -67,9 +67,7 @@ api-commons-service-test-webexteams.pp.cf.app.ford.com
 api-d01e-gcp.pp.cf.app.ford.com
 api-dev-anypoint-sa.pp.cf.app.ford.com
 api-dev.engvert.ford.com
-api-dev.foundational.ford.com
 api-dev.pivpn.engvert.ford.com
-api-dev.pivpn.foundational.ford.com
 api-engd01e-gcp.pp.cf.app.ford.com
 api-engq01e-gcp.pp.cf.app.ford.com
 api-feedback-service-test-webexteams.pp.cf.app.ford.com
@@ -96,7 +94,6 @@ api-perf01e-gcp.pp.cf.app.ford.com
 api-perf01e-gcp2.pp.cf.app.ford.com
 api-preprod-swcm.pp.cf.app.ford.com
 api-prf.engvert.ford.com
-api-prf.foundational.ford.com
 api-prf.pivpn.engvert.ford.com
 api-prf.pivpn.foundational.ford.com
 api-qa-attachmentservices-tfoamsng.pp.cf.app.ford.com
@@ -1851,6 +1848,7 @@ www.apqp.ford.com
 www.aps.ford.com
 www.ar.ford.com
 www.armr.ford.com
+www.assets.ford.com
 www.at.ford.com
 www.atfordreg.ford.com
 www.atlas.ford.com
@@ -1989,7 +1987,6 @@ www.fafcaims.ford.com
 www.faia.ford.com
 www.fav.ford.com
 www.fbms.ford.com
-www.fcdms-ext.ford.com
 www.fcs.ford.com
 www.fcsd-parts-na.ford.com
 www.fcsd-parts-qa.ford.com
@@ -2365,6 +2362,13 @@ www.xsbeurope.ford.com
 www2.fcs.ford.com
 wwwa.inventory.ford.com
 wwwa.quickquote.ford.com
+wwwac.brandca.ford.com
+wwwac.brandus.ford.com
+wwwac.fr.brandca.ford.com
+wwwac.preview.brandca.ford.com
+wwwac.preview.brandus.ford.com
+wwwac.preview.fr.brandca.ford.com
+wwwac.preview.quicklanelb.ford.com
 wwwb.inventory.ford.com
 wwwb.quickquote.ford.com
 wwwdev-accessorizemyride.pp.cf.app.ford.com
