@@ -1807,6 +1807,7 @@ www-nasapi-service-validation.prod.cf.app.ford.com
 www-origin.ar.ford.com
 www-pandaprod.app.ford.com
 www-pandaprod2.app.ford.com
+www-pdorequestmgmnt.cloud.app.ford.com
 www-qa-myperformance.pp.cf.app.ford.com
 www-redlb.app.ford.com
 www-spdqssupplierapi.prod.cf.app.ford.com
@@ -2786,6 +2787,7 @@ wwwedu-oca-ford-ca.pp.cf.app.ford.com
 wwwedu-oca-lncnca.pp.cf.app.ford.com
 wwwedu-oca.pp.cf.app.ford.com
 wwwedu-paymentcalculator.pp.cf.app.ford.com
+wwwedu-pdorequestmgmnt.cloud.app.ford.com
 wwwedu-preapprovals-gcp.pp.cf.app.ford.com
 wwwedu-preapprovals.pp.cf.app.ford.com
 wwwedu-testcsps.pp.cf.app.ford.com
