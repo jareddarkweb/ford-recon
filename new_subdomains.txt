@@ -56,7 +56,6 @@ am-cloc-request-increase-prod.ford.com
 am-request-increase-cloc-qa.ford.com
 ampgfi.app.ford.com
 annualreport.ford.com
-ansible-guide.ford.com
 apdlr-qa.ecc1.ford.com
 apdlrvip1-prod.fmc1.ford.com
 api-away-message-service-test-webexteams.pp.cf.app.ford.com
@@ -326,6 +325,7 @@ cudlvip1-prod.fmc1.ford.com
 cudlvip2-prod.ecc1.ford.com
 customizerservices.ford.com
 customsisf.ford.com
+dad.app.gcp.ford.com
 dataexplorer-service-stg.pp.cf.app.ford.com
 dataexplorer.pp.cf.app.ford.com
 dataexplorerstg-ec.pp.cf.app.ford.com
@@ -1801,6 +1801,8 @@ www-fcsd-parts-ru.ecc1.ford.com
 www-fcsd-parts-ru.fmc1.ford.com
 www-fcwholesaledealer.prod.cf.app.ford.com
 www-geofencefistage.pp.cf.app.ford.com
+www-ivsngawc.app.ford.com
+www-ivsngawc1.app.ford.com
 www-nasapi-service-jsp-orchestrator-qa.pp.cf.app.ford.com
 www-nasapi-service-jsp-orchestrator.prod.cf.app.ford.com
 www-nasapi-service-validation.prod.cf.app.ford.com
@@ -2093,6 +2095,7 @@ www.ivis2.ford.com
 www.ivis3.ford.com
 www.ivisb.ford.com
 www.ivs.ford.com
+www.ivsngawc.ford.com
 www.jlrivs.ford.com
 www.kbi.fsao.ford.com
 www.kdes.ford.com
