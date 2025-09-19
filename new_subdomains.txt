@@ -159,6 +159,7 @@ api.pivpn.ops.ford.com
 api.pivpn.service.ford.com
 api.pivpn.vehicle.ford.com
 api.vehicle.ford.com
+apicatalog.ford.com
 apicollector-gcp.ford.com
 apicollector-stage-gcp.ford.com
 apideveloper.app.ford.com
@@ -823,7 +824,6 @@ ngauthor.ford.com
 ngpublisher.ford.com
 nguams.ford.com
 nmpdcglobal.ford.com
-nvc-nbuild.ford.com
 nvous.ford.com
 one.ford.com
 onesearch.cf.app.ford.com
