@@ -38,7 +38,9 @@ agenda-msgproducer-apiqa-agenda.pp.cf.app.ford.com
 agenda-owners-apiqa-agenda.pp.cf.app.ford.com
 agenda-schedules-apiqa-agenda.pp.cf.app.ford.com
 agenda-scheduling-apiqa-agenda.pp.cf.app.ford.com
+agenda-users-api-prod.apps.pd01e.edc1.cf.ford.com
 agenda-users-apiqa-agenda.pp.cf.app.ford.com
+agenda-users.api.agenda.ford.com
 agenda-workshop-apiqa-agenda.pp.cf.app.ford.com
 agenda-workshop-uiqa-agenda.pp.cf.app.ford.com
 agenda.ford.com
@@ -2125,7 +2127,6 @@ www.mymustang.ford.com
 www.myogc.ford.com
 www.myplan.ford.com
 www.myreleases.ford.com
-www.nasapi-service-jsp-orchestrator.ford.com
 www.nasapi-service-validation.ford.com
 www.netcomsecurityaccess.ford.com
 www.netops.ford.com
