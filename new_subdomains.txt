@@ -276,6 +276,7 @@ capmp-edu-v2.pp.cf.app.ford.com
 capmp-edu.pp.cf.app.ford.com
 careers.ford.com
 carsadmin.ford.com
+ccot-prod-ui.app.ford.com
 centraldevendas.ford.com
 cfa.ford.com
 china-cvas-utility-prod.ford.com
@@ -2245,6 +2246,7 @@ www.servicesusa.ford.com
 www.servicesusb.ford.com
 www.servis2.ford.com
 www.servis2nat1.ford.com
+www.sharedanalytics.ford.com
 www.shareholder.ford.com
 www.shoppingtools.ford.com
 www.sibmon.ford.com
