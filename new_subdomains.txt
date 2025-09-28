@@ -317,7 +317,6 @@ cotusb.ford.com
 cpmds.ford.com
 credit.ford.com
 credito.ford.com
-cs.ford.com
 csps.ford.com
 csr-portal-qa-credit-am-eu.pp.cf.app.ford.com
 cssoegw.ford.com
@@ -607,7 +606,6 @@ history.fp.agenda.ford.com
 history.fpdev.agenda.ford.com
 history.fpqa.agenda.ford.com
 hmec-260aadf5cbe4c77928c1fa17.ford.com
-hour-of-power-api.ford.com
 hronline.ford.com
 hronline2.ford.com
 hrweb.chongqing.ford.com
@@ -669,7 +667,6 @@ ivis3.ford.com
 ivisb.ford.com
 ivs.ford.com
 ivssqa.security.ford.com
-jfrog-guide.ford.com
 jfrogqa.ford.com
 jwesvs93.jaguar.ford.com
 lcs.ford.com
@@ -1816,6 +1813,7 @@ www-spdqssupplierapi.prod.cf.app.ford.com
 www-terhome.prod.cf.app.ford.com
 www-tradein-dev.pp.cf.app.ford.com
 www-tradein-qa.pp.cf.app.ford.com
+www-webcentergear.app.ford.com
 www.360.ford.com
 www.aal.ford.com
 www.accdocs.ford.com
@@ -2043,6 +2041,7 @@ www.gcat2.ford.com
 www.gcat3.ford.com
 www.gci.ford.com
 www.gcms.ford.com
+www.gearapi.ford.com
 www.gems.ford.com
 www.geos.ford.com
 www.ges.ford.com
@@ -2335,6 +2334,7 @@ www.warrantyprocessing.ford.com
 www.warriorsinpink.ford.com
 www.wayforward.ford.com
 www.web.cmmseddl.ford.com
+www.webcenter.gear.ford.com
 www.webconnect.ford.com
 www.webdefects.ford.com
 www.webexsso.ford.com
