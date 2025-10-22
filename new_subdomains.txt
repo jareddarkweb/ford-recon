@@ -310,6 +310,7 @@ dev-fppwbx-gcp.pp.cf.app.ford.com
 dev-fwbx-gcp.pp.cf.app.ford.com
 dev-raw.pp.cf.app.ford.com
 dev-retroquest.pp.cf.app.ford.com
+dev.ai.ford.com
 dev.canada.fleet.ford.com
 dev.fleet.ford.com
 dev.managesync.ford.com
@@ -3131,7 +3132,6 @@ wwwqa-ushourlyw2online.pp.cf.app.ford.com
 wwwqa-uspaystub.pp.cf.app.ford.com
 wwwqa-usw2online.pp.cf.app.ford.com
 wwwqa-vaccination.pp.cf.app.ford.com
-wwwqa-webexteams.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
