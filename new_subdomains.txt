@@ -155,6 +155,7 @@ apsupvip1-prod.fmc1.ford.com
 ar.ford.com
 artisan.cf.app.ford.com
 artisan.pp.cf.app.ford.com
+as226-gechub.app.ford.com
 as2mft26-gechub.app.ford.com
 as2mftqa26-gechub.app.ford.com
 as2qa26-gechub.app.ford.com
@@ -198,6 +199,7 @@ backoffice.agenda.ford.com
 bcca-hmpc-ingest-preprod.pp.cf.app.ford.com
 beta.accountmanager.ford.com
 blueovalintelligence.ford.com
+bodycontrols-testrail.app.ford.com
 bp2a.ford.com
 bp2dev.ford.com
 bp2deva.ford.com
@@ -314,6 +316,7 @@ dev.ai.ford.com
 dev.canada.fleet.ford.com
 dev.fleet.ford.com
 dev.managesync.ford.com
+dev.mfe.agenda.ford.com
 dev01.test.accessories.ford.com
 dev02.test.accessories.ford.com
 dev03.test.accessories.ford.com
@@ -1676,6 +1679,7 @@ www-cloc-application-service-qa.pp.cf.app.ford.com
 www-deliveryday-dev.pp.cf.app.ford.com
 www-deliveryday-qa.pp.cf.app.ford.com
 www-developerportal-stage-gcp.pp.cf.app.ford.com
+www-eams-rally-alignment-tool-dev.pp.cf.app.ford.com
 www-eams-rally-alignment-tool-qa.pp.cf.app.ford.com
 www-eblesscapswe-qa-ext-dlr.pp.cf.app.ford.com
 www-fccs-stg-gcp.pp.cf.app.ford.com
@@ -3128,10 +3132,6 @@ wwwqa-terhome.pp.cf.app.ford.com
 wwwqa-uace-dlr.pp.cf.app.ford.com
 wwwqa-unitedway.pp.cf.app.ford.com
 wwwqa-ushourlypaystub.pp.cf.app.ford.com
-wwwqa-ushourlyw2online.pp.cf.app.ford.com
-wwwqa-uspaystub.pp.cf.app.ford.com
-wwwqa-usw2online.pp.cf.app.ford.com
-wwwqa-vaccination.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
