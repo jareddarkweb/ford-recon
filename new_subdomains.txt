@@ -43,6 +43,7 @@ ahcvp124-vpnin1.ford.com
 ahcvp125-vpnin1.ford.com
 ahovp124-vpnau1.ford.com
 ahovp125-vpnau1.ford.com
+ai.ford.com
 alexamfm-asdn-uat.ford.com
 alexamfm-asdn.ford.com
 alexaremotelogin.ford.com
@@ -3131,7 +3132,6 @@ wwwqa-stackup.pp.cf.app.ford.com
 wwwqa-terhome.pp.cf.app.ford.com
 wwwqa-uace-dlr.pp.cf.app.ford.com
 wwwqa-unitedway.pp.cf.app.ford.com
-wwwqa-ushourlypaystub.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
