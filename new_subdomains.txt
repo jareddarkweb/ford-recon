@@ -329,6 +329,7 @@ developer.ford.com
 devpublish.rrp.ford.com
 devservices.cf.app.ford.com
 dialin.ford.com
+domain.acholayi.ford.com
 download-gam.ford.com
 dps.ford.com
 dragonfly.ford.com
@@ -3131,7 +3132,6 @@ wwwqa-srp.pp.cf.app.ford.com
 wwwqa-stackup.pp.cf.app.ford.com
 wwwqa-terhome.pp.cf.app.ford.com
 wwwqa-uace-dlr.pp.cf.app.ford.com
-wwwqa-unitedway.pp.cf.app.ford.com
 wwwqa.360.ford.com
 wwwqa.accdocs.ford.com
 wwwqa.accessories.ford.com
