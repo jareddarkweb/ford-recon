@@ -6116,6 +6116,7 @@ developerportal-stage.ford.com
 developerportal.ford.com
 developerqa.app.gcp.ford.com
 developers-test.saapi.ford.com
+developers.saapi.ford.com
 deven.penpot.ford.com
 devfcp.ford.com
 devfiles.ide.ford.com
