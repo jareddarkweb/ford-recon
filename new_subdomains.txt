@@ -2699,8 +2699,11 @@ apideveloperdev.app.ford.com
 apideveloperqa-vip-ashadc01-rprxy2-19.ash.ford.com
 apideveloperqa-vip-chiadc01-rprxy2-19.chi.ford.com
 apideveloperqa.app.ford.com
+apidsg.newdst.ford.com
 apidsg.newdstpp.ford.com
+apidsp.newdst.ford.com
 apidsp.newdstpp.ford.com
+apidst.newdst.ford.com
 apidst.newdstpp.ford.com
 apiedu-stars-employeeprofile-vip-ashadc07-cf-rprxy2-19.ash.ford.com
 apiedu-stars-employeeprofile-vip-chiadc07-cf-rprxy2-19.chi.ford.com
@@ -4819,6 +4822,7 @@ cmmstransactionsapi.ford.com
 cmmsvpp-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 cmmsvpp-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 cms.fafc.ford.com
+cms.newdst.ford.com
 cmweb-dev.app.gcp.ford.com
 cmweb-edu.app.gcp.ford.com
 cmweb-prod.app.gcp.ford.com
@@ -6287,6 +6291,7 @@ doesprod-does-prod.app.caas.ford.com
 doesqa-does-qa.app.caas.ford.com
 domain.acholayi.ford.com
 download.fgedst.ford.com
+downloaddsg.newdst.ford.com
 downloaddsg.newdstpp.ford.com
 dp-backend-vip-ashadc07-cf-rprxy2-19.ash.ford.com
 dp-backend-vip-chiadc07-cf-rprxy2-19.chi.ford.com
@@ -6412,6 +6417,7 @@ dsfm-service.ford.com
 dsfm-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 dsfm-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 dsfm.ford.com
+dsg.newdst.ford.com
 dsg.newdstpp.ford.com
 dsi-accountings-tpd-dlr-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 dsi-accountings-tpd-dlr-vip-chiadc07-cf-rprxy1-19.chi.ford.com
@@ -6420,6 +6426,7 @@ dsp-osb-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 dsp-osb.prod.cf.app.ford.com
 dsp.edu.fgedst.ford.com
 dsp.fgedst.ford.com
+dsp.newdst.ford.com
 dsp.newdstpp.ford.com
 dsp.osb.ford.com
 dsp.qa.fgedst.ford.com
@@ -6441,6 +6448,7 @@ dsrbe.ford.com
 dsrfe-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 dsrfe-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 dsrfe.ford.com
+dst.newdst.ford.com
 dst.newdstpp.ford.com
 dtabe-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 dtabe-vip-chiadc07-cf-rprxy1-19.chi.ford.com
@@ -11730,6 +11738,7 @@ msrreporting.ford.com
 mssdev-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 mssdev-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 mssdev.prod.cf.app.ford.com
+mstech-plateng-docs-dev.ford.com
 mstgcnapi.cv.ford.com
 mstgcnint.cv.ford.com
 mta.ar-mail.ford.com
@@ -11933,6 +11942,7 @@ netcomsecurityaccess-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 netops-jenkins-pd1300.ford.com
 neutralserver-jenkins-pd1300.ford.com
 nevada-jenkins-pd1300.ford.com
+newdst.ford.com
 newdstpp.ford.com
 newfordtech-edu-vip-ashadc01-rprxy2-19.ash.ford.com
 newfordtech-edu-vip-chiadc01-rprxy2-19.chi.ford.com
@@ -20696,6 +20706,7 @@ www-gearupload-lb.app.ford.com
 www-gearupload.app.ford.com
 www-geofencefistage.pp.cf.app.ford.com
 www-geos.app.ford.com
+www-gers.app.gcp.ford.com
 www-gesbpsbi.prod.cf.app.ford.com
 www-gfin.prod.cf.app.ford.com
 www-gfinservice-dlr.prod.cf.app.ford.com
@@ -22451,6 +22462,7 @@ www.geolocservicesauthlb.ford.com
 www.geolocserviceslb.ford.com
 www.geos.ford.com
 www.gerf.ford.com
+www.gers.ford.com
 www.gesautaiml-1.ford.com
 www.gesbcontractservice.ford.com
 www.gesbdataload.ford.com
@@ -23031,6 +23043,7 @@ www.msdb-qa-gcp.ford.com
 www.msdbgcp.ford.com
 www.msds.ford.com
 www.msrreporting.ford.com
+www.mstech-plateng-docs-dev.ford.com
 www.mtdc.synaos.ford.com
 www.mustangcustomizerservices.ford.com
 www.mvdataservice.ford.com
@@ -24299,6 +24312,7 @@ wwwdev-gear.app.ford.com
 wwwdev-gearupload-lb.app.ford.com
 wwwdev-gearupload.app.ford.com
 wwwdev-geos.app.ford.com
+wwwdev-gers.app.gcp.ford.com
 wwwdev-globalanalytics.app.ford.com
 wwwdev-globalownerlb.app.ford.com
 wwwdev-globaluptime.app.ford.com
@@ -24935,6 +24949,7 @@ wwwdev.gen.ford.com
 wwwdev.geolocserviceslb.ford.com
 wwwdev.geos-gcp.ford.com
 wwwdev.geos.ford.com
+wwwdev.gers.ford.com
 wwwdev.gesbcontractservice.ford.com
 wwwdev.gesbdataload.ford.com
 wwwdev.gesbpsbi.ford.com
@@ -27878,6 +27893,7 @@ wwwqa-gearapi.app.ford.com
 wwwqa-gearupload-lb.app.ford.com
 wwwqa-gearupload.app.ford.com
 wwwqa-geos.app.ford.com
+wwwqa-gers.app.gcp.ford.com
 wwwqa-gfinservice-dlr.pp.cf.app.ford.com
 wwwqa-globalaccountlb.app.ford.com
 wwwqa-globalownerlb.app.ford.com
@@ -28178,6 +28194,7 @@ wwwqa.api.vdls.ford.com
 wwwqa.api.whs.gateway.ford.com
 wwwqa.app.dealerpartnership.fmccdealeradvisor.ford.com
 wwwqa.apply.fce.ford.com
+wwwqa.apply.ford.com
 wwwqa.apt-gspas-gcpcaas.ford.com
 wwwqa.aptcom-gspas-gcpcaas.ford.com
 wwwqa.aqira.ford.com
@@ -28743,6 +28760,7 @@ wwwqa.gearupload.ford.com
 wwwqa.gen.ford.com
 wwwqa.geolocserviceslb.ford.com
 wwwqa.geos.ford.com
+wwwqa.gers.ford.com
 wwwqa.gesbcontractservice.ford.com
 wwwqa.gesbdataload.ford.com
 wwwqa.gesbpsbi.ford.com
