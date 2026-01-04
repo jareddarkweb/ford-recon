@@ -3925,6 +3925,7 @@ brnda-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 brnda.ford.com
 broadcast-metrics.webexteams.ford.com
 broadcast-webservices.ngavs.dcp.ford.com
+broadcast-webservices.ngavs.flatrock.ford.com
 broadcast-webservices.ngavs.michtruck.ford.com
 broadcast-webservices.ngavs.plantone.ford.com
 broker-0.kafka.cloudpak.ford.com
@@ -4429,6 +4430,8 @@ ccp.commandauth.ford.com
 ccpapp.ford.com
 ccqa.app.gcp.ford.com
 ccqa.ford.com
+ccslog.app.gcp.ford.com
+ccslog.ford.com
 ccvizlib2-vip-ashadc01-rprxy1-19.ash.ford.com
 ccvizlib2-vip-chiadc01-rprxy1-19.chi.ford.com
 cd.artifacts.ford.com
@@ -15345,6 +15348,8 @@ repoweb-testprod-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 repoweb-testprod-vip-ashadc07-cf-rprxy2-19.ash.ford.com
 repoweb-testprod-vip-chiadc07-cf-rprxy2-19.chi.ford.com
 repoweb.ford.com
+req-std-ai-backend-dev.ford.com
+req-std-ai-dev.ford.com
 reqsense.app.gcp.ford.com
 reqsense.ford.com
 reqsensepp.app.gcp.ford.com
@@ -24913,6 +24918,8 @@ www.remitosdigitales.ford.com
 www.remotepay.ford.com
 www.repairbay.ford.com
 www.repoweb.ford.com
+www.req-std-ai-backend-dev.ford.com
+www.req-std-ai-dev.ford.com
 www.reqsense.ford.com
 www.request-b2b.ford.com
 www.request.ford.com
