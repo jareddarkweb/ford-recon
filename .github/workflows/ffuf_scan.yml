@@ -1,0 +1,38 @@
+name: FFUF Subdomain Scan
+
+on:
+  workflow_dispatch: # Allows you to run this manually
+  push:
+    paths:
+      - 'new_subdomains.txt'
+
+jobs:
+  fuzz:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install FFUF
+        run: |
+          go install github.com/ffuf/ffuf/v2@latest
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+
+      - name: Pick 10 unique subdomains and Run FFUF
+        run: |
+          # 1. Shuffle the file, pick 10 unique lines, and save to a temp file
+          shuf -n 10 new_subdomains.txt | sort -u > targets.txt
+          
+          echo "Scanning the following targets:"
+          cat targets.txt
+          
+          # 2. Iterate through each subdomain and run ffuf
+          # We use a simple wordlist (common.txt) from a CDN for the fuzzing part
+          curl -s https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common.txt -o common.txt
+          
+          while IFS= read -r line; do
+            echo "---------------------------------------------------"
+            echo "Starting scan on: $line"
+            # Adjust the ffuf command parameters as needed
+            ffuf -u "https://$line/FUZZ" -w common.txt -mc 200,301,302 -t 50
+          done < targets.txt
