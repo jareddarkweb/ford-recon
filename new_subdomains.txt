@@ -2512,6 +2512,7 @@ api.pp20.caas.plantone.ford.com
 api.pp201.caas.gcp.ford.com
 api.pp35.caas.edc.ford.com
 api.pp37.caas.edc.ford.com
+api.pp40.caas.edc.ford.com
 api.pp50.caas.sh8.ford.com
 api.preprod.swcm.ford.com
 api.printer.fcdms.ford.com
@@ -3058,6 +3059,7 @@ apps.pp20.caas.plantone.ford.com
 apps.pp201.caas.gcp.ford.com
 apps.pp35.caas.edc.ford.com
 apps.pp37.caas.edc.ford.com
+apps.pp40.caas.edc.ford.com
 apps.pp50.caas.sh8.ford.com
 apps.pp505.caas.gcp.ford.com
 apps.pp511.caas.gcp.ford.com
@@ -12412,6 +12414,7 @@ ngavs.lap-qa.reports.ford.com
 ngavs.lap.reports.ford.com
 ngavs.louisville.ford.com
 ngavs.michtruck.ford.com
+ngavs.oakville.ford.com
 ngavs.plantone.ford.com
 ngavs.qa.ford.com
 ngavs.valencia.ford.com
@@ -15112,6 +15115,7 @@ rabbitmq.ngavs.glendale.ford.com
 rabbitmq.ngavs.kcatransit.ford.com
 rabbitmq.ngavs.louisville.ford.com
 rabbitmq.ngavs.michtruck.ford.com
+rabbitmq.ngavs.oakville.ford.com
 rabbitmq.ngavs.plantone.ford.com
 rabbitmq.ngavs.qa.ford.com
 rabbitmq.ngavs.valencia.ford.com
@@ -16821,6 +16825,7 @@ sustainablecharging.ford.com
 suup-vip-ashadc01-rprxy1-19.ash.ford.com
 suup-vip-chiadc01-rprxy1-19.chi.ford.com
 suup.ford.com
+sv2-dev.ford.com
 svc-dealoptimizer-fc-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 svc-dealoptimizer-fc-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 svc-dealoptimizer-fc.prod.cf.app.ford.com
@@ -25220,6 +25225,7 @@ www.surveys.webexteams.ford.com
 www.sustainability.ford.com
 www.sustainablecharging.ford.com
 www.suup.ford.com
+www.sv2-dev.ford.com
 www.svs.ford.com
 www.svs.fsao.ford.com
 www.svt.ford.com
@@ -26266,6 +26272,7 @@ wwwdev.dynamicrequestprocessing.ici.ford.com
 wwwdev.eams.ford.com
 wwwdev.earlyaccess.ford.com
 wwwdev.easierapproval.ford.com
+wwwdev.eassets.ford.com
 wwwdev.ebcm.ford.com
 wwwdev.ebcmpcf.ford.com
 wwwdev.ebcmws.ford.com
@@ -26884,6 +26891,7 @@ wwwdev.onsite.ford.com
 wwwdev.order-executor.dna.ford.com
 wwwdev.order-summary.dna.ford.com
 wwwdev.orderforecast-tdev.ford.com
+wwwdev.origination.fafc.ford.com
 wwwdev.otf-ui.ford.com
 wwwdev.otf.ford.com
 wwwdev.outdoorgateway.ford.com
@@ -27026,6 +27034,7 @@ wwwdev.rcc.ford.com
 wwwdev.receivematerialservices.ford.com
 wwwdev.redis.common.fafc.ford.com
 wwwdev.redis.dms.fafc.ford.com
+wwwdev.redis.origination.fafc.ford.com
 wwwdev.registry.iso9001.ford.com
 wwwdev.regulatoryprocessapi.ford.com
 wwwdev.remotepay.ford.com
@@ -29041,6 +29050,7 @@ wwwmg.suppcomm.ford.com
 wwwmg.svs.fsao.ford.com
 wwwmg.tvs.fsao.ford.com
 wwwmg.ve.ford.com
+wwwmg.vehdyn.ford.com
 wwwmg.vhi.fsao.ford.com
 wwwmg.vmacs.ford.com
 wwwmg.vo.ford.com
@@ -31559,6 +31569,7 @@ wwwqa.orch.wbdo.ford.com
 wwwqa.order-executor.dna.ford.com
 wwwqa.order-summary.dna.ford.com
 wwwqa.orderforecast.ford.com
+wwwqa.origination.fafc.ford.com
 wwwqa.otf-ui.ford.com
 wwwqa.otf.ford.com
 wwwqa.outdoorgateway.ford.com
