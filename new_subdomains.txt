@@ -6018,6 +6018,7 @@ dev.ici.ford.com
 dev.identitypanel.ford.com
 dev.ipda.ford.com
 dev.iqt.ford.com
+dev.jqapi.ford.com
 dev.labs.ford.com
 dev.litmus.ford.com
 dev.llm.ford.com
@@ -6062,6 +6063,7 @@ dev.sa-smart.ford.com
 dev.service-console.ford.com
 dev.service.ford.com
 dev.service.iqt.ford.com
+dev.servicehub.ext.ford.com
 dev.servicehub.ford.com
 dev.servicepanel.ford.com
 dev.services.cx.glb.ford.com
@@ -6671,6 +6673,7 @@ eapqpcmms.ford.com
 earlyaccess-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 earlyaccess-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 earlyaccess.ford.com
+eassets-perl.ford.com
 eassets.ford.com
 east.pd511.caas.gcp.ford.com
 east.pp511.caas.gcp.ford.com
@@ -16655,7 +16658,9 @@ stars-lbservices-edu-vip-ashadc07-cf-rprxy2-19.ash.ford.com
 stars-lbservices-edu-vip-chiadc07-cf-rprxy2-19.chi.ford.com
 stars-lbservices-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 stars-lbservices-vip-chiadc07-cf-rprxy1-19.chi.ford.com
+starsent03.ford.com
 starsent03.gcp.ford.com
+starsent04.ford.com
 starsxp-dealerconnection-com-edu-vip-ashadc07-cf-rprxy2-19.ash.ford.com
 starsxp-dealerconnection-com-edu-vip-chiadc07-cf-rprxy2-19.chi.ford.com
 starsxp-dealerconnection-com-vip-ashadc07-cf-rprxy1-19.ash.ford.com
@@ -21724,6 +21729,7 @@ www-fceu-xnet.prod.cf.app.ford.com
 www-fcfexco.prod.cf.app.ford.com
 www-fcnaaims-dealerconnection-com.cf.app.ford.com
 www-fcnaaims-dealerconnection-com.prod.cf.app.ford.com
+www-fcnaicela.cloud.app.ford.com
 www-fcnala.cloud.app.ford.com
 www-fcnaladev.cloud.app.ford.com
 www-fcnalaqa.cloud.app.ford.com
@@ -23212,6 +23218,7 @@ www.eapply.ford.com
 www.eapqpcmms.ford.com
 www.earlyaccess.ford.com
 www.easierapproval.ford.com
+www.eassets-perl.ford.com
 www.eassets.ford.com
 www.eatm-qa.ford.com
 www.ebcm.ford.com
@@ -26095,6 +26102,7 @@ wwwdev.cloc.de.fce.ford.com
 wwwdev.cloc.fce.ford.com
 wwwdev.cloudfileviewerapi.ford.com
 wwwdev.cloudoptimizer.ford.com
+wwwdev.cloudportal.ford.com
 wwwdev.clw.ford.com
 wwwdev.clwa.ford.com
 wwwdev.clwb.ford.com
@@ -26277,6 +26285,7 @@ wwwdev.dynamicrequestprocessing.ici.ford.com
 wwwdev.eams.ford.com
 wwwdev.earlyaccess.ford.com
 wwwdev.easierapproval.ford.com
+wwwdev.eassets-perl.ford.com
 wwwdev.eassets.ford.com
 wwwdev.ebcm.ford.com
 wwwdev.ebcmpcf.ford.com
@@ -30592,6 +30601,7 @@ wwwqa.bulkmailex.ford.com
 wwwqa.bunkai.ford.com
 wwwqa.businesscard.ford.com
 wwwqa.buy-gux-xapi.ford.com
+wwwqa.caas-ppmaudit.ford.com
 wwwqa.caas2.0.ardr.ford.com
 wwwqa.caasapi.caas.ford.com
 wwwqa.caasoptimizer.ford.com
@@ -30853,6 +30863,7 @@ wwwqa.dynatrace.ford.com
 wwwqa.eams.ford.com
 wwwqa.earlyaccess.ford.com
 wwwqa.earlyaccessbffserver.ford.com
+wwwqa.eassets-perl.ford.com
 wwwqa.eassets.ford.com
 wwwqa.ebcm.ford.com
 wwwqa.ebcmpcf.ford.com
