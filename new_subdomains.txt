@@ -2369,6 +2369,7 @@ api.pd1630.caas.gcp.ford.com
 api.pd1631.caas.gcp.ford.com
 api.pd1632.caas.gcp.ford.com
 api.pd1640.caas.gcp.ford.com
+api.pd1641.caas.gcp.ford.com
 api.pd18.caas.edc.ford.com
 api.pd19.caas.edc.ford.com
 api.pd201.caas.gcp.ford.com
@@ -2509,6 +2510,7 @@ api.pp1620.caas.gcp.ford.com
 api.pp18.caas.edc.ford.com
 api.pp19.caas.edc.ford.com
 api.pp20.caas.plantone.ford.com
+api.pp20.edex.dms.ford.com
 api.pp201.caas.gcp.ford.com
 api.pp35.caas.edc.ford.com
 api.pp37.caas.edc.ford.com
@@ -2952,6 +2954,7 @@ apps.pd1630.caas.gcp.ford.com
 apps.pd1631.caas.gcp.ford.com
 apps.pd1632.caas.gcp.ford.com
 apps.pd1640.caas.gcp.ford.com
+apps.pd1641.caas.gcp.ford.com
 apps.pd18.caas.edc.ford.com
 apps.pd19.caas.edc.ford.com
 apps.pd201.caas.gcp.ford.com
@@ -12419,6 +12422,7 @@ ng1h10301.f92.dc1.nglab.ford.com
 ng1h10302.f91.dc1.nglab.ford.com
 ng1h10302.f92.dc1.nglab.ford.com
 ngauthor.ford.com
+ngavs.boc.ford.com
 ngavs.ce1.ford.com
 ngavs.cuautitlan.ford.com
 ngavs.dcp.ford.com
@@ -14369,6 +14373,7 @@ pp1app4lb.app.ford.com
 pp1app5lb.app.ford.com
 pp1lb.app.ford.com
 pp20.auroramonitor.ford.com
+pp20.edex.dms.ford.com
 pp201.auroramonitor.ford.com
 pp35.auroramonitor.ford.com
 pp37.auroramonitor.ford.com
@@ -15801,6 +15806,7 @@ sawe-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 sb01.uscentral1.cf.gcp.ford.com
 sb01.useast4.cf.gcp.ford.com
 sb0100.auroramonitor.ford.com
+sb1022.auroramonitor.ford.com
 sbdoauto-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 sbdoauto-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 sbdobe-vip-ashadc07-cf-rprxy1-19.ash.ford.com
@@ -16422,6 +16428,7 @@ smart-auth.app.gcp.ford.com
 smart-home.app.gcp.ford.com
 smartauthqaqpi.ford.com
 smartcharging-jenkins-pd1300.ford.com
+smartcostcap.ford.com
 smartdev.caas.plantone.ford.com
 smartfma.ford.com
 smartfmapp.ford.com
@@ -17275,7 +17282,9 @@ tpd-dlr-preprod-vip-chiadc07-cf-rprxy2-19.chi.ford.com
 tpd-dlr-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 tpd-dlr-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 tpot-api-dev.app.gcp.ford.com
+tpot-api-qa.app.gcp.ford.com
 tpot-ext-dev.app.gcp.ford.com
+tpot-ext-qa.app.gcp.ford.com
 tpot-ng-dev.app.gcp.ford.com
 tpot-ng-prod-supp.cloud.app.ford.com
 tpot-ng-prod.app.gcp.ford.com
@@ -25178,6 +25187,7 @@ www.skids.ford.com
 www.slot.mfg.service.ford.com
 www.slpsp.ford.com
 www.smart-sa.ford.com
+www.smartcostcap.ford.com
 www.smartit.ford.com
 www.smartmanual.ford.com
 www.smartonboarding.ford.com
@@ -27179,6 +27189,7 @@ wwwdev.sjvsplan.ford.com
 wwwdev.skbs-eca.ford.com
 wwwdev.skbs-scr.ford.com
 wwwdev.slot.mfg.service.ford.com
+wwwdev.smartcostcap.ford.com
 wwwdev.smartengineering.ford.com
 wwwdev.smartpark.ford.com
 wwwdev.smh-gcp.ford.com
@@ -33671,9 +33682,11 @@ xpaedc1-dlr-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 xpaedc2-dlr-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 xpaedc2-dlr-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 xrilb-infra-cert-renewal-vert10-ext-pd.na.gcp.ford.com
+xrilb-infra-vert00-ext-pp.na.gcp.ford.com
 xrilb-infra-vert10-ext-pd.na.gcp.ford.com
 xrilb-infra-vert10-ext-pp.na.gcp.ford.com
 xrilb-vanity-api-dev.engvert.ford.com
+xrilb-vanity-api-pp.vert00.ford.com
 xrilb-vanity-api.engvert.ford.com
 xrilb-vanity-cert-renewal-api.engvert.ford.com
 xsbeurope-vip-ashadc07-cf-rprxy1-19.ash.ford.com
