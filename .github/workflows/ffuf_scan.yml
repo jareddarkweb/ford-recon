@@ -1,7 +1,7 @@
 name: FFUF Subdomain Scan
 
 on:
-  workflow_dispatch: # Allows you to run this manually
+  workflow_dispatch:
   push:
     paths:
       - 'new_subdomains.txt'
@@ -13,26 +13,37 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '>=1.21'
+
       - name: Install FFUF
         run: |
           go install github.com/ffuf/ffuf/v2@latest
           echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
 
-      - name: Pick 10 unique subdomains and Run FFUF
+      - name: Run FFUF Scan
         run: |
-          # 1. Shuffle the file, pick 10 unique lines, and save to a temp file
+          # Check if the file exists to prevent failure
+          if [ ! -f new_subdomains.txt ]; then
+            echo "Error: new_subdomains.txt not found!"
+            exit 1
+          fi
+
+          # 1. Pick 10 unique targets
           shuf -n 10 new_subdomains.txt | sort -u > targets.txt
           
           echo "Scanning the following targets:"
           cat targets.txt
           
-          # 2. Iterate through each subdomain and run ffuf
-          # We use a simple wordlist (common.txt) from a CDN for the fuzzing part
+          # 2. Get wordlist
           curl -s https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common.txt -o common.txt
           
-          while IFS= read -r line; do
+          # 3. Loop and Scan
+          while IFS= read -r line || [ -n "$line" ]; do
+            [ -z "$line" ] && continue
             echo "---------------------------------------------------"
             echo "Starting scan on: $line"
-            # Adjust the ffuf command parameters as needed
             ffuf -u "https://$line/FUZZ" -w common.txt -mc 200,301,302 -t 50
           done < targets.txt
